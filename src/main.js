@@ -24,7 +24,7 @@ function deckTile(d) {
   return `
     <li class="relative">
       <button data-deck="${d.id}" aria-pressed="${on}" style="${themeVars(d.index)}"
-        class="tile themed relative flex min-h-60 w-full flex-col overflow-hidden rounded-[2rem] border-[5px] p-5 text-left transition
+        class="tile themed relative flex h-[23rem] w-full flex-col overflow-hidden rounded-[2rem] border-[5px] p-5 text-left transition
           ${on ? 'border-white shadow-xl' : 'border-transparent opacity-45 hover:opacity-70'}">
         ${art(d.id)}
         <span class="relative block size-8 rounded-full" style="background:var(--dot)"></span>
@@ -92,7 +92,7 @@ function renderHome() {
               </div>
               ${
                 open
-                  ? `<ul class="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">${g.decks.map(deckTile).join('')}</ul>`
+                  ? `<ul class="mt-5 grid auto-rows-fr gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">${g.decks.map(deckTile).join('')}</ul>`
                   : ''
               }
             </section>`
