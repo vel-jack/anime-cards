@@ -1,0 +1,71 @@
+# Magic & the Clover Kingdom | The words that make it Black Clover
+# format:  romaji | japanese | english | optional note
+
+mahou | 魔法 | magic
+maryoku | 魔力 | magical power, mana
+madoushi | 魔道士 | mage
+Mahoutei | 魔法帝 | Wizard King | lit. "magic emperor"
+Mahou Kishidan | 魔法騎士団 | Magic Knights (the order)
+kishi | 騎士 | knight
+gurimowaaru | グリモワール | grimoire
+kuroobaa | クローバー | clover
+yotsuba | 四つ葉 | four-leaf (clover)
+ha | 葉 | leaf
+oukoku | 王国 | kingdom
+kuni | 国 | country
+ou | 王 | king
+kokuou | 国王 | king (of the country)
+joou | 女王 | queen
+ouzoku | 王族 | royalty
+kizoku | 貴族 | noble, aristocrat
+hinmin | 貧民 | peasant, the poor
+kokumin | 国民 | citizens, the people
+majin | 魔神 | demon (god)
+akuma | 悪魔 | devil
+majo | 魔女 | witch
+seirei | 精霊 | spirit
+erufu | エルフ | elf
+megami | 女神 | goddess
+densetsu | 伝説 | legend
+shodai | 初代 | the first (holder of a title)
+kyoukai | 教会 | church
+shinpu | 神父 | priest, Father
+shisutaa | シスター | Sister (nun)
+seishokusha | 聖職者 | member of the clergy
+mura | 村 | village
+sonchou | 村長 | village chief
+machi | 町 | town
+tokai | 都会 | the city
+miyako | 都 | capital
+sekai | 世界 | world
+mori | 森 | forest
+shinden | 神殿 | temple
+kaitei | 海底 | bottom of the sea
+tou | 塔 | tower
+ajito | アジト | hideout
+ken | 剣 | sword
+kusari | 鎖 | chain
+honoo | 炎 | flame
+mizu | 水 | water
+kaze | 風 | wind
+hikari | 光 | light
+yami | 闇 | darkness
+kuukan | 空間 | space | Finral's spatial magic
+zokusei | 属性 | attribute, element
+sousei | 創成 | creation | "Sousei Mahou" = creation magic
+kaifuku | 回復 | recovery, healing
+noroi | 呪い | curse
+tensei | 転生 | reincarnation
+henshin | 変身 | transformation
+kamen | 仮面 | mask
+roobu | ローブ | robe
+tsukaite | 使い手 | user, wielder
+juyo-shiki | 授与式 | awarding ceremony
+nyuudan | 入団 | joining a squad
+shiken | 試験 | exam
+goukaku | 合格 | passing (an exam)
+kouseki | 功績 | achievement, merit
+ninmu | 任務 | mission
+hoshi | 星 | star
+kouun | 幸運 | good luck
+unmei | 運命 | fate, destiny

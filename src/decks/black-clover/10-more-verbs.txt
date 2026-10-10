@@ -1,0 +1,147 @@
+# More Verbs | Verbs that keep coming up in episodes 52–102
+# format:  romaji | japanese | english | optional note
+
+mieru | 見える | to be visible, to appear
+ireru | 入れる | to put in, let in
+dasu | 出す | to take out, let out
+toru | 取る | to take
+kizutsukeru | 傷つける | to hurt, injure
+mezasu | 目指す | to aim for
+ugoku | 動く | to move
+kuu | 食う | to eat (rough)
+tsureru | 連れる | to bring along | "tsurete iku" = take (someone) with you
+koeru | 超える | to exceed, surpass
+shikakeru | 仕掛ける | to set (a trap), launch (an attack)
+ayatsuru | 操る | to manipulate, control
+kimaru | 決まる | to be decided
+damaru | 黙る | to be silent | "damare!" = shut up!
+osou | 襲う | to attack, assault
+naoru | 治る | to heal, get better
+agaru | 上がる | to rise, go up
+wasureru | 忘れる | to forget
+tobu | 飛ぶ | to fly, jump
+hanatsu | 放つ | to fire, release
+noru | 乗る | to ride, get on
+egaku | 描く | to draw, paint
+kesu | 消す | to erase, put out
+kowasu | 壊す | to break (something)
+nerau | 狙う | to aim at, target
+nigasu | 逃がす | to let escape
+kaku | 書く | to write
+chikazuku | 近づく | to approach
+fusegu | 防ぐ | to defend, block
+tanoshimu | 楽しむ | to enjoy
+mukaeru | 迎える | to welcome, go to meet
+tsuzuku | 続く | to continue
+nokoru | 残る | to remain
+hanekaesu | 跳ね返す | to repel, bounce back
+mitsukaru | 見つかる | to be found
+yomu | 読む | to read
+moeru | 燃える | to burn, be on fire
+fueru | 増える | to increase
+awaseru | 合わせる | to combine, match up
+deau | 出会う | to meet, encounter
+todoku | 届く | to reach, arrive
+kaeru | 変える | to change (something)
+ataru | 当たる | to hit, be on target
+okoru | 怒る | to get angry
+ou | 追う | to chase
+kau | 買う | to buy
+ataeru | 与える | to give, grant
+kizuku | 気づく | to notice
+noboru | 登る | to climb
+hajimeru | 始める | to begin (something)
+hanasu | 離す | to let go
+kurau | 食らう | to take (a hit); to eat (rough)
+ushinau | 失う | to lose
+uragiru | 裏切る | to betray
+tsukkomu | 突っ込む | to charge in
+okureru | 遅れる | to be late
+nemuru | 眠る | to sleep
+toku | 解く | to undo, solve
+waku | 湧く | to well up, spring forth
+akeru | 開ける | to open
+nozomu | 望む | to wish for
+semeru | 攻める | to attack, go on the offensive
+abareru | 暴れる | to rampage, go wild
+okoru | 起こる | to happen
+tatsu | 立つ | to stand
+asobu | 遊ぶ | to play
+ma ni au | 間に合う | to make it in time
+nukeru | 抜ける | to come out, slip through
+hikaru | 光る | to shine
+ageru | 上げる | to raise, lift
+kowareru | 壊れる | to break, be broken
+kurasu | 暮らす | to live (day to day)
+eru | 得る | to gain, obtain
+kuwaeru | 加える | to add
+tsukamaeru | 捕まえる | to catch
+kasu | 貸す | to lend
+tsukareru | 疲れる | to get tired
+yorokobu | 喜ぶ | to be glad
+tsuujiru | 通じる | to get through, be understood
+taeru | 耐える | to endure
+atsumaru | 集まる | to gather, assemble
+hanasu | 話す | to speak, talk
+saru | 去る | to leave, go away
+isogu | 急ぐ | to hurry
+medatsu | 目立つ | to stand out
+hatasu | 果たす | to fulfil, accomplish
+nuku | 抜く | to pull out, draw
+utsu | 撃つ | to shoot
+kataru | 語る | to tell, narrate
+suteru | 捨てる | to throw away, abandon
+ochiru | 落ちる | to fall
+hanareru | 離れる | to move away, part from
+motomeru | 求める | to seek, demand
+oku | 置く | to put, place
+tsukamaru | 捕まる | to be caught
+niau | 似合う | to suit, look good on
+kiku | 効く | to be effective, work
+omoidasu | 思い出す | to recall, remember
+kakeru | 駆ける | to run, dash
+saku | 裂く | to tear, rip
+hiku | 引く | to pull; to back off
+au | 合う | to fit, match
+okosu | 起こす | to wake (someone); to cause
+mawaru | 回る | to turn, go around
+idomu | 挑む | to challenge
+odoroku | 驚く | to be surprised
+sasu | 刺す | to stab
+kariru | 借りる | to borrow
+kanashimu | 悲しむ | to grieve, be sad
+uketomeru | 受け止める | to catch, take on
+homeru | 褒める | to praise
+yasumu | 休む | to rest
+ateru | 当てる | to hit (a target); to guess
+hazusu | 外す | to remove; to miss
+kotowaru | 断る | to refuse
+norou | 呪う | to curse
+osowaru | 教わる | to be taught
+nokosu | 残す | to leave behind
+tamesu | 試す | to try, test
+kikoeru | 聞こえる | to be audible, can hear
+otosu | 落とす | to drop
+misuteru | 見捨てる | to abandon, desert
+naguru | 殴る | to punch
+tsukaikonasu | 使いこなす | to master the use of
+kumu | 組む | to team up
+tsukusu | 尽くす | to devote oneself; to use up
+nanoru | 名乗る | to give one's name
+hashiru | 走る | to run
+tachiagaru | 立ち上がる | to stand up
+korobu | 転ぶ | to fall over
+chiru | 散る | to scatter, fall (petals)
+utagau | 疑う | to doubt, suspect
+kizutsuku | 傷つく | to get hurt
+kudakeru | 砕ける | to shatter
+umarekawaru | 生まれ変わる | to be reborn
+hipparu | 引っ張る | to pull, drag
+ou | 負う | to bear (a wound, a burden)
+modosu | 戻す | to put back, restore
+michibiku | 導く | to guide, lead
+omoitsuku | 思いつく | to think of, come up with
+yogoreru | 汚れる | to get dirty
+kakeru | 懸ける | to stake, risk | "inochi wo kakeru" = to risk one's life
+sumu | 済む | to be finished; to get by
+kakaru | かかる | to take (time); to come at | "kakatte koi!" = come at me!

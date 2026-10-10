@@ -1,0 +1,82 @@
+# People & Places | Who you meet and where you land
+# format:  romaji | japanese | english | optional note
+
+isha | 医者 | doctor
+gakusha | 学者 | scholar
+ousama | 王様 | king
+oujo | 王女 | princess
+ouhi | 王妃 | queen (consort)
+hime | 姫 | princess
+shujin | 主人 | master; husband
+onjin | 恩人 | benefactor, someone you owe
+otou-san | お父さん | father
+tou-chan | 父ちゃん | dad (casual)
+chichioya | 父親 | father
+hahaue | 母上 | mother (formal)
+nee-san | 姉さん | older sister
+nee-chan | 姉ちゃん | big sis; young lady
+ichizoku | 一族 | clan, family line
+ikka | 一家 | family, household
+shuzoku | 種族 | race, species
+sedai | 世代 | generation
+sessha | 拙者 | I, me (samurai speech)
+shousha | 勝者 | winner
+hentai | 変態 | pervert
+seibutsu | 生物 | living thing, organism
+tori | 鳥 | bird
+inu | 犬 | dog
+saru | 猿 | monkey
+hebi | 蛇 | snake
+shiro | 城 | castle
+yashiki | 屋敷 | mansion
+hiroba | 広場 | plaza, square
+kenkyuujo | 研究所 | laboratory
+koujou | 工場 | factory
+kichi | 基地 | base
+yousai | 要塞 | fortress
+toshi | 都市 | city
+tochi | 土地 | land
+daichi | 大地 | the earth, land
+jimen | 地面 | ground
+chika | 地下 | underground
+chijou | 地上 | above ground, the surface
+choujou | 頂上 | summit, the top
+iseki | 遺跡 | ruins
+tengoku | 天国 | heaven
+ibasho | 居場所 | whereabouts; a place to belong
+nigeba | 逃げ場 | way out, place to run
+iriguchi | 入り口 | entrance
+deguchi | 出口 | exit
+kaidan | 階段 | stairs
+tsuuro | 通路 | passage, corridor
+mon | 門 | gate
+tobira | 扉 | door
+kabe | 壁 | wall
+kagi | 鍵 | key
+ressha | 列車 | train
+kami | 神 | god
+hi | 火 | fire
+chi | 血 | blood
+hone | 骨 | bone
+hana | 鼻 | nose
+kami | 髪 | hair
+mune | 胸 | chest
+shinzou | 心臓 | heart (organ)
+zenshin | 全身 | the whole body
+namida | 涙 | tears
+iki | 息 | breath
+kage | 影 | shadow
+hana | 花 | flower
+ishi | 石 | stone
+tetsu | 鉄 | iron
+oto | 音 | sound
+kagami | 鏡 | mirror
+kane | 鐘 | bell
+kusuri | 薬 | medicine
+boushi | 帽子 | hat
+shashin | 写真 | photograph
+shinbun | 新聞 | newspaper
+okane | お金 | money
+ocha | お茶 | tea
+okashi | お菓子 | sweets, snacks
+shokuryou | 食料 | food supplies

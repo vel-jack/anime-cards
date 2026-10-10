@@ -1,0 +1,79 @@
+# Time, Places & Things | Everyday nouns, body parts and numbers
+# format:  romaji | japanese | english | optional note
+
+ima | 今 | now
+kyou | 今日 | today
+kon'ya | 今夜 | tonight
+mainichi | 毎日 | every day
+kotoshi | 今年 | this year
+rainen | 来年 | next year
+mukashi | 昔 | long ago, the old days
+mirai | 未来 | future
+toshi | 年 | year; age
+hantoshi | 半年 | half a year
+jikan | 時間 | time
+toki | 時 | time, when
+hi | 日 | day
+yoru | 夜 | night
+yoake | 夜明け | dawn
+fuyu | 冬 | winter
+saisho | 最初 | first, the beginning
+saigo | 最後 | last, the end
+tsugi | 次 | next
+mae | 前 | before; in front
+ato | 後 | after, later
+saki | 先 | ahead; earlier
+ue | 上 | above, top
+shita | 下 | below, under
+naka | 中 | inside
+soto | 外 | outside
+koko | ここ | here
+soko | そこ | there
+asoko | あそこ | over there
+kocchi | こっち | this way, over here
+basho | 場所 | place
+ie | 家 | house, home
+mise | 店 | shop
+michi | 道 | road, path
+te | 手 | hand
+ude | 腕 | arm
+ashi | 足 | leg, foot
+atama | 頭 | head
+kao | 顔 | face
+me | 目 | eye
+kuchi | 口 | mouth
+hara | 腹 | belly
+koe | 声 | voice
+kotoba | 言葉 | words, language
+namae | 名前 | name
+hanashi | 話 | story, talk
+yakusoku | 約束 | promise
+tegami | 手紙 | letter
+kane | 金 | money
+sake | 酒 | alcohol
+fuku | 服 | clothes
+ryouri | 料理 | cooking, a dish
+tabemono | 食べ物 | food
+niku | 肉 | meat
+shigoto | 仕事 | work, job
+kekkon | 結婚 | marriage | "kekkon shite kudasai!" = please marry me!
+matsuri | 祭り | festival
+enkai | 宴会 | feast, party
+onsen | 温泉 | hot spring
+furo | 風呂 | bath
+sonzai | 存在 | existence, a being
+imi | 意味 | meaning, point
+mono | 物 | thing
+koto | 事 | thing, matter (abstract)
+kazu | 数 | number
+hitori | 一人 | one person, alone
+futari | 二人 | two people
+zen'in | 全員 | everyone, all members
+ichi | 一 | one
+ni | 二 | two
+san | 三 | three
+yon | 四 | four
+go | 五 | five
+juu | 十 | ten
+hyaku | 百 | hundred
+sen | 千 | thousand

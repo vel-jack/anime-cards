@@ -1,0 +1,69 @@
+# People & Pronouns | Who is talking, and who they are yelling at
+# format:  romaji | japanese | english | optional note
+
+ore | 俺 | I, me | rough, masculine — Asta's "I"
+boku | 僕 | I, me | soft, boyish — young Yuno's "I"
+watashi | 私 | I, me | polite / neutral
+omae | お前 | you | rough, familiar
+anata | あなた | you | polite
+kimi | 君 | you | to an equal or junior
+anta | あんた | you | casual, blunt
+temee | てめえ | you (bastard) | very rude
+kisama | 貴様 | you (scum) | hostile, villain-speak
+aitsu | あいつ | that guy, him / her
+koitsu | こいつ | this guy
+soitsu | そいつ | that guy (near you)
+yatsu | 奴 | guy, fellow | rough
+omaera | お前ら | you guys | rough plural
+ore-tachi | 俺たち | we, us | masculine
+wareware | 我々 | we | formal, group-speak
+minna | みんな | everyone
+dareka | 誰か | someone
+jibun | 自分 | oneself, myself
+hito | 人 | person
+ningen | 人間 | human
+otoko | 男 | man
+onna | 女 | woman
+kodomo | 子供 | child
+otona | 大人 | adult
+akanbou | 赤ん坊 | baby
+shounen | 少年 | boy
+musume | 娘 | daughter; young girl
+kazoku | 家族 | family
+kyoudai | 兄弟 | brothers, siblings
+futago | 双子 | twins
+nii-san | 兄さん | older brother | Nash says "Yuno-nii"
+otouto | 弟 | younger brother
+imouto | 妹 | younger sister
+tou-san | 父さん | dad
+tomodachi | 友達 | friend
+nakama | 仲間 | comrade, teammate
+raibaru | ライバル | rival
+senpai | 先輩 | senior (at work / school / squad)
+sensei | 先生 | teacher, master
+danchou | 団長 | squad captain
+dan'in | 団員 | squad member
+shinjin | 新人 | newcomer, rookie
+aite | 相手 | opponent; the other person
+teki | 敵 | enemy
+mikata | 味方 | ally, on one's side
+yarou | 野郎 | bastard, jerk | "kono yarou!"
+gaki | ガキ | brat
+kozou | 小僧 | kid, brat
+chibi | チビ | shorty, shrimp
+baka | バカ | idiot
+kuzu | クズ | scum, trash
+ossan | おっさん | old man, middle-aged guy
+tensai | 天才 | genius
+nakimushi | 泣き虫 | crybaby
+makeinu | 負け犬 | loser | lit. "losing dog"
+sutego | 捨て子 | abandoned child, foundling
+toshiue | 年上 | older, one's elder
+ikemen | イケメン | handsome guy
+nusutto | 盗っ人 | thief
+touzoku | 盗賊 | bandit, thief
+nanimono | 何者 | who (on earth)
+mochinushi | 持ち主 | owner
+honnin | 本人 | the person themself
+ichininmae | 一人前 | full-fledged, a proper adult
+hiyokko | ひよっこ | fledgling, greenhorn | lit. "chick"

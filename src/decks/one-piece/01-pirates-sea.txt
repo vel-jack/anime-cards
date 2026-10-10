@@ -1,0 +1,70 @@
+# Pirates, Sea & Ships | The words of the Grand Line
+# format:  romaji | japanese | english | optional note
+
+kaizoku | 海賊 | pirate
+kaizoku-ou | 海賊王 | King of the Pirates
+mugiwara | 麦わら | straw (hat)
+ichimi | 一味 | crew, gang
+senchou | 船長 | captain (of a ship)
+umi | 海 | sea
+fune | 船 | ship
+shima | 島 | island
+shotou | 諸島 | archipelago, islands
+koukai | 航海 | voyage
+kouro | 航路 | sea route | "Idai naru Kouro" = the Grand Line
+shukkou | 出航 | setting sail
+jouriku | 上陸 | landing, going ashore
+kaizu | 海図 | sea chart
+chizu | 地図 | map
+kairyuu | 海流 | ocean current
+kaiiki | 海域 | waters, sea area
+kaigan | 海岸 | coast, shore
+minato | 港 | harbour, port
+shinkai | 深海 | deep sea
+bouken | 冒険 | adventure
+tabi | 旅 | journey
+takara | 宝 | treasure
+otakara | お宝 | treasure, loot
+zaihou | 財宝 | treasure, riches
+hihou | 秘宝 | hidden treasure
+ougon | 黄金 | gold
+tomi | 富 | wealth
+meisei | 名声 | fame
+shoukin | 賞金 | bounty, prize money
+kenshou | 懸賞 | reward (on someone's head)
+tehai | 手配 | wanted (notice); arrangement
+kubi | 首 | neck; head (with a bounty on it)
+hata | 旗 | flag
+funadaiku | 船大工 | shipwright
+zousen | 造船 | shipbuilding
+nawabari | 縄張り | territory, turf
+sanka | 傘下 | under the wing of, subordinate crew
+ningyo | 人魚 | mermaid
+sakana | 魚 | fish
+kaibutsu | 怪物 | monster
+bakemono | 化け物 | monster, freak
+ryuu | 竜 | dragon
+oni | 鬼 | ogre, demon
+kyojin | 巨人 | giant
+akuma no mi | 悪魔の実 | Devil Fruit
+mi | 実 | fruit
+nouryokusha | 能力者 | ability user (Devil Fruit user)
+haki | 覇気 | Haki; ambition, drive
+yabou | 野望 | ambition
+ishi | 意志 | will | "D no ishi" = the Will of D
+shinnen | 信念 | conviction, belief
+emono | 獲物 | prey, catch
+utage | 宴 | feast, banquet
+kanpai | 乾杯 | cheers!
+taifuu | 台風 | typhoon
+tenkou | 天候 | weather
+arashi | 嵐 | storm
+kumo | 雲 | cloud
+sora | 空 | sky
+ame | 雨 | rain
+kiri | 霧 | fog, mist
+kaminari | 雷 | thunder, lightning
+koori | 氷 | ice
+taiyou | 太陽 | sun
+sabaku | 砂漠 | desert
+yama | 山 | mountain

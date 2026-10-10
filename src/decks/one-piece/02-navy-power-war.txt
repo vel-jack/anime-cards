@@ -1,0 +1,77 @@
+# Navy, Power & War | Ranks, rulers, prisons and weapons
+# format:  romaji | japanese | english | optional note
+
+kaigun | 海軍 | the Navy, Marines
+kaihei | 海兵 | marine (soldier)
+seifu | 政府 | government | "Sekai Seifu" = World Government
+taishou | 大将 | admiral; boss
+chuujou | 中将 | vice admiral
+taisa | 大佐 | captain (navy rank), colonel
+teitoku | 提督 | admiral, fleet commander
+choukan | 長官 | director, chief
+shirei | 司令 | command, commander
+shochou | 署長 | warden, chief (of a station)
+gunkan | 軍艦 | warship
+kantai | 艦隊 | fleet
+guntai | 軍隊 | army, military
+gundan | 軍団 | corps, legion
+heitai | 兵隊 | soldier, troops
+heishi | 兵士 | soldier
+shougun | 将軍 | shogun, general
+taichou | 隊長 | commander, squad leader
+kanbu | 幹部 | executive, senior officer
+oyabun | 親分 | boss (of a gang)
+aniki | 兄貴 | big bro, boss (rough)
+doumei | 同盟 | alliance
+doushi | 同志 | comrade (in a cause)
+hanran | 反乱 | rebellion
+kakumei | 革命 | revolution
+sensou | 戦争 | war
+kessen | 決戦 | decisive battle
+kettou | 決闘 | duel
+gekitotsu | 激突 | clash
+gekitou | 激闘 | fierce fight
+kecchaku | 決着 | settling (a fight)
+shihai | 支配 | rule, domination
+dorei | 奴隷 | slave
+shuujin | 囚人 | prisoner
+kangoku | 監獄 | prison
+datsugoku | 脱獄 | prison break
+dasshutsu | 脱出 | escape
+shikei | 死刑 | death penalty
+zainin | 罪人 | criminal, sinner
+tsumi | 罪 | crime, sin
+hanzai | 犯罪 | crime
+hitojichi | 人質 | hostage
+yuukai | 誘拐 | kidnapping
+ansatsu | 暗殺 | assassination
+dorobou | 泥棒 | thief
+tejou | 手錠 | handcuffs
+eiyuu | 英雄 | hero
+kenshi | 剣士 | swordsman
+kengou | 剣豪 | master swordsman
+samurai | 侍 | samurai
+ninja | 忍者 | ninja
+goei | 護衛 | bodyguard, escort
+heiki | 兵器 | weapon (of war)
+taihou | 大砲 | cannon
+juu | 銃 | gun
+katana | 刀 | sword, katana
+bakudan | 爆弾 | bomb
+hougeki | 砲撃 | bombardment
+sogeki | 狙撃 | sniping
+dokugasu | 毒ガス | poison gas
+doku | 毒 | poison
+busou | 武装 | armament
+houi | 包囲 | encirclement
+dakkan | 奪還 | recapture, taking back
+kyuushutsu | 救出 | rescue
+sennyuu | 潜入 | infiltration
+engo | 援護 | cover, backup
+zenmetsu | 全滅 | annihilation
+houkai | 崩壊 | collapse
+higai | 被害 | damage, harm
+hinan | 避難 | evacuation
+otte | 追っ手 | pursuer
+minagoroshi | 皆殺し | massacre
+shitai | 死体 | corpse

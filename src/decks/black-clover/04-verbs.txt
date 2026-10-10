@@ -1,0 +1,78 @@
+# Everyday Verbs | Dictionary forms of the verbs you hear constantly
+# format:  romaji | japanese | english | optional note
+
+suru | する | to do
+naru | なる | to become | "Mahoutei ni naru!"
+iru | いる | to be, exist (living things)
+aru | ある | to be, exist (things)
+iu | 言う | to say
+miru | 見る | to see, look | "mitero yo" = just you watch
+kuru | 来る | to come
+iku | 行く | to go
+dekiru | できる | to be able to do
+omou | 思う | to think, feel
+shiru | 知る | to know
+wakaru | 分かる | to understand
+kiku | 聞く | to hear, listen; to ask
+matsu | 待つ | to wait | "mattero" = wait for me
+motsu | 持つ | to hold, have
+tsukau | 使う | to use | "tsukaenai" = can't use
+morau | もらう | to receive
+kureru | くれる | to give (to me)
+ageru | あげる | to give (to someone)
+yaru | やる | to do; to give (rough)
+taberu | 食べる | to eat
+nomu | 飲む | to drink
+kaeru | 帰る | to go home, return
+hairu | 入る | to enter, join
+deru | 出る | to leave, come out
+yobu | 呼ぶ | to call
+erabu | 選ぶ | to choose | "erabareta" = was chosen
+shinjiru | 信じる | to believe
+akirameru | 諦める | to give up | "akiramenai" = I won't give up
+ganbaru | 頑張る | to do one's best, hang in there
+kimeru | 決める | to decide | "kimeta!" = I've decided!
+oboeru | 覚える | to remember, memorize
+kangaeru | 考える | to think over, consider
+kanjiru | 感じる | to feel, sense
+tanomu | 頼む | to ask a favour, rely on | "tanonda zo" = I'm counting on you
+makaseru | 任せる | to leave it to (someone) | "ore ni makasero!"
+todokeru | 届ける | to deliver
+tsutaeru | 伝える | to tell, pass on
+oshieru | 教える | to teach, tell
+naku | 泣く | to cry
+warau | 笑う | to laugh, smile
+ikiru | 生きる | to live
+umareru | 生まれる | to be born
+sodatsu | 育つ | to grow up, be raised
+owaru | 終わる | to end
+hajimaru | 始まる | to begin
+miseru | 見せる | to show
+mitsukeru | 見つける | to find
+sagasu | 探す | to look for
+au | 会う | to meet
+tsukuru | 作る | to make
+yameru | やめる | to stop, quit | "yamero!" = stop it!
+modoru | 戻る | to go back, return
+okiru | 起きる | to wake up; to happen
+neru | 寝る | to sleep
+kawaru | 変わる | to change
+chigau | 違う | to differ, be wrong | "chigau!" = that's not it!
+niru | 似る | to resemble | "nite iru" = looks alike
+oitsuku | 追いつく | to catch up
+tetsudau | 手伝う | to help out, lend a hand
+tsugu | 継ぐ | to succeed, inherit
+negau | 願う | to wish, hope
+ochitsuku | 落ち着く | to calm down
+atsumeru | 集める | to gather, collect
+sawaru | 触る | to touch | "sawan ja nee!" = don't touch me!
+fureru | 触れる | to touch, come in contact
+uketoru | 受け取る | to receive, accept
+ukeru | 受ける | to take (an exam, a hit)
+arawareru | 現れる | to appear
+sumu | 住む | to live, reside
+mezameru | 目覚める | to awaken
+mitomeru | 認める | to acknowledge, recognize
+fuzakeru | ふざける | to mess around | "fuzakeru na!" = don't screw with me!
+naosu | 治す | to heal, cure
+komaru | 困る | to be troubled, in a bind

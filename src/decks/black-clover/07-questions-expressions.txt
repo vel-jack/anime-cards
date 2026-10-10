@@ -1,0 +1,70 @@
+# Questions & Expressions | Question words, set phrases and things people shout
+# format:  romaji | japanese | english | optional note
+
+nani | 何 | what
+dare | 誰 | who
+doko | どこ | where
+itsu | いつ | when
+doushite | どうして | why, how come
+nande | なんで | why | casual
+naze | なぜ | why | formal
+dou | どう | how | "dou da?" = how's that?
+donna | どんな | what kind of
+dore | どれ | which one
+docchi | どっち | which (of two)
+dondake | どんだけ | how much, no matter how much
+nankai | 何回 | how many times
+nan da? | 何だ？ | what is it? / what the…?
+nan da to? | 何だと？ | what did you say?!
+sou ka | そうか | I see
+sou da na | そうだな | yeah, that's right
+naruhodo | なるほど | I see, that makes sense
+hai | はい | yes | polite
+un | うん | yeah
+iya | いや | no; "well…"
+ee | ええ | yes | soft, feminine
+arigatou | ありがとう | thank you
+gomen | ごめん | sorry
+gomennasai | ごめんなさい | I'm sorry | polite
+sumimasen | すみません | excuse me; sorry
+onegai | お願い | please, a request
+yoroshiku | よろしく | nice to meet you; I'm counting on you
+omedetou | おめでとう | congratulations
+hisashiburi | 久しぶり | long time no see
+youkoso | ようこそ | welcome
+ittekimasu | いってきます | I'm heading out
+shitsurei shimasu | 失礼します | excuse me (entering / leaving)
+gokurou-sama | ご苦労様 | thanks for your trouble
+omigoto | お見事 | well done, splendid
+yatta | やった | yay! I did it!
+yoshi | よし | all right! okay!
+saa | さあ | come on; well then
+hora | ほら | look, see, here
+nee | ねえ | hey, say…
+oi | おい | hey! | rough
+kora | こら | hey you! (scolding)
+uso | 嘘 | a lie; "no way!"
+kuso | くそ | damn, crap
+chikushou | 畜生 | damn it!
+kono yarou | この野郎 | you bastard!
+urusee | うるせえ | shut up! | rough "urusai"
+yamero | やめろ | stop it!
+mattero | 待ってろ | just you wait
+mitero | 見てろ | just you watch
+nigero | 逃げろ | run!
+ganbatte | 頑張って | good luck, do your best
+ki ni suru na | 気にするな | don't worry about it | "ki ni sunna"
+ki wo tsukete | 気をつけて | be careful
+iikagen ni shiro | いい加減にしろ | that's enough! cut it out!
+baka ni suru | バカにする | to make fun of, look down on
+yaku ni tatsu | 役に立つ | to be useful, come in handy
+te ni ireru | 手に入れる | to obtain, get one's hands on
+nakayoku suru | 仲良くする | to get along with
+ha ga tatanai | 歯が立たない | to be no match for | lit. "teeth can't bite into it"
+hara hetta | 腹減った | I'm hungry | rough, masculine
+omakase | お任せ | leave it to me
+totte-oki | とっておき | one's trump card, best kept in reserve
+medetashi medetashi | めでたしめでたし | "and they lived happily ever after"
+ore ga tsuiteru | 俺がついてる | I've got your back, I'm with you
+nan nan da? | 何なんだ？ | what the hell is this?
+sore to kore to wa betsu | それとこれとは別 | that's a different matter

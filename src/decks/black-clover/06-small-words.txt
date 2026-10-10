@@ -1,0 +1,80 @@
+# Small Words & Connectors | Adverbs and glue words that shape every sentence
+# format:  romaji | japanese | english | optional note
+
+mada | まだ | still, (not) yet | "mada da!" = not yet! / I'm not done!
+madamada | まだまだ | still a long way to go; not nearly done
+mou | もう | already; (not) anymore
+mata | また | again
+yatto | やっと | finally, at last
+tsui ni | ついに | at long last
+itsuka | いつか | someday
+itsumo | いつも | always
+itsudemo | いつでも | anytime, always
+zutto | ずっと | the whole time, all along
+sugu | すぐ | right away, soon
+mousugu | もうすぐ | very soon
+kitto | きっと | surely
+kanarazu | 必ず | without fail
+zettai | 絶対 | absolutely, definitely
+tabun | たぶん | probably, maybe
+osoraku | 恐らく | most likely
+masaka | まさか | no way, don't tell me…
+yappari | やっぱり | as I thought, after all
+sasuga | さすが | as expected (of you) | praise: "sasuga Yuno-nii"
+hontou ni | 本当に | really, truly
+maji | マジ | seriously, for real | "maji ka yo" = seriously?
+chotto | ちょっと | a little; "hey, wait"
+sukoshi | 少し | a little
+motto | もっと | more
+zenzen | 全然 | not at all
+mattaku | まったく | completely; "good grief"
+chittomo | ちっとも | not in the least
+issai | 一切 | (not) whatsoever
+nanimo | 何も | nothing, (not) anything
+subete | 全て | everything, all
+zenbu | 全部 | all of it
+issho ni | 一緒に | together
+tomo ni | 共に | together with
+hajimete | 初めて | for the first time
+sorosoro | そろそろ | it's about time
+nakanaka | なかなか | quite, pretty (good)
+chanto | ちゃんと | properly
+shikkari | しっかり | firmly; "hang in there!"
+sassato | さっさと | quickly, get on with it
+marude | まるで | just like, as if
+betsu ni | 別に | not particularly
+ittai | 一体 | (what) on earth
+tashika ni | 確かに | certainly, it's true that
+omowazu | 思わず | without thinking
+tsui | つい | unintentionally, by accident
+semete | せめて | at least
+gyaku ni | 逆に | on the contrary, if anything
+kyuu ni | 急に | suddenly
+tekkiri | てっきり | (wrongly) felt sure that
+tama ni | たまに | once in a while
+sara ni | 更に | furthermore, even more
+dakara | だから | so, that's why
+datte | だって | because, but I mean…
+demo | でも | but
+dakedo | だけど | but, however
+shikashi | しかし | however
+daga | だが | but (blunt, masculine)
+soshite | そして | and then
+sore ni | それに | besides, what's more
+soretomo | それとも | or (else)
+sore nanoni | それなのに | and yet, despite that
+somosomo | そもそも | in the first place
+mazu | まず | first of all
+daiichi | 第一 | first of all, for one thing
+shika | しか | nothing but, only (with a negative)
+dake | だけ | only, just
+nante | なんて | "something like…" (belittling or surprise)
+kamo | かも | might, maybe
+hazu | はず | should be, expected to
+tsumori | つもり | intention, plan to
+wake | わけ | reason; "no wonder"
+okage | おかげ | thanks to
+sei | せい | fault, blame | "boku no sei de" = because of me
+tame ni | ために | for the sake of, in order to
+kurai | くらい | about, to the extent of
+made | まで | until, as far as; even

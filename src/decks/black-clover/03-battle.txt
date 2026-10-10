@@ -1,0 +1,68 @@
+# Battle & Training | Fights, grit and getting stronger
+# format:  romaji | japanese | english | optional note
+
+tatakau | 戦う | to fight
+tatakai | 戦い | battle, fight
+shoubu | 勝負 | showdown, contest | "shoubu da!" = fight me!
+shiai | 試合 | match
+taosu | 倒す | to defeat, knock down
+katsu | 勝つ | to win
+makeru | 負ける | to lose
+mamoru | 守る | to protect
+sukuu | 救う | to save, rescue
+tasukeru | 助ける | to help, save
+korosu | 殺す | to kill
+shinu | 死ぬ | to die
+horobosu | 滅ぼす | to destroy, wipe out
+kougeki | 攻撃 | attack
+waza | 技 | technique, move
+hissatsu | 必殺 | sure-kill, ultimate | "hissatsu waza" = finishing move
+kurae | 食らえ | "Take this!"
+chikara | 力 | power, strength
+tsuyoi | 強い | strong
+yowai | 弱い | weak
+saikyou | 最強 | the strongest
+kitaeru | 鍛える | to train, toughen up
+shugyou | 修行 | training
+doryoku | 努力 | effort, hard work
+kinniku | 筋肉 | muscle
+nikutai | 肉体 | body, physique
+karada | 体 | body
+nigeru | 逃げる | to run away | "nigero!" = run!
+kiru | 斬る | to slash, cut down
+ubau | 奪う | to steal, take by force
+kaesu | 返す | to give back | "kaese!" = give it back!
+fuujiru | 封じる | to seal
+toraeru | 捕らえる | to capture
+moyasu | 燃やす | to burn (something)
+tomeru | 止める | to stop (something)
+kieru | 消える | to disappear
+yurusu | 許す | to forgive, allow | "yurusanai" = I won't forgive you
+mikubiru | 見くびる | to underestimate
+teikou | 抵抗 | resistance
+ugoki | 動き | movement
+kizu | 傷 | wound
+kega | 怪我 | injury | "ookega" = serious injury
+shouri | 勝利 | victory
+yuushou | 優勝 | winning the championship
+sakusen | 作戦 | strategy, plan
+wana | 罠 | trap
+hakai | 破壊 | destruction
+ichigeki | 一撃 | a single blow
+iryoku | 威力 | power, force (of an attack)
+genkai | 限界 | limit
+zenryoku | 全力 | full power
+jitsuryoku | 実力 | real ability
+kakugo | 覚悟 | resolve, being prepared for the worst
+hatsudou | 発動 | activation (of a spell)
+shuugeki | 襲撃 | raid, assault
+senjou | 戦場 | battlefield
+jama | 邪魔 | hindrance, in the way
+muda | 無駄 | pointless, futile
+agaki | あがき | struggling
+muryoku | 無力 | powerless
+tsuihou | 追放 | banishment
+shoumei | 証明 | proof | "shoumei suru" = to prove
+owari | 終わり | the end
+inochi | 命 | life
+tamashii | 魂 | soul

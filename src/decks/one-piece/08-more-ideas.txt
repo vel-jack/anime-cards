@@ -1,0 +1,136 @@
+# More Ideas | Abstract nouns heard 40+ times
+# format:  romaji | japanese | english | optional note
+
+chuui | 注意 | caution, attention
+negai | 願い | wish, request
+jouken | 条件 | condition, terms
+shouchi | 承知 | acknowledgement | "shouchi shita" = understood
+haiboku | 敗北 | defeat
+toppa | 突破 | breakthrough
+hisshi | 必死 | desperate, frantic
+sokudo | 速度 | speed
+seken | 世間 | the world, society
+yononaka | 世の中 | the world, the way things are
+keibi | 警備 | security, guard
+keikai | 警戒 | vigilance, being on guard
+kanshi | 監視 | surveillance
+zatsuyou | 雑用 | chores, odd jobs
+sagyou | 作業 | work, operation
+souji | 掃除 | cleaning
+shuuri | 修理 | repair
+kaizou | 改造 | modification, remodelling
+hatsumei | 発明 | invention
+keisan | 計算 | calculation
+benkyou | 勉強 | study
+teokure | 手遅れ | too late
+ijou | 異常 | abnormal, something wrong
+orei | お礼 | thanks, a thank-you
+ongaeshi | 恩返し | returning a favour
+giri | 義理 | duty, obligation
+nasake | 情け | compassion, mercy
+doujou | 同情 | sympathy
+kurou | 苦労 | hardship, trouble
+kurushimi | 苦しみ | suffering
+fukou | 不幸 | misfortune
+higeki | 悲劇 | tragedy
+akumu | 悪夢 | nightmare
+ketsui | 決意 | determination
+ketsudan | 決断 | decision
+yuuki | 勇気 | courage
+dokyou | 度胸 | nerve, guts
+iji | 意地 | stubborn pride
+jishin | 自信 | confidence
+jiman | 自慢 | boast, pride
+shouki | 正気 | sanity
+kanjou | 感情 | emotion
+kandou | 感動 | being deeply moved
+yokan | 予感 | premonition
+yuuwaku | 誘惑 | temptation
+eien | 永遠 | eternity
+jumyou | 寿命 | lifespan
+seimei | 生命 | life
+umare | 生まれ | birth, origin
+seikatsu | 生活 | daily life, living
+omoide | 思い出 | memory, recollection
+monogatari | 物語 | story, tale
+genjitsu | 現実 | reality
+joushiki | 常識 | common sense
+jijou | 事情 | circumstances
+gen'in | 原因 | cause
+jiko | 事故 | accident
+shitsumon | 質問 | question
+iiwake | 言い訳 | excuse
+nattoku | 納得 | being convinced, accepting
+kanben | 勘弁 | forgiveness | "kanben shite kure" = give me a break
+hantai | 反対 | opposition, the opposite
+kyoka | 許可 | permission
+kinshi | 禁止 | prohibition
+kenri | 権利 | a right
+kenryoku | 権力 | power, authority
+seiryoku | 勢力 | power, faction
+heiryoku | 兵力 | military strength
+chii | 地位 | rank, status
+shougou | 称号 | title
+ninki | 人気 | popularity
+shihou | 司法 | the judiciary
+sabaki | 裁き | judgement
+torihiki | 取り引き | deal, trade
+yotei | 予定 | plan, schedule
+mokuhyou | 目標 | goal, target
+hyouteki | 標的 | target (to hit)
+tayori | 頼り | reliance, someone to count on
+sukui | 救い | salvation, relief
+kangei | 歓迎 | welcome
+hajimari | 始まり | the beginning
+hajime | 初め | the start, at first
+chouten | 頂点 | the top, peak
+kyuuchi | 窮地 | tight spot, predicament
+zettai-zetsumei | 絶体絶命 | a desperate situation, no way out
+yukue | 行方 | whereabouts
+imagoro | 今頃 | about now
+touji | 当時 | back then
+shuppatsu | 出発 | departure
+kikan | 帰還 | return (home, to base)
+nyuukoku | 入国 | entering a country
+shutsujou | 出場 | taking part (in a contest)
+shuugou | 集合 | assembly, gathering
+shuuketsu | 集結 | massing (of forces)
+zenshin | 前進 | advance, moving forward
+rakka | 落下 | fall, drop
+renkou | 連行 | taking (a suspect) away
+gosou | 護送 | escort (of a prisoner)
+hokaku | 捕獲 | capture
+kakuho | 確保 | securing
+dassou | 脱走 | escape, desertion
+tousou | 逃走 | flight, getaway
+ashidome | 足止め | stalling, holding up
+soshi | 阻止 | prevention, blocking
+massatsu | 抹殺 | elimination, erasing
+kaimetsu | 壊滅 | total destruction
+koroshi | 殺し | killing
+koroshiai | 殺し合い | killing each other
+goumon | 拷問 | torture
+bouryoku | 暴力 | violence
+hangyaku | 反逆 | treason, rebellion
+uragiri | 裏切り | betrayal
+uchiiri | 討ち入り | raid (on an enemy stronghold)
+ikkiuchi | 一騎打ち | one-on-one fight
+shitou | 死闘 | fight to the death
+gekisen | 激戦 | fierce battle
+kesshi | 決死 | do-or-die
+inochigake | 命懸け | risking one's life
+engun | 援軍 | reinforcements
+kasei | 加勢 | backup, joining the fight
+shiki | 指揮 | command
+shiji | 指示 | instructions
+juushou | 重傷 | serious injury
+shikkaku | 失格 | disqualification
+kaiketsu | 解決 | solution, settlement
+henkou | 変更 | change, alteration
+atsukai | 扱い | treatment, handling
+tema | 手間 | time and effort
+tedashi | 手出し | meddling, laying a hand on
+michizure | 道連れ | taking someone down with you
+yousu | 様子 | state, how things look
+kannen | 観念 | resignation | "kannen shiro" = give it up
+kuuhaku | 空白 | blank, void

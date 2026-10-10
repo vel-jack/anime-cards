@@ -1,0 +1,90 @@
+# Verbs | Action words that recur across 1,152 episodes
+# format:  romaji | japanese | english | optional note
+
+buttobasu | ぶっ飛ばす | to send flying, beat up | Luffy's favourite verb
+tsukisusumu | 突き進む | to push forward
+tsubusu | 潰す | to crush
+habamu | 阻む | to block, obstruct
+karitateru | 駆り立てる | to drive, spur on
+norikomu | 乗り込む | to board; to storm in
+seisu | 制す | to conquer, control
+semaru | 迫る | to close in, approach
+uru | 売る | to sell
+kamau | 構う | to mind, care about | "kamawan" = I don't care
+shizumu | 沈む | to sink
+shizumeru | 沈める | to sink (something)
+hakobu | 運ぶ | to carry, transport
+norikoeru | 乗り越える | to overcome
+noseru | 乗せる | to give a ride, put on board
+furu | 降る | to fall (rain, snow)
+koeru | 越える | to cross over, go beyond
+utsu | 打つ | to hit, strike
+oriru | 下りる | to go down, descend
+oriru | 降りる | to get off, come down
+wareru | 割れる | to crack, split
+waru | 割る | to break, split (something)
+meguru | 巡る | to go around; concerning
+tooru | 通る | to pass through
+toosu | 通す | to let through
+kurihirogeru | 繰り広げる | to unfold, play out
+kiru | 切る | to cut
+kireru | 切れる | to snap, be cut; to run out
+nusumu | 盗む | to steal
+kezuru | 削る | to shave off, whittle down
+makikomu | 巻き込む | to drag into, involve
+osu | 押す | to push
+hikiiru | 率いる | to lead (a group)
+osoreru | 恐れる | to fear
+sagaru | 下がる | to step back, go down
+wataru | 渡る | to cross
+tsukuru | 造る | to build (ships, buildings)
+torikaesu | 取り返す | to take back
+ubaikaesu | 奪い返す | to seize back
+sawagu | 騒ぐ | to make a fuss, be noisy
+kotaeru | 答える | to answer
+tojikomeru | 閉じ込める | to lock up
+mawasu | 回す | to turn, spin (something)
+musubu | 結ぶ | to tie; to form (an alliance)
+nigedasu | 逃げ出す | to run off, escape
+ikasu | 生かす | to keep alive, let live
+mousu | 申す | to say (humble)
+mairu | 参る | to come, go (humble); "I give up"
+kuzusu | 崩す | to break down, destroy
+hanasu | 放す | to release, let go
+uchitoru | 討ち取る | to kill (in battle), take down
+utsu | 討つ | to strike down, avenge
+sakarau | 逆らう | to defy, go against
+tadoritsuku | たどり着く | to finally reach
+ugokidasu | 動きだす | to start moving
+oitsumeru | 追い詰める | to corner
+oikakeru | 追いかける | to chase after
+oimotomeru | 追い求める | to pursue (a dream)
+yaburu | 破る | to tear, break, defeat
+harau | 払う | to pay; to brush off
+awateru | 慌てる | to panic
+aruku | 歩く | to walk
+hazureru | 外れる | to come off, miss
+fumu | 踏む | to step on
+ki ni iru | 気に入る | to take a liking to | "ki ni itta!" = I like you!
+shitagau | 従う | to obey, follow
+seou | 背負う | to carry on one's back, shoulder
+kakawaru | 関わる | to be involved with
+mayou | 迷う | to get lost, hesitate
+fuku | 吹く | to blow
+fukitobasu | 吹き飛ばす | to blow away
+uramu | 恨む | to resent, hold a grudge
+tobidasu | 飛び出す | to jump out, rush out
+wakareru | 分かれる | to split up, divide
+wakareru | 別れる | to part, say goodbye
+nobiru | 伸びる | to stretch, extend
+kirau | 嫌う | to dislike, hate
+ikinobiru | 生き延びる | to survive
+ikinokoru | 生き残る | to survive, be left alive
+oreru | 折れる | to snap, break; to give in
+machigaeru | 間違える | to make a mistake
+shiraseru | 知らせる | to notify, let know
+nagareru | 流れる | to flow, drift
+haku | 吐く | to spit out, throw up; to tell (a lie)
+nogareru | 逃れる | to escape, evade
+kakomu | 囲む | to surround
+odoru | 踊る | to dance

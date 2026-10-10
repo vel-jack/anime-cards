@@ -1,0 +1,142 @@
+# Short Words & Describing | One-kanji nouns, colours, directions and descriptive words
+# format:  romaji | japanese | english | optional note
+
+ana | 穴 | hole
+ten | 天 | heaven, the sky
+un | 運 | luck
+on | 恩 | debt of gratitude
+ura | 裏 | the back, reverse side
+oku | 奥 | the back, the depths
+soko | 底 | bottom
+suki | 隙 | opening, gap, unguarded moment
+kobushi | 拳 | fist
+yubi | 指 | finger
+mimi | 耳 | ear
+kata | 肩 | shoulder
+ashi | 脚 | leg
+kiba | 牙 | fang
+mi | 身 | body, oneself
+onore | 己 | oneself; "you!" (angry)
+oya | 親 | parent
+chichi | 父 | father
+haha | 母 | mother
+ane | 姉 | older sister
+mago | 孫 | grandchild
+jijii | 爺 | old man
+kyaku | 客 | guest, customer
+migi | 右 | right
+hidari | 左 | left
+higashi | 東 | east
+nishi | 西 | west
+minami | 南 | south
+kita | 北 | north
+asa | 朝 | morning
+tsuki | 月 | moon
+yuki | 雪 | snow
+nami | 波 | wave
+uzu | 渦 | whirlpool
+suna | 砂 | sand
+kawa | 川 | river
+taki | 滝 | waterfall
+hashi | 橋 | bridge
+machi | 街 | town, streets
+sato | 里 | village, home
+ki | 木 | tree
+kemuri | 煙 | smoke
+netsu | 熱 | heat; fever
+kaji | 舵 | helm, rudder
+ho | 帆 | sail
+saya | 鞘 | scabbard
+yaiba | 刃 | blade
+yari | 槍 | spear
+tate | 盾 | shield
+tama | 弾 | bullet
+tama | 玉 | ball, orb
+ori | 檻 | cage
+ito | 糸 | thread
+e | 絵 | picture
+hon | 本 | book
+uta | 歌 | song
+aji | 味 | taste, flavour
+meshi | 飯 | meal, food (rough)
+shio | 塩 | salt
+mugi | 麦 | wheat, barley
+mochi | 餅 | rice cake
+momo | 桃 | peach
+esa | 餌 | bait, feed
+su | 巣 | nest
+zou | 象 | elephant
+tora | 虎 | tiger
+ushi | 牛 | cow, bull
+neko | 猫 | cat
+usagi | 兎 | rabbit
+taka | 鷹 | hawk
+mushi | 虫 | bug, insect
+kizuna | 絆 | bond
+aku | 悪 | evil
+haji | 恥 | shame
+rei | 礼 | thanks; a bow
+katachi | 形 | shape, form
+hoka | 他 | other
+moto | 元 | former; origin
+yo | 世 | the world, an era
+shiro | 白 | white
+kuro | 黒 | black
+aka | 赤 | red
+ao | 青 | blue
+midori | 緑 | green
+murasaki | 紫 | purple
+shiroi | 白い | white
+akai | 赤い | red
+aoi | 青い | blue
+kurai | 暗い | dark
+kitanai | 汚い | dirty; unfair
+furui | 古い | old
+osanai | 幼い | very young, childish
+tegowai | 手ごわい | tough (opponent)
+tanomoshii | 頼もしい | reliable, reassuring
+kyoubou | 凶暴 | ferocious
+kyouaku | 凶悪 | vicious, heinous
+yakkai | 厄介 | troublesome
+hikyou | 卑怯 | cowardly, unfair
+burei | 無礼 | rude, insolent
+mezawari | 目障り | an eyesore, in the way
+muyou | 無用 | unnecessary
+funou | 不能 | incapable, impossible
+yuumei | 有名 | famous
+yuushuu | 優秀 | excellent
+seikaku | 正確 | accurate
+kanjin | 肝心 | crucial
+junchou | 順調 | going smoothly
+jizai | 自在 | at will, freely
+hirobiro | 広々 | spacious
+konagona | 粉々 | in pieces, smashed to bits
+hanarebanare | 離れ離れ | separated, scattered apart
+hara ippai | 腹いっぱい | a full stomach
+yosomi | よそ見 | looking away
+imaya | 今や | now (at last)
+totsujo | 突如 | all of a sudden
+chokusetsu | 直接 | directly
+hatashite | 果たして | really?; sure enough
+ato de | 後で | later
+sukunakutomo | 少なくとも | at least
+irai | 以来 | since, ever since
+maido | 毎度 | every time
+tatoeba | 例えば | for example
+jissai | 実際 | actually, in practice
+honjitsu | 本日 | today (formal)
+shosen | 所詮 | after all, in the end
+nantomo | 何とも | quite, really; (not) at all
+tadachi ni | 直ちに | immediately
+zonbun | 存分 | to one's heart's content
+hontou wa | 本当は | in truth, actually
+sono aida | その間 | meanwhile, during that time
+zenmen | 全面 | all-out, the entire surface
+tatta ima | たった今 | just now
+nani yara | 何やら | something or other
+naki | 亡き | the late (deceased)
+issei | 一斉 | all at once
+shikyuu | 至急 | urgently
+onajiku | 同じく | likewise
+ooku | 多く | many, much
+tsugi ni | 次に | next

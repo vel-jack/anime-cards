@@ -1,0 +1,78 @@
+# Describing & Feeling | Adjectives, qualities and emotions
+# format:  romaji | japanese | english | optional note
+
+sugoi | すごい | amazing, awesome | rough form: "sugee!"
+ii | いい | good, fine
+warui | 悪い | bad; "my bad"
+ookii | 大きい | big
+chiisai | 小さい | small
+takai | 高い | high, tall; expensive
+hikui | 低い | low, short | "se ga hikui" = short (height)
+nagai | 長い | long
+omoi | 重い | heavy
+katai | 硬い | hard, tough
+fukai | 深い | deep
+akarui | 明るい | bright
+hayai | 早い | fast, early
+osoi | 遅い | slow, late
+atarashii | 新しい | new
+oishii | おいしい | delicious
+umai | うまい | tasty; skilful
+urusai | うるさい | noisy; "shut up!" | rough form: "urusee!"
+shitsukoi | しつこい | persistent, annoyingly stubborn
+kowai | 怖い | scary
+itai | 痛い | painful, "ouch"
+hazukashii | 恥ずかしい | embarrassing, embarrassed
+utsukushii | 美しい | beautiful
+kawaii | かわいい | cute
+kakkoii | かっこいい | cool, good-looking
+omoshiroi | 面白い | funny, interesting
+yasashii | 優しい | kind, gentle
+subarashii | 素晴らしい | wonderful
+erai | 偉い | important, great, admirable
+mazushii | 貧しい | poor
+nasakenai | 情けない | pathetic, shameful | rough form: "nasakenee"
+misuborashii | みすぼらしい | shabby, miserable-looking
+okogamashii | おこがましい | presumptuous, cheeky
+otonashii | 大人しい | quiet, well-behaved
+kawaisou | かわいそう | pitiful, poor thing
+aware | 哀れ | pathetic, pitiable
+yuukan | 勇敢 | brave
+kichou | 貴重 | precious, rare
+rippa | 立派 | splendid, impressive
+kirei | きれい | pretty; clean
+hen | 変 | strange, weird
+genki | 元気 | energetic, lively, well
+daijoubu | 大丈夫 | okay, all right
+daiji | 大事 | important, valuable
+taisetsu | 大切 | precious, important
+kantan | 簡単 | easy, simple
+muri | 無理 | impossible, no way
+dame | ダメ | no good, not allowed
+zannen | 残念 | too bad, unfortunate
+hitsuyou | 必要 | necessary
+tokubetsu | 特別 | special
+kanpeki | 完璧 | perfect
+saikou | 最高 | the best, awesome
+buji | 無事 | safe, unharmed
+suki | 好き | like, fond of
+mottainai | もったいない | wasteful, what a waste
+atarimae | 当たり前 | obvious, only natural
+shikatanai | 仕方ない | it can't be helped
+arienai | ありえない | impossible, unbelievable | rough form: "arienee"
+tondemonai | とんでもない | outrageous, unthinkable
+shiawase | 幸せ | happy, happiness
+kibou | 希望 | hope
+ai | 愛 | love
+seijitsu | 誠実 | sincerity, faith
+yume | 夢 | dream
+kokoro | 心 | heart, mind
+kimochi | 気持ち | feeling
+omoi | 思い | thoughts, feelings
+shinpai | 心配 | worry
+fuan | 不安 | anxiety, unease
+tanoshimi | 楽しみ | looking forward to it
+kitai | 期待 | expectation, hopes
+zetsubou | 絶望 | despair
+hokori | 誇り | pride
+zeitaku | 贅沢 | luxury
