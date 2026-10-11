@@ -1,0 +1,143 @@
+# Sentences: Episode 1 | Short lines from "Asta and Yuno" — learn the words, then read the line
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Kyoudai ka, soretomo futago ka. | 兄弟か、それとも双子か。 | Brothers... or maybe twins?
+kyoudai | 兄弟 | brothers
+~ka | か | (question: "…?")
+soretomo | それとも | or
+futago | 双子 | twins
+~ka | か | (question: "…?")
+
+> Kyou kara koko ga omae-tachi no ie da. | 今日からここがお前たちの家だ。 | From today, this is your home.
+kyou | 今日 | today
+kara | から | from
+koko | ここ | here, this place
+~ga | が | (marks the subject)
+omae-tachi | お前たち | you (plural, rough)
+~no | の | 's (possessive)
+ie | 家 | home, house
+~da | だ | is
+
+> Ore to kekkon shite kudasai! | 俺と結婚してください！ | Please marry me!
+ore | 俺 | I, me (rough, masculine)
+~to | と | with
+kekkon shite | 結婚して | marry (te-form of "kekkon suru")
+kudasai | ください | please (do)
+
+> Watashi wa minna no shisutaa dakara. | 私はみんなのシスターだから。 | Because I'm everyone's Sister.
+watashi | 私 | I (polite)
+~wa | は | (marks the topic)
+minna | みんな | everyone
+~no | の | 's (possessive)
+shisutaa | シスター | Sister (nun)
+dakara | だから | because, so
+
+> Jikan ga mottainai kara. | 時間がもったいないから。 | Because it would be a waste of time.
+jikan | 時間 | time
+~ga | が | (marks the subject)
+mottainai | もったいない | wasteful
+kara | から | because
+
+> Kono sekai wa mahou ga subete nan da yo. | この世界は魔法が全てなんだよ。 | In this world, magic is everything.
+kono | この | this
+sekai | 世界 | world
+~wa | は | (marks the topic)
+mahou | 魔法 | magic
+~ga | が | (marks the subject)
+subete | 全て | everything
+~nan da yo | なんだよ | (explaining: "you see, it is")
+
+> Yuno wa kono kyoukai no kibou ja! | ユノはこの教会の希望じゃ！ | Yuno is the hope of this church!
+~Yuno | ユノ | Yuno (name)
+~wa | は | (marks the topic)
+kono | この | this
+kyoukai | 教会 | church
+~no | の | 's, of
+kibou | 希望 | hope
+~ja | じゃ | is (an old man's "da")
+
+> Ore wa Mahoutei ni naru. | 俺は魔法帝になる。 | I'm going to become the Wizard King.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+Mahoutei | 魔法帝 | Wizard King
+~ni | に | (marks what you become)
+naru | なる | to become
+
+> Kore dake wa yuzurenee! | これだけは譲れねえ！ | This is the one thing I can't give up!
+kore | これ | this
+dake | だけ | only, just
+~wa | は | (marks the topic)
+yuzurenee | 譲れねえ | can't give up, can't hand over (rough "yuzurenai")
+
+> Gurimowaaru ga konain su kedo… | グリモワールが来ないんすけど… | Um, my grimoire isn't coming…
+gurimowaaru | グリモワール | grimoire
+~ga | が | (marks the subject)
+konai | 来ない | doesn't come (negative of "kuru")
+~n su kedo | んすけど | (casual: "it's that… but", trailing off)
+
+> Sugu oitsuku. Ore wa omae no raibaru dakara na! | すぐ追いつく。俺はお前のライバルだからな！ | I'll catch up soon. Because I'm your rival!
+sugu | すぐ | soon, right away
+oitsuku | 追いつく | to catch up
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+omae | お前 | you (rough)
+~no | の | 's (possessive)
+raibaru | ライバル | rival
+dakara na | だからな | because (emphatic)
+
+> Dare ga akirameru ka! | 誰が諦めるか！ | Like hell I'd give up!
+dare | 誰 | who
+~ga | が | (marks the subject)
+akirameru | 諦める | to give up
+~ka | か | (rhetorical: "as if anyone would!")
+
+> Gurimowaaru wo tsukaeru no wa, erabareta honnin dake. | グリモワールを使えるのは、選ばれた本人だけ。 | Only the person it chose can use a grimoire.
+gurimowaaru | グリモワール | grimoire
+~wo | を | (marks the object)
+tsukaeru | 使える | can use
+~no wa | のは | "the one who…"
+erabareta | 選ばれた | was chosen (passive past of "erabu")
+honnin | 本人 | the person themself
+dake | だけ | only
+
+> Kimi no densetsu wa hajimaru mae ni owari da. | 君の伝説は始まる前に終わりだ。 | Your legend ends before it even begins.
+kimi | 君 | you
+~no | の | 's (possessive)
+densetsu | 伝説 | legend
+~wa | は | (marks the topic)
+hajimaru | 始まる | to begin
+mae ni | 前に | before
+owari | 終わり | the end
+~da | だ | is
+
+> Omae wa maryoku ga issai nai! | お前は魔力が一切ない！ | You have no magic power whatsoever!
+omae | お前 | you (rough)
+~wa | は | (marks the topic)
+maryoku | 魔力 | magic power
+~ga | が | (marks the subject)
+issai | 一切 | (not) at all
+nai | ない | there is none
+
+> Mahoutei ni naru no wa ore dakara da! | 魔法帝になるのは俺だからだ！ | Because the one who'll become Wizard King is me!
+Mahoutei | 魔法帝 | Wizard King
+~ni | に | (marks what you become)
+naru | なる | to become
+~no wa | のは | "the one who…"
+ore | 俺 | I (rough, masculine)
+dakara da | だからだ | it's because
+
+> Ima, koitsu wo taosu! | 今、こいつを倒す！ | Right now, I'm taking this guy down!
+ima | 今 | now
+koitsu | こいつ | this guy
+~wo | を | (marks the object)
+taosu | 倒す | to defeat, knock down
+
+> Go-mai-me ni wa akuma ga sumu. | 五枚目には悪魔が住む。 | Within the fifth leaf dwells a devil.
+go-mai-me | 五枚目 | the fifth (leaf) — "mai" counts flat things, "me" makes it "-th"
+~ni wa | には | in (as the topic)
+akuma | 悪魔 | devil
+~ga | が | (marks the subject)
+sumu | 住む | to live, dwell

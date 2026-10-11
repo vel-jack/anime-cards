@@ -1,0 +1,115 @@
+# Sentences: Episode 2 | Short lines from "A Young Man's Vow" — learn the words, then read the line
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Yuno ni wa ore ga tsuiteru! | ユノには俺がついてる！ | You've got me by your side, Yuno!
+~Yuno | ユノ | Yuno (name)
+~ni wa | には | for, to (as the topic)
+ore | 俺 | I (rough, masculine)
+~ga | が | (marks the subject)
+tsuiteru | ついてる | am with you, at your side (short for "tsuite iru")
+
+> Ue de minna ga matteru! | 上でみんなが待ってる！ | Everyone's waiting up top!
+ue | 上 | top, above
+~de | で | at
+minna | みんな | everyone
+~ga | が | (marks the subject)
+matteru | 待ってる | are waiting (short for "matte iru")
+
+> Otona ni naru made zettai akiramenai kara na! | 大人になるまで絶対諦めないからな！ | I absolutely won't give up until I'm an adult!
+otona | 大人 | adult
+~ni | に | (marks what you become)
+naru | なる | to become
+made | まで | until
+zettai | 絶対 | absolutely
+akiramenai | 諦めない | won't give up
+~kara na | からな | (emphatic "so there!")
+
+> Kokuou-sama no tsugi ni erai no yo. | 国王様の次に偉いのよ。 | He's the most important person after the king.
+kokuou-sama | 国王様 | His Majesty the king
+~no | の | 's, of
+tsugi ni | 次に | next (after)
+erai | 偉い | important, great
+~no yo | のよ | (soft explaining tone, feminine)
+
+> Minna wo motto shiawase ni dekiru darou? | みんなをもっと幸せにできるだろう？ | I'd be able to make everyone happier, right?
+minna | みんな | everyone
+~wo | を | (marks the object)
+motto | もっと | more
+shiawase ni | 幸せに | happy ("shiawase ni suru" = to make happy)
+dekiru | できる | can do
+darou | だろう | right?, probably
+
+> Nande itsumade tattemo mahou tsukaenain da?! | なんでいつまでたっても魔法使えないんだ？！ | Why can't I use magic, no matter how long it's been?!
+nande | なんで | why
+itsumade tattemo | いつまでたっても | no matter how much time passes
+mahou | 魔法 | magic
+tsukaenai | 使えない | can't use
+~n da | んだ | (demanding an explanation)
+
+> Dareka kono tegami wo todokete kurenai ka? | 誰かこの手紙を届けてくれないか？ | Would someone deliver this letter for me?
+dareka | 誰か | someone
+kono | この | this
+tegami | 手紙 | letter
+~wo | を | (marks the object)
+todokete | 届けて | deliver (te-form of "todokeru")
+kurenai ka | くれないか | won't you (do it for me)?
+
+> Hitori de daijoubu ka? | 一人で大丈夫か？ | Will you be okay on your own?
+hitori de | 一人で | alone, by yourself
+daijoubu | 大丈夫 | okay, all right
+~ka | か | (question: "…?")
+
+> Kon'ya wa hiesou ne. | 今夜は冷えそうね。 | Looks like it'll get cold tonight.
+kon'ya | 今夜 | tonight
+~wa | は | (marks the topic)
+hiesou | 冷えそう | looks like it'll get cold ("hieru" + "sou")
+~ne | ね | isn't it
+
+> Saki tabechaou yo. | 先食べちゃおうよ。 | Let's just eat first.
+saki | 先 | first, ahead
+tabechaou | 食べちゃおう | let's go ahead and eat ("taberu" + "-chau", volitional)
+~yo | よ | (urging)
+
+> Akiramenai no ga ore no mahou da! | 諦めないのが俺の魔法だ！ | Not giving up is my magic!
+akiramenai | 諦めない | not giving up
+~no ga | のが | (turns it into a noun: "…-ing is")
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+mahou | 魔法 | magic
+~da | だ | is
+
+> Kono kari wa itsuka kanarazu kaesu. | この借りはいつか必ず返す。 | I'll repay this debt someday, without fail.
+kono | この | this
+kari | 借り | debt, favour owed
+~wa | は | (marks the topic)
+itsuka | いつか | someday
+kanarazu | 必ず | without fail
+kaesu | 返す | to return, repay
+
+> Yakusoku, oboeteru ka? | 約束、覚えてるか？ | Do you remember our promise?
+yakusoku | 約束 | promise
+oboeteru | 覚えてる | remember (short for "oboete iru")
+~ka | か | (question: "…?")
+
+> Ore ni kibou wo kureta no wa omae da. | 俺に希望をくれたのはお前だ。 | The one who gave me hope was you.
+ore | 俺 | I, me (rough, masculine)
+~ni | に | to
+kibou | 希望 | hope
+~wo | を | (marks the object)
+kureta | くれた | gave (to me)
+~no wa | のは | "the one who…"
+omae | お前 | you (rough)
+~da | だ | is
+
+> Docchi ga Mahoutei ni naru ka, shoubu da! | どっちが魔法帝になるか、勝負だ！ | Which of us becomes the Wizard King — it's a contest!
+docchi | どっち | which (of two)
+~ga | が | (marks the subject)
+Mahoutei | 魔法帝 | Wizard King
+~ni | に | (marks what you become)
+naru | なる | to become
+~ka | か | ("which…", an embedded question)
+shoubu | 勝負 | contest, showdown
+~da | だ | is

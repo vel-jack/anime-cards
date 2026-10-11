@@ -39,6 +39,7 @@ body {
 /* Sized from the viewport so the whole card always fits: tall on portrait
    screens and desktops, wide on short landscape screens. */
 .stage {
+  container-type: size;
   --room: calc(100dvh - 8rem);
   width: min(100%, 25rem, calc(var(--room) * 0.72));
   aspect-ratio: 18 / 25;
@@ -49,6 +50,24 @@ body {
     width: min(100%, 46rem, calc(var(--room) * 1.8));
     aspect-ratio: 9 / 5;
   }
+}
+
+/* Cards waiting underneath: each one sits a little lower and smaller. */
+.pile-card {
+  position: absolute;
+  inset: 0;
+  border: 1.6cqmin solid #fff;
+  border-radius: 9cqmin;
+  transform-origin: bottom center;
+  transform: translateY(calc(var(--depth) * 3.2cqmin)) scale(calc(1 - var(--depth) * 0.055));
+}
+
+/* Dulled by mixing towards the page colour, deeper cards more so. The cards
+   stay solid, so one never shows through another. */
+.pile-card.themed {
+  --strength: calc(65% - var(--depth) * 13%);
+  background: color-mix(in srgb, var(--bg) var(--strength), var(--color-navy));
+  border-color: color-mix(in srgb, #fff var(--strength), var(--color-navy));
 }
 
 /* The draggable card owns the perspective; its child does the 3D flip. */
@@ -85,28 +104,15 @@ body {
   transform: rotateY(180deg);
 }
 
-/* Card layout, top to bottom: header, the word (centred), then a band of
-   artwork along the bottom edge. Text and artwork never share space. */
-.face .art {
-  position: absolute;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  height: 28%;
-}
-
-.face .art-space {
-  height: 22cqh;
-  flex-shrink: 0;
-}
-
+/* The header sits in the top-left corner, out of the flow, so the main text
+   is centred on the whole card. */
 .face .head {
+  position: absolute;
+  top: 8cqmin;
+  left: 8cqmin;
+  max-width: 60%;
   display: flex;
   flex-direction: column;
-}
-
-.face .rule {
-  margin: 0 0 4cqmin;
 }
 
 /* Wide cards have little height to spare: lay the header out as one row. */
@@ -116,9 +122,16 @@ body {
     align-items: center;
     gap: 4cqmin;
   }
-  .face .rule {
-    display: none;
-  }
+}
+
+/* Sentence cards carry a full Japanese line in the corner. */
+.face .head.wide {
+  max-width: 78%;
+}
+
+.face .gloss {
+  font-size: max(0.72rem, 3.9cqmin);
+  line-height: 1.55;
 }
 
 .face .title {

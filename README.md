@@ -14,6 +14,8 @@ The vocabulary comes from subtitle files, grouped by show. It currently covers B
 
 Progress is saved in the browser (`localStorage`), per device. The home screen lets you pick which decks to study and reset progress for one deck, the selected decks, or everything.
 
+The browser back button, and the back button or back swipe on Android, return from a study session to the decks.
+
 ### Keyboard
 
 | Key | Action |
@@ -22,8 +24,8 @@ Progress is saved in the browser (`localStorage`), per device. The home screen l
 | → | Knew it |
 | ← | Didn't know it |
 | S | Speak the word |
-| Z / Backspace | Undo the last swipe |
-| Esc | Back to the decks |
+| Z | Undo the last swipe |
+| Esc / Backspace | Back to the decks |
 
 ### Speech
 
@@ -75,6 +77,25 @@ akirameru | 諦める | to give up | "akiramenai" = I won't give up
 ```
 
 Each line is `romaji | japanese | english | optional note`. The Japanese spelling is what the speech button reads, and the note appears under the meaning.
+
+### Sentence decks
+
+A deck can hold sentences instead of single words. Each sentence starts with a `>` line and is followed by the words it is made of, in order:
+
+```
+# Sentences: Episode 1 | Short lines from the first episode
+
+> Ore wa Mahoutei ni naru. | 俺は魔法帝になる。 | I'm going to become the Wizard King.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+Mahoutei | 魔法帝 | Wizard King
+~ni | に | (marks what you become)
+naru | なる | to become
+```
+
+When a sentence comes up, its words are shown first as ordinary cards, shuffled; a missed word comes back before you move on. Then the full romaji sentence appears: work out the meaning in your head, flip to check it against the translation and the word-by-word breakdown, and swipe as usual. A sentence you understood comes back later on its own; one you missed comes back with its words again.
+
+Words starting with `~` (particles, names) appear in the breakdown but don't get a card of their own.
 
 - **New word:** add a line to a deck file.
 - **New deck:** add a `.txt` file to a group folder. Files are ordered by name, hence the number prefixes.
