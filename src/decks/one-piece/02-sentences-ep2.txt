@@ -1,0 +1,101 @@
+# Sentences: Episode 2 | Short lines from the second episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Kono mama susumeba mousugu shima ga miete kimasu yo. | このまま進めばもうすぐ島が見えてきますよ。 | If we keep going like this, the island will come into view soon.
+kono mama | このまま | like this, as things are
+susumeba | 進めば | if (we) go on (conditional of "susumu")
+mousugu | もうすぐ | very soon
+shima | 島 | island
+~ga | が | (marks the subject)
+miete kimasu | 見えてきます | will come into view (polite)
+~yo | よ | (informing)
+
+> Waratteru baai ja arimasen yo. | 笑ってる場合じゃありませんよ。 | This is no time to be laughing.
+waratteru | 笑ってる | laughing (short for "waratte iru")
+baai | 場合 | time, situation
+ja arimasen | じゃありません | is not (polite)
+~yo | よ | (asserting)
+
+> Mada kimeta wake ja nai sa. | まだ決めたわけじゃないさ。 | I haven't decided yet.
+mada | まだ | (not) yet
+kimeta | 決めた | decided (past of "kimeru")
+wake ja nai | わけじゃない | it's not that…
+~sa | さ | (casual, easygoing)
+
+> Warui yatsu dakara tsukamatterun desu. | 悪いヤツだから捕まってるんです。 | He's locked up because he's a bad guy.
+warui | 悪い | bad
+yatsu | ヤツ | guy
+dakara | だから | because
+tsukamatteru | 捕まってる | is caught, locked up (short for "tsukamatte iru")
+~n desu | んです | (explaining, polite)
+
+> Tonikaku kichi ni itte miyou. | とにかく基地に行ってみよう。 | Anyway, let's go check out the base.
+tonikaku | とにかく | anyway
+kichi | 基地 | base
+~ni | に | to
+itte miyou | 行ってみよう | let's go and see
+
+> Omae, kaihei ni narun daro? | お前、海兵になるんだろ？ | You're going to become a marine, right?
+omae | お前 | you (rough)
+kaihei | 海兵 | marine
+~ni | に | (marks what you become)
+naru | なる | to become
+~n daro | んだろ | right?
+
+> Demo mada kokoro no junbi ga… | でもまだ心の準備が… | But I'm not mentally ready yet…
+demo | でも | but
+mada | まだ | still, (not) yet
+kokoro | 心 | heart, mind
+~no | の | of
+junbi | 準備 | preparation
+~ga | が | (trailing off)
+
+> Boku, nandaka fuan ni natte kimashita. | 僕、何だか不安になってきました。 | I'm starting to feel kind of uneasy.
+boku | 僕 | I (soft, boyish)
+nandaka | 何だか | somehow, kind of
+fuan | 不安 | uneasy
+~ni | に | (marks what you become)
+natte kimashita | なってきました | have started to become (polite)
+
+> Koko de owakare desu ne. | ここでお別れですね。 | So this is where we part ways.
+koko de | ここで | here, at this point
+owakare | お別れ | parting, goodbye
+~desu ne | ですね | it is, isn't it (polite)
+
+> Daijoubu! Ore, tsuyoi kara. | 大丈夫！俺、強いから。 | It's fine! I'm strong.
+daijoubu | 大丈夫 | fine, all right
+ore | 俺 | I (rough, masculine)
+tsuyoi | 強い | strong
+kara | から | because
+
+> Mou zutto nanimo tabetenain desho? | もうずっと何も食べてないんでしょ？ | You haven't eaten anything for ages, have you?
+mou zutto | もうずっと | for a long time now
+nanimo | 何も | nothing (with a negative)
+tabetenai | 食べてない | haven't eaten (short for "tabete inai")
+~n desho | んでしょ | have you?
+
+> Isshoukenmei tsukutta kara. | 一生懸命作ったから。 | Because I worked hard making it.
+isshoukenmei | 一生懸命 | with all one's effort
+tsukutta | 作った | made (past of "tsukuru")
+kara | から | because
+
+> Hara nanka hecchainee. | 腹なんか減っちゃいねえ。 | I'm not hungry at all.
+hara | 腹 | belly
+nanka | なんか | (dismissive: "as if…")
+hecchainee | 減っちゃいねえ | isn't empty (rough "hette wa inai")
+
+> Ore no meirei ga kikenai no ka? | 俺の命令が聞けないのか？ | You can't follow my orders?
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+meirei | 命令 | order
+~ga | が | (marks the subject)
+kikenai | 聞けない | can't obey, can't listen to
+~no ka | のか | (pressing question)
+
+> Doko mo itakunai kai? | どこも痛くないかい？ | Nothing hurts anywhere?
+doko mo | どこも | anywhere (with a negative: nowhere)
+itakunai | 痛くない | doesn't hurt (negative of "itai")
+~kai | かい | (gentle question)

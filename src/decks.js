@@ -1,7 +1,9 @@
-// Every folder in ./decks is a group (one anime / movie), and every .txt file
-// inside it is a deck. The first "# Title | description" line names the deck;
-// other # lines are comments. The group's name comes from its folder:
-// "black-clover" -> "Black Clover".
+// Every folder in ./decks is a group, and every .txt file inside it is a deck.
+// "words" holds the vocabulary shared by everything; the other folders are
+// shows (one anime / movie each) and hold their sentence decks.
+//
+// The first "# Title | description" line names the deck; other # lines are
+// comments. A group's name comes from its folder: "black-clover" -> "Black Clover".
 //
 // Word deck, one card per line:
 //   romaji | japanese | english | optional note
@@ -14,10 +16,12 @@ const files = import.meta.glob('./decks/*/*.txt', { query: '?raw', import: 'defa
 
 const titleCase = (slug) => slug.replace(/[-_]+/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase())
 
+// A card is identified by the word itself, not by its file, so saved progress
+// survives moving it to another deck or folder.
 function parseWords(id, rows) {
   return rows
     .filter((p) => p.length >= 3)
-    .map(([romaji, jp, english, note = '']) => ({ id: `${id}:${romaji}:${jp}`, deck: id, romaji, jp, english, note }))
+    .map(([romaji, jp, english, note = '']) => ({ id: `${romaji}|${jp}`, deck: id, romaji, jp, english, note }))
 }
 
 function parseSentences(id, rows) {
@@ -25,7 +29,7 @@ function parseSentences(id, rows) {
   for (const row of rows) {
     if (row[0].startsWith('>')) {
       const [romaji, jp = '', english = ''] = [row[0].replace(/^>\s*/, ''), ...row.slice(1)]
-      sentences.push({ id: `${id}:${romaji}`, deck: id, romaji, jp, english, note: '', words: [] })
+      sentences.push({ id: `sentence|${romaji}`, deck: id, romaji, jp, english, note: '', words: [] })
     } else if (sentences.length && row.length >= 3) {
       const [romaji, jp, english] = row
       const inBreakdownOnly = romaji.startsWith('~')
@@ -49,7 +53,10 @@ export const decks = Object.keys(files)
     return { id, group, groupTitle: titleCase(group), title, description, kind, cards, index }
   })
 
-export const groups = [...new Set(decks.map((d) => d.group))].map((id) => {
-  const own = decks.filter((d) => d.group === id)
-  return { id, title: own[0].groupTitle, decks: own }
-})
+// The shared "words" folder comes first; every other folder is a show.
+export const groups = [...new Set(decks.map((d) => d.group))]
+  .sort((a, b) => (b === 'words') - (a === 'words'))
+  .map((id) => {
+    const own = decks.filter((d) => d.group === id)
+    return { id, title: own[0].groupTitle, decks: own }
+  })

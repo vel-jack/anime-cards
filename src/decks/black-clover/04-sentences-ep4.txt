@@ -1,0 +1,105 @@
+# Sentences: Episode 4 | Short lines from "The Magic Knights Entrance Exam"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore-tachi no mura to wa oochigai da na. | 俺たちの村とは大違いだな。 | It's totally different from our village.
+ore-tachi | 俺たち | we, us (masculine)
+~no | の | 's (possessive)
+mura | 村 | village
+~to wa | とは | compared with
+oochigai | 大違い | a huge difference
+~da na | だな | it is, huh
+
+> Asoko ni Mahoutei ga iru no ka? | あそこに魔法帝がいるのか？ | Is the Wizard King in there?
+asoko | あそこ | over there
+~ni | に | in, at
+Mahoutei | 魔法帝 | Wizard King
+~ga | が | (marks the subject)
+iru | いる | to be (there)
+~no ka | のか | (wondering question)
+
+> Itsuka asoko ga ore no shiro ni naru tte wake da. | いつかあそこが俺の城になるってわけだ。 | So someday, that'll be my castle.
+itsuka | いつか | someday
+asoko | あそこ | over there, that place
+~ga | が | (marks the subject)
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+shiro | 城 | castle
+~ni | に | (marks what it becomes)
+naru | なる | to become
+tte wake da | ってわけだ | "so that means…"
+
+> Sore wa kocchi no serifu da. | それはこっちのセリフだ。 | That's my line.
+sore | それ | that
+~wa | は | (marks the topic)
+kocchi | こっち | this side, me
+~no | の | 's (possessive)
+serifu | セリフ | line (of dialogue)
+~da | だ | is
+
+> Hayaku kaette omise no junbi suru wa yo. | 早く帰ってお店の準備するわよ。 | Let's hurry home and get the shop ready.
+hayaku | 早く | quickly
+kaette | 帰って | go home and… (te-form of "kaeru")
+omise | お店 | shop
+~no | の | 's, of
+junbi suru | 準備する | to prepare
+~wa yo | わよ | (feminine, firm)
+
+> Kyoukai no minna wo omoidasu na. | 教会のみんなを思い出すな。 | This reminds me of everyone at the church.
+kyoukai | 教会 | church
+~no | の | 's, of
+minna | みんな | everyone
+~wo | を | (marks the object)
+omoidasu | 思い出す | to remember, be reminded of
+~na | な | (musing)
+
+> Sorosoro outo ni tsuita koro yo ne. | そろそろ王都に着いたころよね。 | They should have reached the capital about now.
+sorosoro | そろそろ | about now, soon
+outo | 王都 | the royal capital
+~ni | に | at, to
+tsuita | 着いた | arrived (past of "tsuku")
+koro | ころ | about the time
+~yo ne | よね | right?
+
+> Umaku iku to ii kedo. | うまくいくといいけど。 | I hope it goes well.
+umaku iku | うまくいく | to go well
+to ii | といい | I hope (lit. "it would be good if")
+~kedo | けど | though…
+
+> Nyuudan shiken tte doko de yarunda? | 入団試験ってどこでやるんだ？ | Where's the entrance exam being held?
+nyuudan shiken | 入団試験 | (squad) entrance exam
+~tte | って | (casual topic marker)
+doko | どこ | where
+~de | で | at
+yarunda | やるんだ | are (they) doing it? ("yaru" + "n da")
+
+> Oukoku no mirai wa omae-tachi ni kakatteru! | 王国の未来はお前たちに懸かってる！ | The kingdom's future depends on you!
+oukoku | 王国 | kingdom
+~no | の | 's (possessive)
+mirai | 未来 | future
+~wa | は | (marks the topic)
+omae-tachi | お前たち | you (plural, rough)
+~ni | に | on
+kakatteru | 懸かってる | depends on, rides on (short for "kakatte iru")
+
+> Zuibun yogoreteru na. | 随分汚れてるな。 | It's awfully dirty.
+zuibun | 随分 | awfully, quite
+yogoreteru | 汚れてる | is dirty (short for "yogorete iru")
+~na | な | huh
+
+> Kinchou shite kita ze. | 緊張してきたぜ。 | I'm starting to get nervous.
+kinchou shite | 緊張して | getting nervous (te-form of "kinchou suru")
+kita ze | きたぜ | have started to ("kuru", past, + rough "ze")
+
+> Hantoshi-kan no ore no shugyou no seika, misete yaru kara na. | 半年間の俺の修行の成果、見せてやるからな。 | I'll show you the results of my six months of training.
+hantoshi-kan | 半年間 | (for) half a year
+~no | の | of
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+shugyou | 修行 | training
+~no | の | of
+seika | 成果 | results
+misete yaru | 見せてやる | I'll show you
+~kara na | からな | (emphatic "so there!")

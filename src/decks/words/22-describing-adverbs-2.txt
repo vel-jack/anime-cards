@@ -1,6 +1,24 @@
-# More Describing & Adverbs | Adjectives and adverbs from episodes 52–102
+# Describing & Adverbs 2 | Adjectives, feelings and adverbs — set 2
 # format:  romaji | japanese | english | optional note
 
+shiganai | しがない | humble, of no account
+ippai | いっぱい | full; lots
+otsukai | お使い | an errand
+usugitanai | 薄汚い | filthy, grubby
+totetsu mo nai | とてつもない | extraordinary, insane
+nerai | 狙い | aim, target
+samui | 寒い | cold (weather)
+atsui | 暑い | hot (weather)
+hiroi | 広い | wide, spacious
+kanashii | 悲しい | sad
+natsukashii | 懐かしい | nostalgic, "that takes me back"
+oshii | 惜しい | so close; a pity
+sawagashii | 騒がしい | noisy
+machigai | 間違い | mistake
+dekisokonai | 出来損ない | failure, good-for-nothing
+kiai | 気合い | fighting spirit
+otagai | お互い | each other
+chigai | 違い | difference
 yoi | 良い | good | formal form of "ii"
 tanoshii | 楽しい | fun, enjoyable
 hayai | 速い | fast
@@ -60,29 +78,3 @@ douji ni | 同時に | at the same time
 ikki ni | 一気に | in one go
 mottomo | 最も | the most
 zuibun | 随分 | quite, awfully
-nanimokamo | 何もかも | everything, the whole lot
-kesshite | 決して | never, by no means
-saikin | 最近 | recently
-nani yori | 何より | above all
-sassoku | 早速 | right away
-kekkyoku | 結局 | in the end, after all
-jitsu wa | 実は | actually, to tell the truth
-tsune ni | 常に | always, constantly
-mizukara | 自ら | oneself, personally
-izen | 以前 | before, formerly
-ichiou | 一応 | just in case; more or less
-ichido | 一度 | once
-itsunomani | いつの間に | before one knew it
-imasara | 今更 | at this late stage
-hisabisa | 久々 | first time in a while
-honrai | 本来 | originally, by rights
-toku ni | 特に | especially
-aikawarazu | 相変わらず | as usual, same as ever
-sakki | さっき | a moment ago
-ichiban | 一番 | number one, the most
-takusan | たくさん | a lot
-iroiro | いろいろ | various, all sorts
-totemo | とても | very
-korekara | これから | from now on
-yoku | よく | often; well
-nanto | なんと | "what a…!", how

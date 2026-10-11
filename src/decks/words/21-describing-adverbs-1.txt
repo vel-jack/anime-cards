@@ -1,4 +1,4 @@
-# Describing & Feeling | Adjectives, qualities and emotions
+# Describing & Adverbs 1 | Adjectives, feelings and adverbs — the most common
 # format:  romaji | japanese | english | optional note
 
 sugoi | すごい | amazing, awesome | rough form: "sugee!"
@@ -76,3 +76,5 @@ kitai | 期待 | expectation, hopes
 zetsubou | 絶望 | despair
 hokori | 誇り | pride
 zeitaku | 贅沢 | luxury
+buatsui | 分厚い | thick, bulky
+shou mo nai | しょうもない | worthless, silly

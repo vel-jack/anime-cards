@@ -29,9 +29,19 @@ body {
 .tile .art {
   position: absolute;
   right: 0;
-  bottom: 3.25rem;
+  bottom: 0;
   width: 50%;
-  height: 42%;
+  height: 46%;
+}
+
+/* Its own round button in the corner, so resetting never reads as selecting. */
+.reset-btn {
+  color: var(--fg);
+  background: color-mix(in srgb, var(--fg) 20%, transparent);
+}
+
+.reset-btn:hover {
+  background: color-mix(in srgb, var(--fg) 35%, transparent);
 }
 
 /* ---------- study card ---------- */

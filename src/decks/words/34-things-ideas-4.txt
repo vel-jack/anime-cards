@@ -1,61 +1,7 @@
-# More Nouns | Nouns that keep coming up in episodes 52–102
+# Things & Ideas 4 | Nouns, concrete and abstract — set 4
 # format:  romaji | japanese | english | optional note
 
-ki | 気 | spirit, mind, feeling
-sugata | 姿 | figure, appearance
-dan | 団 | squad, group
-henka | 変化 | change
-katsuyaku | 活躍 | great performance, being active
-happyou | 発表 | announcement
-senbatsu | 選抜 | selection
-kankei | 関係 | relation, connection | "kankei nai" = that's irrelevant
-mondai | 問題 | problem
-jouhou | 情報 | information
-aida | 間 | between, during
-baai | 場合 | case, situation
-mendou | 面倒 | trouble, bother
-hadaka | 裸 | naked
-shuuchuu | 集中 | concentration
-konkai | 今回 | this time
-kondo | 今度 | next time; this time
-machigai | 間違い | mistake
-mokuteki | 目的 | purpose, goal
-kaishi | 開始 | start
-joutai | 状態 | condition, state
-houhou | 方法 | method, way
-jisseki | 実績 | track record, results
-riyou | 利用 | use, exploitation
-choushi | 調子 | condition, form | "choushi ni noru na" = don't get cocky
-seikou | 成功 | success
-kokyou | 故郷 | hometown
-mohou | 模倣 | imitation
-maboroshi | 幻 | illusion, phantom
-tami | 民 | the people
-kare | 彼 | he
-karera | 彼ら | they
-kanojo | 彼女 | she; girlfriend
-kimi-tachi | 君たち | you all
-bokura | 僕ら | we (boyish)
-warera | 我ら | we (grand, formal)
-minasan | 皆さん | everyone (polite)
-anesan | 姐さん | big sis (respectful, rough)
-ani | 兄 | older brother
-nii-chan | 兄ちゃん | big bro
-danna | 旦那 | master; husband
-kaa-san | 母さん | mom
-hahaoya | 母親 | mother
-ojou-san | お嬢さん | young lady
-onna no ko | 女の子 | girl
-ouji | 王子 | prince
-osananajimi | 幼なじみ | childhood friend
-oshiego | 教え子 | one's student
-tanin | 他人 | other people, strangers
-renchuu | 連中 | those guys, that lot
-senshi | 戦士 | warrior
-shikaku | 刺客 | assassin
-uragirimono | 裏切り者 | traitor
 zako | 雑魚 | small fry
-dekisokonai | 出来損ない | failure, good-for-nothing
 tenshi | 天使 | angel
 yuurei | 幽霊 | ghost
 ningyou | 人形 | doll, puppet
@@ -83,7 +29,6 @@ seichou | 成長 | growth
 senryoku | 戦力 | fighting strength
 honki | 本気 | serious, for real
 nagare | 流れ | flow
-kiai | 気合い | fighting spirit
 kachi | 勝ち | a win
 make | 負け | a loss
 hikiwake | 引き分け | a draw, tie
@@ -106,7 +51,6 @@ taihen | 大変 | terrible, tough; very
 kyouryoku | 協力 | cooperation
 kyouka | 強化 | strengthening
 kekka | 結果 | result
-otagai | お互い | each other
 tasuke | 助け | help
 shinrai | 信頼 | trust
 mibun | 身分 | social status
@@ -149,7 +93,6 @@ kyoumi | 興味 | interest
 idou | 移動 | movement, travel
 kakunin | 確認 | confirmation, checking
 souzou | 想像 | imagination
-chigai | 違い | difference
 gaman | 我慢 | patience, putting up with
 kansei | 完成 | completion
 honmono | 本物 | the real thing
@@ -157,17 +100,3 @@ yoyuu | 余裕 | room to spare, composure
 yaruki | やる気 | motivation
 kinchou | 緊張 | tension, nerves
 koudou | 行動 | action
-deban | 出番 | one's turn (to act)
-shuudan | 集団 | group
-butai | 部隊 | unit, squad
-tegakari | 手がかり | clue
-taido | 態度 | attitude
-meiwaku | 迷惑 | nuisance, trouble (to others)
-ikari | 怒り | anger
-tanomi | 頼み | a request
-shoutai | 正体 | true identity
-uwasa | 噂 | rumour
-mane | 真似 | imitation, copying
-uchi | うち | our place, our group
-katte | 勝手 | doing as one pleases, selfish
-kanji | 感じ | feeling, impression

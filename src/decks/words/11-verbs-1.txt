@@ -1,4 +1,4 @@
-# Everyday Verbs | Dictionary forms of the verbs you hear constantly
+# Verbs 1 | Action words — the most common
 # format:  romaji | japanese | english | optional note
 
 suru | する | to do
@@ -76,3 +76,20 @@ mitomeru | 認める | to acknowledge, recognize
 fuzakeru | ふざける | to mess around | "fuzakeru na!" = don't screw with me!
 naosu | 治す | to heal, cure
 komaru | 困る | to be troubled, in a bind
+iru | 要る | to need | "iran" = don't need
+furu | 振る | to reject, dump; to shake | "furareru" = to get dumped
+moteru | モテる | to be popular (romantically)
+abiseru | 浴びせる | to shower (someone with words or blows)
+mukau | 向かう | to face, head toward
+tasukaru | 助かる | to be saved; "that's a big help"
+tatenaosu | 建て直す | to rebuild
+mau | 舞う | to dance, flutter
+takameru | 高める | to raise, heighten
+okonau | 行う | to carry out, hold (an event)
+ukaru | 受かる | to pass (an exam)
+ayumu | 歩む | to walk (a path in life)
+umaru | 埋まる | to be filled up
+oyobu | 及ぶ | to reach, to match | "oyobanai" = no match for
+sazukaru | 授かる | to be granted, blessed with
+himeru | 秘める | to hold within, keep hidden
+magirekomu | 紛れ込む | to slip in, get mixed in

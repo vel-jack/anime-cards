@@ -1,6 +1,30 @@
-# Verbs | Action words that recur across 1,152 episodes
+# Verbs 2 | Action words — set 2
 # format:  romaji | japanese | english | optional note
 
+itadaku | いただく | to receive, take (humble) | "itadakou" = I'll be taking that
+iawaseru | 居合わせる | to happen to be present
+yugamu | 歪む | to be warped, twisted
+makaritooru | まかり通る | to go unchallenged
+ochibureru | 落ちぶれる | to fall into ruin, come down in the world
+yadoru | 宿る | to dwell in
+yuzuru | 譲る | to give way, hand over | "yuzurenee" = I can't give this up
+shiageru | 仕上げる | to finish, polish off
+hagemu | 励む | to strive, work hard at
+oou | 覆う | to cover
+motarasu | もたらす | to bring about
+terasu | 照らす | to shine on, light up
+uketsugu | 受け継ぐ | to inherit, carry on
+kiru | 着る | to wear
+hosu | 干す | to hang out to dry
+nakiyamu | 泣き止む | to stop crying
+kosu | 越す | to get through, cross over | "fuyu wo kosu" = get through the winter
+tariru | 足りる | to be enough | "tarin" = not enough
+horu | 掘る | to dig
+hieru | 冷える | to get cold
+tsumoru | 積もる | to pile up (snow)
+heru | 減る | to decrease
+yatte nokeru | やってのける | to pull off, manage to do
+yaku | 焼く | to bake, grill
 buttobasu | ぶっ飛ばす | to send flying, beat up | Luffy's favourite verb
 tsukisusumu | 突き進む | to push forward
 tsubusu | 潰す | to crush
@@ -69,22 +93,3 @@ ki ni iru | 気に入る | to take a liking to | "ki ni itta!" = I like you!
 shitagau | 従う | to obey, follow
 seou | 背負う | to carry on one's back, shoulder
 kakawaru | 関わる | to be involved with
-mayou | 迷う | to get lost, hesitate
-fuku | 吹く | to blow
-fukitobasu | 吹き飛ばす | to blow away
-uramu | 恨む | to resent, hold a grudge
-tobidasu | 飛び出す | to jump out, rush out
-wakareru | 分かれる | to split up, divide
-wakareru | 別れる | to part, say goodbye
-nobiru | 伸びる | to stretch, extend
-kirau | 嫌う | to dislike, hate
-ikinobiru | 生き延びる | to survive
-ikinokoru | 生き残る | to survive, be left alive
-oreru | 折れる | to snap, break; to give in
-machigaeru | 間違える | to make a mistake
-shiraseru | 知らせる | to notify, let know
-nagareru | 流れる | to flow, drift
-haku | 吐く | to spit out, throw up; to tell (a lie)
-nogareru | 逃れる | to escape, evade
-kakomu | 囲む | to surround
-odoru | 踊る | to dance

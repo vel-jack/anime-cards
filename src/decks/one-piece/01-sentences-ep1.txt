@@ -1,0 +1,119 @@
+# Sentences: Episode 1 | Short lines from the first episode — learn the words, then read the line
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore no zaihou ka? Hoshikerya kurete yaru. | 俺の財宝か？欲しけりゃくれてやる。 | My treasure? If you want it, you can have it.
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+zaihou | 財宝 | treasure
+~ka | か | (question: "…?")
+hoshikerya | 欲しけりゃ | if you want it (casual "hoshikereba")
+kurete yaru | くれてやる | I'll let you have it (talking down)
+
+> Kono yo no subete wo soko ni oite kita. | この世の全てをそこに置いてきた。 | I left everything in this world in that place.
+kono yo | この世 | this world
+~no | の | 's, of
+subete | 全て | everything
+~wo | を | (marks the object)
+soko | そこ | there, that place
+~ni | に | in, at
+oite kita | 置いてきた | left (it) behind ("oku" + "kuru", past)
+
+> Yo wa masa ni dai-kaizoku jidai! | 世はまさに大海賊時代！ | The world is truly in the Great Pirate Era!
+yo | 世 | the world, the age
+~wa | は | (marks the topic)
+masa ni | まさに | truly, exactly
+dai-kaizoku jidai | 大海賊時代 | the Great Pirate Era
+
+> Kaizokusen da! Tekishuu! | 海賊船だ！敵襲！ | A pirate ship! We're under attack!
+kaizokusen | 海賊船 | pirate ship
+~da | だ | is
+tekishuu | 敵襲 | enemy attack
+
+> Minasan, ochitsuite kudasai! | 皆さん、落ち着いてください！ | Everyone, please stay calm!
+minasan | 皆さん | everyone (polite)
+ochitsuite | 落ち着いて | calm down (te-form of "ochitsuku")
+kudasai | ください | please (do)
+
+> Kono umi de ichiban utsukushii mono wa dare dai? | この海で一番美しいものは誰だい？ | Who is the most beautiful of all on these seas?
+kono | この | this
+umi | 海 | sea
+~de | で | in, on
+ichiban | 一番 | the most
+utsukushii | 美しい | beautiful
+mono | もの | one, person
+~wa | は | (marks the topic)
+dare | 誰 | who
+~dai | だい | (question, bossy tone)
+
+> Boku, kouiu no nigate de… | 僕、こういうの苦手で… | I'm... not good at this kind of thing…
+boku | 僕 | I (soft, boyish)
+kouiu no | こういうの | this kind of thing
+nigate | 苦手 | bad at, not fond of
+~de | で | (trailing off: "and so…")
+
+> Inochi made torou to wa iwanee yo. | 命まで取ろうとは言わねえよ。 | I'm not saying I'll take your lives.
+inochi | 命 | life
+made | まで | even, as far as
+torou | 取ろう | (I'll) take ("toru", volitional)
+~to wa | とは | (quoting: "that…")
+iwanee | 言わねえ | don't say (rough "iwanai")
+~yo | よ | (asserting)
+
+> Koko wa daremo imasen ne. | ここは誰もいませんね。 | There's no one here, is there.
+koko | ここ | here
+~wa | は | (marks the topic)
+daremo | 誰も | no one (with a negative)
+imasen | いません | there isn't (polite negative of "iru")
+~ne | ね | is there
+
+> Zuibun ookina taru desu ne. | ずいぶん大きなたるですね。 | That's quite a big barrel.
+zuibun | ずいぶん | quite, awfully
+ookina | 大きな | big
+taru | たる | barrel
+~desu ne | ですね | is, isn't it (polite)
+
+> Yoku neta naa! | よく寝たなあ！ | Ahh, I slept well!
+yoku | よく | well
+neta | 寝た | slept (past of "neru")
+~naa | なあ | (satisfied sigh)
+
+> Dare da, omaera? | 誰だ、お前ら？ | Who are you guys?
+dare | 誰 | who
+~da | だ | is
+omaera | お前ら | you guys (rough)
+
+> Hito no hanashi wo kike! | 人の話を聞け！ | Listen when people are talking!
+hito | 人 | person, other people
+~no | の | 's (possessive)
+hanashi | 話 | talk, what someone says
+~wo | を | (marks the object)
+kike | 聞け | listen! (command form of "kiku")
+
+> Ikinari nani sunda yo. | いきなり何すんだよ。 | What are you doing all of a sudden?
+ikinari | いきなり | suddenly, out of nowhere
+nani | 何 | what
+sunda yo | すんだよ | are (you) doing?! (rough "suru n da yo")
+
+> Nakama wo tsurete kaette kitara korosarechaimasu yo. | 仲間を連れて帰ってきたら殺されちゃいますよ。 | If they come back with their friends, you'll be killed!
+nakama | 仲間 | friends, crewmates
+~wo | を | (marks the object)
+tsurete | 連れて | bringing along (te-form of "tsureru")
+kaette kitara | 帰ってきたら | if (they) come back
+korosarechaimasu | 殺されちゃいます | will end up being killed (passive + "-chau", polite)
+~yo | よ | (warning)
+
+> Sore ni shitemo hara hetta naa. | それにしても腹減ったなあ。 | Even so, I'm starving.
+sore ni shitemo | それにしても | even so, all the same
+hara | 腹 | belly
+hetta | 減った | got empty (past of "heru")
+~naa | なあ | (musing)
+
+> Koko nara kaette mitsukaranai kamoshiremasen ne. | ここなら かえって見つからないかもしれませんね。 | In here, we might actually not be found.
+koko nara | ここなら | if it's here
+kaette | かえって | on the contrary, actually
+mitsukaranai | 見つからない | won't be found
+kamoshiremasen | かもしれません | might (polite)
+~ne | ね | don't you think

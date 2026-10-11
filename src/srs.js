@@ -1,8 +1,8 @@
 // The study pile is an endless queue: the top card is shown, then put back.
 //   swipe right -> goes to the bottom of the pile
 //   swipe left  -> slipped back in at a random spot a few cards down
-// What is saved per card is only how it was last swiped and when, which is
-// enough to rebuild the pile in the same spirit on the next visit.
+// What is saved per card is only how it was last swiped, which is enough to
+// rebuild the pile in the same spirit (in a new shuffled order) next time.
 const KEY = 'anime-cards:v2'
 const MIN_GAP = 2 // a missed card never comes straight back
 const MAX_GAP = 10 // ...but is never buried deeper than this
@@ -31,12 +31,20 @@ function insertRandomly(queue, card) {
   queue.splice(lo + Math.floor(Math.random() * (hi - lo + 1)), 0, card)
 }
 
-// New cards first, then known ones (longest unseen first), with missed ones mixed in near the top.
+export function shuffle(list) {
+  for (let i = list.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1))
+    ;[list[i], list[j]] = [list[j], list[i]]
+  }
+  return list
+}
+
+// A fresh order every session: new cards first, then known ones, each group
+// shuffled, with missed ones mixed in near the top.
 export function buildQueue(pool) {
-  const seenAt = (c) => state.cards[c.id].seen
-  const fresh = pool.filter((c) => !state.cards[c.id])
-  const known = pool.filter((c) => state.cards[c.id]?.known).sort((a, b) => seenAt(a) - seenAt(b))
-  const missed = pool.filter((c) => state.cards[c.id]?.known === false)
+  const fresh = shuffle(pool.filter((c) => !state.cards[c.id]))
+  const known = shuffle(pool.filter((c) => state.cards[c.id]?.known))
+  const missed = shuffle(pool.filter((c) => state.cards[c.id]?.known === false))
   const queue = [...fresh, ...known]
   for (const c of missed) insertRandomly(queue, c)
   return queue

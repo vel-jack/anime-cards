@@ -1,25 +1,6 @@
-# Short Words & Describing | One-kanji nouns, colours, directions and descriptive words
+# Things & Ideas 9 | Nouns, concrete and abstract — set 9
 # format:  romaji | japanese | english | optional note
 
-ana | 穴 | hole
-ten | 天 | heaven, the sky
-un | 運 | luck
-on | 恩 | debt of gratitude
-ura | 裏 | the back, reverse side
-oku | 奥 | the back, the depths
-soko | 底 | bottom
-suki | 隙 | opening, gap, unguarded moment
-kobushi | 拳 | fist
-yubi | 指 | finger
-mimi | 耳 | ear
-kata | 肩 | shoulder
-ashi | 脚 | leg
-kiba | 牙 | fang
-mi | 身 | body, oneself
-onore | 己 | oneself; "you!" (angry)
-oya | 親 | parent
-chichi | 父 | father
-haha | 母 | mother
 ane | 姉 | older sister
 mago | 孫 | grandchild
 jijii | 爺 | old man
@@ -86,15 +67,6 @@ aka | 赤 | red
 ao | 青 | blue
 midori | 緑 | green
 murasaki | 紫 | purple
-shiroi | 白い | white
-akai | 赤い | red
-aoi | 青い | blue
-kurai | 暗い | dark
-kitanai | 汚い | dirty; unfair
-furui | 古い | old
-osanai | 幼い | very young, childish
-tegowai | 手ごわい | tough (opponent)
-tanomoshii | 頼もしい | reliable, reassuring
 kyoubou | 凶暴 | ferocious
 kyouaku | 凶悪 | vicious, heinous
 yakkai | 厄介 | troublesome
@@ -112,7 +84,6 @@ jizai | 自在 | at will, freely
 hirobiro | 広々 | spacious
 konagona | 粉々 | in pieces, smashed to bits
 hanarebanare | 離れ離れ | separated, scattered apart
-hara ippai | 腹いっぱい | a full stomach
 yosomi | よそ見 | looking away
 imaya | 今や | now (at last)
 totsujo | 突如 | all of a sudden
@@ -129,14 +100,3 @@ shosen | 所詮 | after all, in the end
 nantomo | 何とも | quite, really; (not) at all
 tadachi ni | 直ちに | immediately
 zonbun | 存分 | to one's heart's content
-hontou wa | 本当は | in truth, actually
-sono aida | その間 | meanwhile, during that time
-zenmen | 全面 | all-out, the entire surface
-tatta ima | たった今 | just now
-nani yara | 何やら | something or other
-naki | 亡き | the late (deceased)
-issei | 一斉 | all at once
-shikyuu | 至急 | urgently
-onajiku | 同じく | likewise
-ooku | 多く | many, much
-tsugi ni | 次に | next

@@ -1,6 +1,55 @@
-# More People & Things | People, roles, places and objects heard 40+ times
+# Things & Ideas 6 | Nouns, concrete and abstract — set 6
 # format:  romaji | japanese | english | optional note
 
+sousa | 操作 | operation, control
+kari | 狩り | hunting
+kyuuryou | 給料 | salary
+heimin | 平民 | commoner
+joutou | 上等 | first-rate; "bring it on!"
+hannin | 犯人 | culprit
+bijo | 美女 | beautiful woman
+kouryaku | 攻略 | capture, conquest
+kehai | 気配 | presence, sign
+yuusen | 優先 | priority
+shuui | 周囲 | surroundings
+doubutsu | 動物 | animal
+tochuu | 途中 | midway, on the way
+odori | 踊り | a dance
+shippai | 失敗 | failure
+shisai | 司祭 | priest
+chichiue | 父上 | father (formal)
+migoto | 見事 | splendid
+saishuu | 最終 | final
+shoumou | 消耗 | exhaustion, using up
+tsukaikata | 使い方 | how to use
+hassei | 発生 | occurrence, outbreak
+shouhi | 消費 | consumption
+juuryoku | 重力 | gravity
+kawari | 代わり | substitute, in place of
+sanka | 参加 | participation
+han'i | 範囲 | range, scope
+ichibu | 一部 | a part
+kinkyuu | 緊急 | emergency
+gijutsu | 技術 | skill, technology
+kodoku | 孤独 | loneliness
+seika | 成果 | results, fruits
+handan | 判断 | judgement, decision
+saiaku | 最悪 | the worst
+mukou | 無効 | invalid, nullified
+muteki | 無敵 | invincible
+sewa | 世話 | care, looking after
+murabito | 村人 | villager
+keiken | 経験 | experience
+bunshin | 分身 | clone, double
+yosou | 予想 | prediction, expectation
+haaku | 把握 | grasp, understanding
+gouryuu | 合流 | joining up, meeting up
+kanryou | 完了 | completion
+guuzen | 偶然 | coincidence
+itami | 痛み | pain
+kongo | 今後 | from now on
+kazan | 火山 | volcano
+shito | 使徒 | apostle
 kobun | 子分 | underling, follower
 teshita | 手下 | henchman
 aibou | 相棒 | partner, buddy
@@ -51,54 +100,3 @@ kobito | 小人 | dwarf, little person
 yousei | 妖精 | fairy
 youkai | 妖怪 | spirit, monster (folklore)
 kamisama | 神様 | god
-moujuu | 猛獣 | fierce beast
-kyouryuu | 恐竜 | dinosaur
-shishi | 獅子 | lion
-mure | 群れ | herd, flock, pack
-mannaka | 真ん中 | the middle
-kaichuu | 海中 | in the sea, underwater
-kaijou | 海上 | on the sea
-unabara | 海原 | the open sea
-joukuu | 上空 | the sky above
-kuuchuu | 空中 | midair
-zenpou | 前方 | ahead, in front
-hougaku | 方角 | direction, bearing
-naibu | 内部 | the inside
-uraguchi | 裏口 | back door
-okujou | 屋上 | rooftop
-kanpan | 甲板 | deck (of a ship)
-kaijou | 会場 | venue
-seichi | 聖地 | holy land
-hakaba | 墓場 | graveyard
-anoyo | あの世 | the afterlife
-shishin | 指針 | compass needle; guide
-nimotsu | 荷物 | luggage, cargo
-sharyou | 車両 | train car, vehicle
-kanban | 看板 | sign, signboard
-kayaku | 火薬 | gunpowder
-houdan | 砲弾 | cannonball, shell
-meitou | 名刀 | famous sword
-nitouryuu | 二刀流 | two-sword style
-kenpou | 拳法 | martial art (fist fighting)
-karate | 空手 | karate
-ougi | 奥義 | secret technique
-moudoku | 猛毒 | deadly poison
-houseki | 宝石 | jewel
-zaisan | 財産 | fortune, property
-omamori | お守り | lucky charm
-bentou | 弁当 | boxed lunch
-koubutsu | 好物 | favourite food
-kuimono | 食い物 | food (rough)
-hanabi | 花火 | fireworks
-kiji | 記事 | (news) article
-gougai | 号外 | newspaper extra
-moji | 文字 | letter, character, writing
-medama | 目玉 | eyeball
-nakami | 中身 | contents
-nioi | 匂い | smell
-kaori | 香り | fragrance
-himei | 悲鳴 | scream
-aizu | 合図 | signal
-tenki | 天気 | weather
-kaji | 火事 | a fire
-funka | 噴火 | eruption

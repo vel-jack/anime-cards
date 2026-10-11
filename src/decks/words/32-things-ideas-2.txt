@@ -1,26 +1,6 @@
-# People & Places | Who you meet and where you land
+# Things & Ideas 2 | Nouns, concrete and abstract — set 2
 # format:  romaji | japanese | english | optional note
 
-isha | 医者 | doctor
-gakusha | 学者 | scholar
-ousama | 王様 | king
-oujo | 王女 | princess
-ouhi | 王妃 | queen (consort)
-hime | 姫 | princess
-shujin | 主人 | master; husband
-onjin | 恩人 | benefactor, someone you owe
-otou-san | お父さん | father
-tou-chan | 父ちゃん | dad (casual)
-chichioya | 父親 | father
-hahaue | 母上 | mother (formal)
-nee-san | 姉さん | older sister
-nee-chan | 姉ちゃん | big sis; young lady
-ichizoku | 一族 | clan, family line
-ikka | 一家 | family, household
-shuzoku | 種族 | race, species
-sedai | 世代 | generation
-sessha | 拙者 | I, me (samurai speech)
-shousha | 勝者 | winner
 hentai | 変態 | pervert
 seibutsu | 生物 | living thing, organism
 tori | 鳥 | bird
@@ -80,3 +60,43 @@ okane | お金 | money
 ocha | お茶 | tea
 okashi | お菓子 | sweets, snacks
 shokuryou | 食料 | food supplies
+rekishi | 歴史 | history
+kako | 過去 | the past
+genzai | 現在 | the present, now
+ashita | 明日 | tomorrow
+shunkan | 瞬間 | moment, instant
+jinsei | 人生 | (one's) life
+kiseki | 奇跡 | miracle
+byouki | 病気 | illness
+kagaku | 科学 | science
+keikaku | 計画 | plan
+sekkei | 設計 | design, blueprint
+kiroku | 記録 | record
+shouko | 証拠 | evidence
+jijitsu | 事実 | fact
+shinjitsu | 真実 | truth
+nazo | 謎 | mystery
+hitokoto | ひと言 | a word, a few words
+kotae | 答え | answer
+henji | 返事 | reply
+kangae | 考え | thought, idea
+monku | 文句 | complaint
+ryoukai | 了解 | roger, understood
+outou | 応答 | response (on a radio)
+annai | 案内 | guidance, showing the way
+shimatsu | 始末 | dealing with, disposal
+nanigoto | 何事 | what (is going on)
+sawagi | 騒ぎ | commotion, uproar
+toutatsu | 到達 | reaching, attainment
+touchaku | 到着 | arrival
+hakken | 発見 | discovery
+saikai | 再会 | reunion
+tanjou | 誕生 | birth
+toujou | 登場 | appearance, entrance
+kyoufu | 恐怖 | fear, terror
+urami | 恨み | grudge
+koukai | 後悔 | regret
+munen | 無念 | regret, chagrin
+nozomi | 望み | wish, hope
+shiwaza | 仕業 | (someone's) doing
+shougeki | 衝撃 | shock, impact

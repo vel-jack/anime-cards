@@ -1,5 +1,5 @@
 import { decks, groups } from './decks.js'
-import { state, save, buildQueue, swipe, undo, stats, reset } from './srs.js'
+import { state, save, buildQueue, shuffle, swipe, undo, stats, reset } from './srs.js'
 import { themeVars, art } from './themes.js'
 import { japaneseVoices, currentVoice, setVoice, speak, onVoicesChanged } from './speech.js'
 
@@ -33,18 +33,21 @@ function deckTile(d) {
         class="tile themed relative flex h-[23rem] w-full flex-col overflow-hidden rounded-[2rem] border-[5px] p-5 text-left transition
           ${on ? 'border-white shadow-xl' : 'border-transparent opacity-45 hover:opacity-70'}">
         ${art(d.id)}
-        <span class="relative block size-8 rounded-full" style="background:var(--dot)"></span>
+        <span class="relative grid size-8 place-items-center rounded-full text-base font-black text-white" style="background:var(--dot)">${on ? '✓' : ''}</span>
         <span class="relative mt-4 block h-px w-6 bg-current opacity-50"></span>
         <h4 class="relative mt-3 max-w-[70%] text-2xl leading-[1.05] font-extrabold">${esc(d.title)}</h4>
         <p class="relative mt-2 max-w-[60%] text-xs leading-snug font-medium opacity-80">${esc(d.description)}</p>
         <span class="relative mt-auto block pt-6 text-xs font-bold tracking-wide">${d.kind === 'sentences' ? 'SENTENCES' : 'WORDS'}</span>
         <span class="relative block text-6xl leading-none font-black">${s.total}</span>
-        <span class="relative mt-4 block text-sm font-bold">${on ? '✓ Selected' : 'Select'}</span>
       </button>
       ${
         s.known + s.learning
-          ? `<button data-reset="${d.id}" style="${themeVars(d.index)};color:var(--fg)"
-              class="absolute right-6 bottom-5 text-sm font-bold ${on ? '' : 'opacity-45'} hover:underline">Reset</button>`
+          ? `<button data-reset="${d.id}" aria-label="Reset progress for ${esc(d.title)}" title="Reset progress" style="${themeVars(d.index)}"
+              class="reset-btn absolute top-5 right-5 grid size-9 place-items-center rounded-full transition hover:rotate-[-45deg] active:scale-90 ${on ? '' : 'opacity-45'}">
+              <svg viewBox="0 0 24 24" class="size-5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+                <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+              </svg>
+            </button>`
           : ''
       }
     </li>`
@@ -74,7 +77,8 @@ const SUBGROUPS = [
   ['sentences', 'Sentences'],
 ]
 
-// One kind of deck within a group, with its own select toggle.
+// One kind of deck within a group, with its own select toggle. Only used when a
+// group mixes word and sentence decks; otherwise its decks are listed directly.
 function subgroup(g, kind, label) {
   const own = g.decks.filter((d) => d.kind === kind)
   if (!own.length) return ''
@@ -114,7 +118,9 @@ function toggleToTop() {
 
 function renderHome() {
   current = null
-  const count = decks.filter((d) => selected.has(d.id)).reduce((n, d) => n + d.cards.length, 0)
+  const chosenDecks = decks.filter((d) => selected.has(d.id))
+  const count = chosenDecks.reduce((n, d) => n + d.cards.length, 0)
+  const hasProgress = chosenDecks.some((d) => stats(d.cards).fresh < d.cards.length)
 
   app.innerHTML = `
     <main class="mx-auto flex min-h-full max-w-7xl flex-col px-4 pt-8 pb-32 sm:px-8">
@@ -124,25 +130,35 @@ function renderHome() {
           <span class="mt-4 block h-px w-6 bg-white/50"></span>
           <h1 class="mt-3 text-4xl leading-none font-extrabold sm:text-5xl">Romaji<br />Cards</h1>
         </div>
-        ${
-          groups.length > 1
-            ? `<button id="select-everything" class="rounded-full border border-white/40 px-4 py-2 text-sm font-bold hover:bg-white/10">
-                ${decks.every((d) => selected.has(d.id)) ? 'Deselect all groups' : 'Select all groups'}
-              </button>`
-            : ''
-        }
+        <div class="flex items-center gap-3">
+          ${
+            groups.length > 1
+              ? `<button id="select-everything" class="rounded-full border border-white/40 px-4 py-2 text-sm font-bold hover:bg-white/10">
+                  ${decks.every((d) => selected.has(d.id)) ? 'Deselect all groups' : 'Select all groups'}
+                </button>`
+              : ''
+          }
+          <button id="reset-selected" aria-label="Reset progress for the selected decks" title="Reset progress for the selected decks" ${hasProgress ? '' : 'disabled'}
+            class="grid size-10 place-items-center rounded-full border border-white/40 transition hover:rotate-[-45deg] hover:bg-white/10 active:scale-90 disabled:pointer-events-none disabled:opacity-30">
+            <svg viewBox="0 0 24 24" class="size-5" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+              <path d="M3 12a9 9 0 1 0 3-6.7" /><path d="M3 4v5h5" />
+            </svg>
+          </button>
+        </div>
       </header>
 
       ${groups
         .map((g) => {
           const allOn = g.decks.every((d) => selected.has(d.id))
           const open = !collapsed.has(g.id)
+          const picked = g.decks.filter((d) => selected.has(d.id)).length
           return `
             <section class="mt-8">
               <div class="flex items-end justify-between gap-4 border-b border-white/20 pb-3">
                 <button data-fold="${g.id}" aria-expanded="${open}" class="flex min-w-0 flex-1 items-center gap-3 text-left">
                   <span class="inline-block text-sm transition-transform ${open ? 'rotate-90' : ''}">▶</span>
                   <h2 class="truncate text-xl font-extrabold sm:text-2xl">${esc(g.title)}</h2>
+                  <span class="shrink-0 rounded-full px-2.5 py-0.5 text-xs font-bold tabular-nums ${picked ? 'bg-white text-navy' : 'bg-white/15 text-white/70'}">${picked} / ${g.decks.length}</span>
                 </button>
                 <button data-group="${g.id}" class="text-sm font-bold text-white/70 hover:text-white">
                   ${allOn ? 'Select none' : 'Select all'}
@@ -150,7 +166,9 @@ function renderHome() {
               </div>
               ${
                 open
-                  ? SUBGROUPS.map(([kind, label]) => subgroup(g, kind, label)).join('')
+                  ? new Set(g.decks.map((d) => d.kind)).size > 1
+                    ? SUBGROUPS.map(([kind, label]) => subgroup(g, kind, label)).join('')
+                    : `<ul class="mt-5 grid auto-rows-fr gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">${g.decks.map(deckTile).join('')}</ul>`
                   : ''
               }
             </section>`
@@ -158,12 +176,6 @@ function renderHome() {
         .join('')}
 
       ${voicePicker()}
-
-      <div class="mt-10 flex justify-center gap-8 text-sm font-bold text-white/60">
-        <button id="reset-selected" class="hover:text-white">Reset selected</button>
-        <span class="h-5 w-px rotate-[25deg] bg-white/30"></span>
-        <button id="reset-all" class="hover:text-white">Reset all</button>
-      </div>
     </main>
 
     <button id="to-top" aria-label="Go to top" hidden
@@ -233,25 +245,15 @@ function renderHome() {
   )
   app.querySelector('#reset-selected').addEventListener('click', () => {
     const chosen = decks.filter((d) => selected.has(d.id))
-    if (chosen.length) confirmReset(`Forget progress for the ${chosen.length} selected deck(s)?`, chosen)
+    const all = chosen.length === decks.length
+    if (chosen.length) confirmReset(all ? 'Forget all progress and start over?' : `Forget progress for the ${chosen.length} selected deck(s)?`, chosen)
   })
-  app.querySelector('#reset-all').addEventListener('click', () => confirmReset('Forget all progress and start over?', decks))
 }
 
 /* ---------- study ---------- */
 
-// Round-robin across the chosen decks so a mixed session isn't one topic at a time.
-function buildPool() {
-  const lists = decks.filter((d) => selected.has(d.id)).map((d) => d.cards)
-  const out = []
-  for (let i = 0; lists.some((l) => i < l.length); i++) {
-    for (const l of lists) if (i < l.length) out.push(l[i])
-  }
-  return out
-}
-
 function startStudy() {
-  queue = buildQueue(buildPool())
+  queue = buildQueue(decks.filter((d) => selected.has(d.id)).flatMap((d) => d.cards))
   if (!queue.length) return
   lastUndo = null
   warmup = []
@@ -278,14 +280,6 @@ function startStudy() {
   app.querySelector('#home').addEventListener('click', leaveStudy)
   app.querySelector('#undo').addEventListener('click', undoLast)
   showNext()
-}
-
-function shuffle(list) {
-  for (let i = list.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1))
-    ;[list[i], list[j]] = [list[j], list[i]]
-  }
-  return list
 }
 
 const wordCards = (sentence) =>

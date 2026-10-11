@@ -1,4 +1,4 @@
-# Pirates, Sea & Ships | The words of the Grand Line
+# Pirates, Sea & Ships | Crews, voyages, treasure and weather
 # format:  romaji | japanese | english | optional note
 
 kaizoku | 海賊 | pirate

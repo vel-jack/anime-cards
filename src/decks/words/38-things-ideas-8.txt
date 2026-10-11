@@ -1,56 +1,6 @@
-# More Ideas | Abstract nouns heard 40+ times
+# Things & Ideas 8 | Nouns, concrete and abstract — set 8
 # format:  romaji | japanese | english | optional note
 
-chuui | 注意 | caution, attention
-negai | 願い | wish, request
-jouken | 条件 | condition, terms
-shouchi | 承知 | acknowledgement | "shouchi shita" = understood
-haiboku | 敗北 | defeat
-toppa | 突破 | breakthrough
-hisshi | 必死 | desperate, frantic
-sokudo | 速度 | speed
-seken | 世間 | the world, society
-yononaka | 世の中 | the world, the way things are
-keibi | 警備 | security, guard
-keikai | 警戒 | vigilance, being on guard
-kanshi | 監視 | surveillance
-zatsuyou | 雑用 | chores, odd jobs
-sagyou | 作業 | work, operation
-souji | 掃除 | cleaning
-shuuri | 修理 | repair
-kaizou | 改造 | modification, remodelling
-hatsumei | 発明 | invention
-keisan | 計算 | calculation
-benkyou | 勉強 | study
-teokure | 手遅れ | too late
-ijou | 異常 | abnormal, something wrong
-orei | お礼 | thanks, a thank-you
-ongaeshi | 恩返し | returning a favour
-giri | 義理 | duty, obligation
-nasake | 情け | compassion, mercy
-doujou | 同情 | sympathy
-kurou | 苦労 | hardship, trouble
-kurushimi | 苦しみ | suffering
-fukou | 不幸 | misfortune
-higeki | 悲劇 | tragedy
-akumu | 悪夢 | nightmare
-ketsui | 決意 | determination
-ketsudan | 決断 | decision
-yuuki | 勇気 | courage
-dokyou | 度胸 | nerve, guts
-iji | 意地 | stubborn pride
-jishin | 自信 | confidence
-jiman | 自慢 | boast, pride
-shouki | 正気 | sanity
-kanjou | 感情 | emotion
-kandou | 感動 | being deeply moved
-yokan | 予感 | premonition
-yuuwaku | 誘惑 | temptation
-eien | 永遠 | eternity
-jumyou | 寿命 | lifespan
-seimei | 生命 | life
-umare | 生まれ | birth, origin
-seikatsu | 生活 | daily life, living
 omoide | 思い出 | memory, recollection
 monogatari | 物語 | story, tale
 genjitsu | 現実 | reality
@@ -79,7 +29,6 @@ yotei | 予定 | plan, schedule
 mokuhyou | 目標 | goal, target
 hyouteki | 標的 | target (to hit)
 tayori | 頼り | reliance, someone to count on
-sukui | 救い | salvation, relief
 kangei | 歓迎 | welcome
 hajimari | 始まり | the beginning
 hajime | 初め | the start, at first
@@ -108,7 +57,6 @@ soshi | 阻止 | prevention, blocking
 massatsu | 抹殺 | elimination, erasing
 kaimetsu | 壊滅 | total destruction
 koroshi | 殺し | killing
-koroshiai | 殺し合い | killing each other
 goumon | 拷問 | torture
 bouryoku | 暴力 | violence
 hangyaku | 反逆 | treason, rebellion
@@ -127,10 +75,28 @@ juushou | 重傷 | serious injury
 shikkaku | 失格 | disqualification
 kaiketsu | 解決 | solution, settlement
 henkou | 変更 | change, alteration
-atsukai | 扱い | treatment, handling
 tema | 手間 | time and effort
 tedashi | 手出し | meddling, laying a hand on
 michizure | 道連れ | taking someone down with you
 yousu | 様子 | state, how things look
 kannen | 観念 | resignation | "kannen shiro" = give it up
 kuuhaku | 空白 | blank, void
+ana | 穴 | hole
+ten | 天 | heaven, the sky
+un | 運 | luck
+on | 恩 | debt of gratitude
+ura | 裏 | the back, reverse side
+oku | 奥 | the back, the depths
+soko | 底 | bottom
+suki | 隙 | opening, gap, unguarded moment
+kobushi | 拳 | fist
+yubi | 指 | finger
+mimi | 耳 | ear
+kata | 肩 | shoulder
+ashi | 脚 | leg
+kiba | 牙 | fang
+mi | 身 | body, oneself
+onore | 己 | oneself; "you!" (angry)
+oya | 親 | parent
+chichi | 父 | father
+haha | 母 | mother

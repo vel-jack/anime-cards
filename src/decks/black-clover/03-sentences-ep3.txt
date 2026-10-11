@@ -1,0 +1,95 @@
+# Sentences: Episode 3 | Short lines from "To the Royal Capital of the Clover Kingdom!"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Omae mo nomu ka? | お前も飲むか？ | Want some too?
+omae | お前 | you (rough)
+~mo | も | too
+nomu | 飲む | to drink
+~ka | か | (question: "…?")
+
+> Maryoku ga nakutatte noboritsumete miseru ze! | 魔力がなくたって上り詰めてみせるぜ！ | Even without magic power, I'll climb to the top — just watch!
+maryoku | 魔力 | magic power
+~ga | が | (marks the subject)
+nakutatte | なくたって | even without (casual "nakutemo")
+noboritsumete | 上り詰めて | climb to the very top (te-form of "noboritsumeru")
+miseru ze | みせるぜ | I'll show you (I can do it)
+
+> Kitto Yuno datte tokkun shiteru. | きっとユノだって特訓してる。 | I bet Yuno is training too.
+kitto | きっと | surely
+~Yuno | ユノ | Yuno (name)
+datte | だって | too, even
+tokkun shiteru | 特訓してる | is training hard (short for "tokkun shite iru")
+
+> Futari no mokuhyou wa itsuka Mahoutei ni naru koto. | 二人の目標はいつか魔法帝になること。 | Their goal is to become the Wizard King someday.
+futari | 二人 | the two of them
+~no | の | 's (possessive)
+mokuhyou | 目標 | goal
+~wa | は | (marks the topic)
+itsuka | いつか | someday
+Mahoutei | 魔法帝 | Wizard King
+~ni | に | (marks what you become)
+naru | なる | to become
+koto | こと | (turns a verb into a thing: "to become")
+
+> Asuta wa ukeru dake muda desu yo. | アスタは受けるだけムダですよ。 | It's pointless for Asta to even take it.
+~Asuta | アスタ | Asta (name)
+~wa | は | (marks the topic)
+ukeru | 受ける | to take (an exam)
+dake | だけ | just, merely
+muda | ムダ | pointless
+~desu yo | ですよ | it is (polite, asserting)
+
+> Saisho kara ukenai hou ga aitsu no tame ja nai ka to… | 最初から受けないほうがあいつのためじゃないかと… | I just think not taking it at all might be better for him…
+saisho kara | 最初から | from the start
+ukenai | 受けない | not take
+hou ga | ほうが | (this option) is better
+aitsu | あいつ | him, that guy
+~no | の | 's (possessive)
+tame | ため | sake, good
+~ja nai ka to | じゃないかと | "isn't it, I think…"
+
+> Inaku naru to sabishii desu yo. | いなくなると寂しいですよ。 | I'll be lonely when they're gone.
+inaku naru | いなくなる | to be gone (lit. "become not here")
+~to | と | when, if
+sabishii | 寂しい | lonely
+~desu yo | ですよ | it is (polite, asserting)
+
+> Yaritai koto wa yarasete agetain desu. | やりたいことはやらせてあげたいんです。 | I want to let them do what they want to do.
+yaritai | やりたい | want to do
+koto | こと | thing
+~wa | は | (marks the topic)
+yarasete | やらせて | let (them) do (causative te-form of "yaru")
+agetai | あげたい | want to (do it for them)
+~n desu | んです | (explaining, polite)
+
+> Are wa hontou ni gurimowaaru nan deshou ka? | あれは本当に魔導書なんでしょうか？ | Is that really a grimoire, I wonder?
+are | あれ | that (over there)
+~wa | は | (marks the topic)
+hontou ni | 本当に | really
+gurimowaaru | 魔導書 | grimoire
+~nan deshou ka | なんでしょうか | is it, I wonder (polite)
+
+> Docchi ga hayakatta? | どっちが速かった？ | Which of us was faster?
+docchi | どっち | which (of two)
+~ga | が | (marks the subject)
+hayakatta | 速かった | was fast (past of "hayai")
+
+> Chanto miteta no ka? | ちゃんと見てたのか？ | Were you really watching properly?
+chanto | ちゃんと | properly
+miteta | 見てた | were watching (short for "mite ita")
+~no ka | のか | (pressing question)
+
+> Ore no kachi da. | 俺の勝ちだ。 | It's my win.
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+kachi | 勝ち | a win
+~da | だ | is
+
+> Igai to otonagenai yo ne, Yuno-nii. | 意外と大人げないよね、ユノ兄。 | Yuno's surprisingly childish, isn't he.
+igai to | 意外と | surprisingly
+otonagenai | 大人げない | childish, immature
+~yo ne | よね | isn't he
+~Yuno-nii | ユノ兄 | big brother Yuno

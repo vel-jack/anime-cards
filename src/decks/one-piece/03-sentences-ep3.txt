@@ -1,0 +1,128 @@
+# Sentences: Episode 3 | Short lines from the third episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Dakara ittaro? Ore wa tsuyoi tte. | だから言ったろ？俺は強いって。 | Told you, didn't I? I'm strong.
+dakara | だから | see, so
+ittaro | 言ったろ | I said, didn't I (casual "itta darou")
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+tsuyoi | 強い | strong
+~tte | って | (quoting: "that…")
+
+> Temee, ittai nanimono nanda? | てめえ、一体何者なんだ？ | Just who the hell are you?
+temee | てめえ | you (very rude)
+ittai | 一体 | (who) on earth
+nanimono | 何者 | who, what sort of person
+~nanda | なんだ | are (you)?!
+
+> Ore wa Rufi. Kaizoku-ou ni naru otoko da. | 俺はルフィ。海賊王になる男だ。 | I'm Luffy. The man who'll become King of the Pirates.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+~Rufi | ルフィ | Luffy (name)
+kaizoku-ou | 海賊王 | King of the Pirates
+~ni | に | (marks what you become)
+naru | なる | to become
+otoko | 男 | man
+~da | だ | is
+
+> Imi wakatte itten no ka? | 意味分かって言ってんのか？ | Do you even understand what you're saying?
+imi | 意味 | meaning
+wakatte | 分かって | understanding (te-form of "wakaru")
+itten no ka | 言ってんのか | are you saying it? (rough "itte iru no ka")
+
+> Hoka ni imi ga aru ka? | 他に意味があるか？ | Does it have any other meaning?
+hoka ni | 他に | other, besides that
+imi | 意味 | meaning
+~ga | が | (marks the subject)
+aru | ある | there is
+~ka | か | (question: "…?")
+
+> Rufi-san wa honki desu. | ルフィさんは本気です。 | Luffy is serious.
+~Rufi-san | ルフィさん | Mr. Luffy
+~wa | は | (marks the topic)
+honki | 本気 | serious, for real
+~desu | です | is (polite)
+
+> Ore wa santouryuu nan de ne. | 俺は三刀流なんでね。 | I use the three-sword style, you see.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+santouryuu | 三刀流 | three-sword style
+~nan de ne | なんでね | you see (giving a reason)
+
+> Kono mama kaigun ni korosareru no to docchi ga ii? | このまま海軍に殺されるのとどっちがいい？ | Or being killed by the Navy as you are — which do you prefer?
+kono mama | このまま | like this, as things are
+kaigun | 海軍 | the Navy
+~ni | に | by
+korosareru | 殺される | to be killed (passive of "korosu")
+~no to | のと | "…and (the other option)"
+docchi | どっち | which (of two)
+~ga | が | (marks the subject)
+ii | いい | good, better
+
+> Natte yarou ja nee ka, kaizoku ni. | なってやろうじゃねえか、海賊に。 | Fine, I'll become one — a pirate.
+natte yarou | なってやろう | I'll go and become (one)
+ja nee ka | じゃねえか | why not (rough)
+kaizoku | 海賊 | pirate
+~ni | に | (marks what you become)
+
+> Wakattara sassato kono nawa wo hodoke! | 分かったら さっさとこの縄をほどけ！ | If you get it, hurry up and untie this rope!
+wakattara | 分かったら | if you understand
+sassato | さっさと | quickly, get on with it
+kono | この | this
+nawa | 縄 | rope
+~wo | を | (marks the object)
+hodoke | ほどけ | untie! (command form of "hodoku")
+
+> Tada no ningen ja nee zo. | ただの人間じゃねえぞ。 | He's no ordinary human.
+tada no | ただの | ordinary, mere
+ningen | 人間 | human
+ja nee | じゃねえ | is not (rough)
+~zo | ぞ | (emphatic)
+
+> Ore ni sakarau yatsu wa mina shikei da. | 俺に逆らうヤツは皆 死刑だ。 | Anyone who defies me gets the death penalty.
+ore | 俺 | I, me (rough, masculine)
+~ni | に | against, to
+sakarau | 逆らう | to defy
+yatsu | ヤツ | guy, anyone
+~wa | は | (marks the topic)
+mina | 皆 | all
+shikei | 死刑 | death penalty
+~da | だ | is
+
+> Temeera, ugoku to kiru zo. | てめえら、動くと斬るぞ。 | Move, and I'll cut you down.
+temeera | てめえら | you lot (very rude)
+ugoku | 動く | to move
+~to | と | if, when
+kiru | 斬る | to cut down
+~zo | ぞ | (threatening)
+
+> Sekai-ichi no kengou ni naru koto da. | 世界一の剣豪になることだ。 | To become the world's greatest swordsman.
+sekai-ichi | 世界一 | the best in the world
+~no | の | (links to the noun)
+kengou | 剣豪 | master swordsman
+~ni | に | (marks what you become)
+naru | なる | to become
+koto | こと | (turns a verb into a thing: "to become")
+~da | だ | is
+
+> Ore wa jibun no yabou dake wa tsuranuku zo. | 俺は自分の野望だけは貫くぞ。 | My own ambition is the one thing I will see through.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+jibun | 自分 | oneself, my own
+~no | の | 's (possessive)
+yabou | 野望 | ambition
+dake | だけ | only
+~wa | は | (emphasis: "at least this")
+tsuranuku | 貫く | to see through, stick to
+~zo | ぞ | (emphatic)
+
+> Ore wa Gomu Gomu no Mi wo kuttanda. | 俺はゴムゴムの実を食ったんだ。 | I ate the Gum-Gum Fruit.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+~Gomu Gomu no Mi | ゴムゴムの実 | the Gum-Gum Fruit
+~wo | を | (marks the object)
+kutta | 食った | ate (rough; past of "kuu")
+~n da | んだ | (explaining)

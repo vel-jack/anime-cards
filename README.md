@@ -2,7 +2,7 @@
 
 Flashcards for building Japanese vocabulary from anime. Each card shows a word in romaji; tap to flip it and see the English meaning, then swipe to say whether you knew it.
 
-The vocabulary comes from subtitle files, grouped by show. It currently covers Black Clover and One Piece, about 2,300 words in total.
+The vocabulary comes from subtitle files. It currently has about 2,700 words, shared across shows, plus sentence decks for Black Clover and One Piece.
 
 ## How it works
 
@@ -53,18 +53,22 @@ npm run preview   # serve the production build locally
 
 ## Adding vocabulary
 
-Decks are plain text files in `src/decks/`. Each folder is a group (one show), and each `.txt` file inside it is a deck:
+Decks are plain text files in `src/decks/`. Each folder is a group, and each `.txt` file inside it is a deck:
 
 ```
 src/decks/
-  black-clover/
+  words/                 shared vocabulary, used by every show
     01-people.txt
-    02-magic-world.txt
+    11-verbs-1.txt
+    ...
+  black-clover/          one folder per show, holding its sentence decks
+    01-sentences-ep1.txt
     ...
   one-piece/
-    01-pirates-sea.txt
-    ...
+    01-sentences-ep1.txt
 ```
+
+Words are not split by show: a word is the same word wherever it is heard. The `words` folder has themed decks (people, battle, pirates…) and then verbs, describing words and nouns, numbered with the most common first.
 
 A deck file looks like this:
 
@@ -101,7 +105,7 @@ Words starting with `~` (particles, names) appear in the breakdown but don't get
 - **New deck:** add a `.txt` file to a group folder. Files are ordered by name, hence the number prefixes.
 - **New show:** add a folder. Its name becomes the section title (`one-piece` → "One Piece").
 
-Changing a word's romaji or Japanese spelling, or renaming its file or folder, resets the saved progress for that card.
+Saved progress is tied to the word itself (its romaji and Japanese spelling), so moving a word to another deck keeps its progress. Changing the romaji or the Japanese spelling resets it.
 
 ## Deploying
 
