@@ -228,7 +228,7 @@ function renderHome() {
     setVoice(e.target.value)
     speak('こんにちは') // let them hear the voice they picked
   })
-  app.querySelector('#start').addEventListener('click', startStudy)
+  app.querySelector('#start').addEventListener('click', () => startStudy())
   app.querySelector('#to-top').addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }))
   toggleToTop()
 
@@ -252,7 +252,7 @@ function renderHome() {
 
 /* ---------- study ---------- */
 
-function startStudy() {
+function startStudy(fromHistory = false) {
   queue = buildQueue(decks.filter((d) => selected.has(d.id)).flatMap((d) => d.cards))
   if (!queue.length) return
   lastUndo = null
@@ -276,7 +276,7 @@ function startStudy() {
     </main>`
 
   // Studying is its own history entry, so the browser or phone back action returns to the decks.
-  history.pushState({ study: true }, '')
+  if (!fromHistory) history.pushState({ study: true }, '')
   app.querySelector('#home').addEventListener('click', leaveStudy)
   app.querySelector('#undo').addEventListener('click', undoLast)
   showNext()
@@ -521,7 +521,8 @@ document.addEventListener('keydown', (e) => {
 window.addEventListener('scroll', toggleToTop, { passive: true })
 
 window.addEventListener('popstate', () => {
-  if (current) renderHome()
+  if (history.state?.study) startStudy(true)
+  else renderHome()
 })
 
 // Card size follows the window, and text widths change once the web font loads.
@@ -534,4 +535,7 @@ onVoicesChanged(() => {
   else app.querySelector('[data-speak]')?.toggleAttribute('hidden', !currentVoice())
 })
 
-renderHome()
+// A reload in the middle of a session keeps its history entry, so reopen the
+// session; back then returns to the decks as usual.
+if (history.state?.study) startStudy(true)
+else renderHome()

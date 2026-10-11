@@ -2,7 +2,8 @@
 // Japanese voices the device provides. Nothing is downloaded or installed.
 import { state, save } from './srs.js'
 
-const synth = window.speechSynthesis
+// Some browsers do not expose the Web Speech API at all.
+const synth = 'speechSynthesis' in window ? window.speechSynthesis : null
 
 // Voices installed on the device come first; ones the browser streams follow.
 export function japaneseVoices() {
