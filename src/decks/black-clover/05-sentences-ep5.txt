@@ -1,0 +1,96 @@
+# Sentences: Episode 5 | Short lines from "The Road to the Wizard King"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Tekagen nashi da ze. | 手加減なしだぜ。 | No holding back.
+tekagen | 手加減 | going easy on someone
+nashi | なし | without, none
+~da ze | だぜ | it is (rough, masculine)
+
+> Enryo shinaide kakatte kina. | 遠慮しないでかかってきな。 | Don't hold back — come at me.
+enryo shinaide | 遠慮しないで | without holding back
+kakatte kina | かかってきな | come at me (casual command)
+
+> Are wo yaburu no wa muri da. | あれを破るのはムリだ。 | Breaking through that is impossible.
+are | あれ | that
+~wo | を | (marks the object)
+yaburu | 破る | to break through
+~no wa | のは | ("…-ing" as the topic)
+muri | ムリ | impossible
+~da | だ | is
+
+> Ore mo aitsu to tatakaitakatta na. | 俺もあいつと戦いたかったな。 | I wanted to fight him too.
+ore | 俺 | I (rough, masculine)
+~mo | も | too
+aitsu | あいつ | him, that guy
+~to | と | with
+tatakaitakatta | 戦いたかった | wanted to fight (past of "tatakaitai")
+~na | な | (musing)
+
+> Omae nanka doko no dan ni mo hairenee yo. | お前なんかどこの団にも入れねえよ。 | Someone like you won't get into any squad.
+omae | お前 | you (rough)
+nanka | なんか | someone like (belittling)
+doko no | どこの | which, any
+dan | 団 | squad
+~ni mo | にも | into (any at all)
+hairenee | 入れねえ | can't get in (rough "hairenai")
+~yo | よ | (asserting)
+
+> Kore wa tada shintai nouryoku ga takai dake da. | これはただ身体能力が高いだけだ。 | This is simply high physical ability.
+kore | これ | this
+~wa | は | (marks the topic)
+tada | ただ | just, simply
+shintai nouryoku | 身体能力 | physical ability
+~ga | が | (marks the subject)
+takai | 高い | high
+dake | だけ | only
+~da | だ | is
+
+> Omae ni katsu no wa ore da. | お前に勝つのは俺だ。 | The one who'll beat you is me.
+omae | お前 | you (rough)
+~ni | に | against
+katsu | 勝つ | to win, beat
+~no wa | のは | "the one who…"
+ore | 俺 | I (rough, masculine)
+~da | だ | is
+
+> Monku aru ka? | 文句あるか？ | Got a problem with that?
+monku | 文句 | complaint
+aru | ある | to have, there is
+~ka | か | (question: "…?")
+
+> Souiya zenzen ma wo kanjinakatta na. | そういや全然魔を感じなかったな。 | Come to think of it, I sensed no magic at all.
+souiya | そういや | come to think of it
+zenzen | 全然 | not at all
+ma | 魔 | magic
+~wo | を | (marks the object)
+kanjinakatta | 感じなかった | didn't sense (negative past of "kanjiru")
+~na | な | (musing)
+
+> Myou na no ga arawareyagatta naa. | 妙なのが現れやがったなぁ。 | Now a strange one has shown up.
+myou na no | 妙なの | a strange one
+~ga | が | (marks the subject)
+arawareyagatta | 現れやがった | has gone and shown up ("arawareru" + rough "-yagaru")
+~naa | なぁ | (musing)
+
+> Yappari kizoku ga tsuyoi yo na. | やっぱり貴族が強いよな。 | Nobles really are strong, huh.
+yappari | やっぱり | as expected, after all
+kizoku | 貴族 | noble
+~ga | が | (marks the subject)
+tsuyoi | 強い | strong
+~yo na | よな | aren't they
+
+> Aite ga yudan shisugi dattanda yo. | 相手が油断しすぎだったんだよ。 | His opponent was just far too careless.
+aite | 相手 | opponent
+~ga | が | (marks the subject)
+yudan | 油断 | carelessness, lowering one's guard
+shisugi | しすぎ | doing too much
+~dattanda yo | だったんだよ | it was (explaining)
+
+> Boku ga aite wo shite ageyou ka? | 僕が相手をしてあげようか？ | Shall I be your opponent?
+boku | 僕 | I (soft, boyish)
+~ga | が | (marks the subject)
+aite wo shite | 相手をして | be (your) opponent
+ageyou ka | あげようか | shall I (do it for you)?

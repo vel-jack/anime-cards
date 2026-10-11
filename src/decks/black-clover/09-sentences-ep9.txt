@@ -1,0 +1,103 @@
+# Sentences: Episode 9 | Short lines from "Beasts"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Nani? Sono dasai ninmu. | なに？そのダサイ任務。 | What? That lame mission.
+nani | なに | what
+sono | その | that
+dasai | ダサイ | lame, uncool
+ninmu | 任務 | mission
+
+> Iku no ka shinu no ka docchi da? | 行くのか死ぬのかどっちだ？ | Are you going, or dying — which is it?
+iku | 行く | to go
+~no ka | のか | (or… — offering a choice)
+shinu | 死ぬ | to die
+~no ka | のか | (or… — offering a choice)
+docchi | どっち | which (of two)
+~da | だ | is it
+
+> Daremo monku nante itte nai wa. | 誰も文句なんて言ってないわ。 | Nobody said a word of complaint.
+daremo | 誰も | nobody (with a negative)
+monku | 文句 | complaint
+nante | なんて | (such a thing as)
+itte nai | 言ってない | hasn't said (short for "itte inai")
+~wa | わ | (feminine)
+
+> Watashi ga itte mo ii no ka na tte… | 私が行ってもいいのかなって… | I just wondered if it's all right for me to go…
+watashi | 私 | I (polite)
+~ga | が | (marks the subject)
+itte mo ii | 行ってもいい | okay to go
+~no ka na | のかな | I wonder
+~tte | って | (…is what I thought)
+
+> Otoko ni nigon wa nee! | 漢に二言はねえ！ | A real man never goes back on his word!
+otoko | 漢 | a (real) man
+~ni | に | for, in
+nigon | 二言 | going back on one's word
+~wa | は | (marks the topic)
+nee | ねえ | there is none (rough "nai")
+
+> Shinitakunakattara motto kuttsuke! | 死にたくなかったらもっとくっつけ！ | If you don't want to die, hold on tighter!
+shinitakunakattara | 死にたくなかったら | if you don't want to die
+motto | もっと | more
+kuttsuke | くっつけ | stick close! (command form of "kuttsuku")
+
+> Koko ni aru no ka. | ここにあるのか。 | So it's here.
+koko ni | ここに | here
+aru | ある | to be, exist
+~no ka | のか | (realising)
+
+> Are, tasukenakute ii no? | あれ、助けなくていいの？ | Is it okay not to help him?
+are | あれ | that (him over there)
+tasukenakute ii | 助けなくていい | okay not to help
+~no | の | (soft question)
+
+> Ore wa chotto kyuukeichuu da. | 俺はちょっと休憩中だ。 | I'm taking a little break.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+chotto | ちょっと | a little
+kyuukeichuu | 休憩中 | on a break
+~da | だ | is
+
+> Daijoubu darou. Aitsu wa ganjou dakara. | 大丈夫だろう。あいつは頑丈だから。 | He'll be fine. He's tough.
+daijoubu | 大丈夫 | fine, all right
+darou | だろう | probably
+aitsu | あいつ | he, that guy
+~wa | は | (marks the topic)
+ganjou | 頑丈 | sturdy, tough
+dakara | だから | because
+
+> Shinpai nara omae ga tasukete yare. | 心配ならお前が助けてやれ。 | If you're worried, you go help him.
+shinpai nara | 心配なら | if (you're) worried
+omae | お前 | you (rough)
+~ga | が | (marks the subject)
+tasukete yare | 助けてやれ | help (him)! (command)
+
+> Yatto shitometa ze! | やっとしとめたぜ！ | Finally took it down!
+yatto | やっと | finally
+shitometa | しとめた | brought down (prey) — past of "shitomeru"
+~ze | ぜ | (rough, masculine)
+
+> Yoku yatta. Daga mada owattenee zo. | よくやった。だがまだ終わってねえぞ。 | Well done. But it's not over yet.
+yoku yatta | よくやった | well done
+daga | だが | but
+mada | まだ | (not) yet
+owattenee | 終わってねえ | isn't over (rough "owatte inai")
+~zo | ぞ | (emphatic)
+
+> Shiriai na no? | 知り合いなの？ | Do you know him?
+shiriai | 知り合い | acquaintance
+~na no | なの | is he? (soft question)
+
+> Mukashi kara sewa ni nattete na. | 昔から世話になっててな。 | He's looked after me since way back.
+mukashi kara | 昔から | since long ago
+sewa ni nattete | 世話になってて | being looked after (by him)
+~na | な | you see
+
+> Itai me ni au no wa omae ja! | 痛い目に遭うのはお前じゃ！ | The one who's going to get hurt is you!
+itai me ni au | 痛い目に遭う | to have a painful experience
+~no wa | のは | "the one who…"
+omae | お前 | you (rough)
+~ja | じゃ | is (an old man's "da")

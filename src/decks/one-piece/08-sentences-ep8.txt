@@ -1,0 +1,102 @@
+# Sentences: Episode 8 | Short lines from the eighth episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Kosodoro ja nee. Kaizoku da! | コソ泥じゃねえ。海賊だ！ | I'm not a petty thief. I'm a pirate!
+kosodoro | コソ泥 | petty thief
+ja nee | じゃねえ | am not (rough)
+kaizoku | 海賊 | pirate
+~da | だ | is
+
+> Ore wa aitsu dake wa yurusanee! | 俺はあいつだけは許さねえ！ | He's the one person I'll never forgive!
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+aitsu | あいつ | him, that guy
+dake | だけ | only
+~wa | は | (emphasis: "him at least")
+yurusanee | 許さねえ | won't forgive (rough "yurusanai")
+
+> Docchi mo makenna yo! | どっちも負けんなよ！ | Don't lose, either of you!
+docchi mo | どっちも | both, either
+makenna | 負けんな | don't lose (casual "makeru na")
+~yo | よ | (cheering)
+
+> Mada iu ka, kora! | まだ言うか、こら！ | You're still saying that?!
+mada | まだ | still
+iu | 言う | to say
+~ka | か | (challenging)
+kora | こら | hey!
+
+> Aa, nando demo iu ze. | ああ、何度でも言うぜ。 | Yeah, I'll say it as many times as it takes.
+aa | ああ | yeah
+nando demo | 何度でも | any number of times
+iu | 言う | to say
+~ze | ぜ | (rough, masculine)
+
+> Ore ga tadashiinda! | 俺が正しいんだ！ | I'm the one who's right!
+ore | 俺 | I (rough, masculine)
+~ga | が | (marks the subject)
+tadashii | 正しい | right, correct
+~n da | んだ | (insisting)
+
+> Kyou to iu kyou wa kecchaku wo tsukete yaru. | 今日という今日は決着をつけてやる。 | Today of all days, I'm settling this.
+kyou to iu kyou | 今日という今日 | this very day, today of all days
+~wa | は | (marks the topic)
+kecchaku wo tsukete | 決着をつけて | settle it
+yaru | やる | I'll (do it to you)
+
+> Ii kagen ni shiro! | いいかげんにしろ！ | Knock it off!
+ii kagen ni | いいかげんに | in moderation, within reason
+shiro | しろ | do! (command form of "suru")
+
+> Dou demo ii daro! | どうでもいいだろ！ | Who cares!
+dou demo ii | どうでもいい | it doesn't matter
+~daro | だろ | does it!
+
+> Atama hiyase! | 頭冷やせ！ | Cool your heads!
+atama | 頭 | head
+hiyase | 冷やせ | cool! (command form of "hiyasu")
+
+> Ureshisou da na, Bagii. | うれしそうだな、バギー。 | You look happy, Buggy.
+ureshisou | うれしそう | looking happy ("ureshii" + "sou")
+~da na | だな | aren't you
+~Bagii | バギー | Buggy (name)
+
+> Kaizoku wa ubatte nanbo da. Chigau ka? | 海賊は奪って何ぼだ。違うか？ | A pirate is worth what he steals. Am I wrong?
+kaizoku | 海賊 | pirate
+~wa | は | (marks the topic)
+ubatte | 奪って | stealing (te-form of "ubau")
+nanbo da | 何ぼだ | is what counts
+chigau | 違う | to be wrong, differ
+~ka | か | (question: "…?")
+
+> Ore wa nanimo shiranee. | 俺は何も知らねえ。 | I don't know anything.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+nanimo | 何も | nothing (with a negative)
+shiranee | 知らねえ | don't know (rough "shiranai")
+
+> Orite dou suru tsumori da? | 下りてどうするつもりだ？ | What do you plan to do after you leave?
+orite | 下りて | get off and… (te-form of "oriru")
+dou suru | どうする | do what
+tsumori | つもり | intention, plan
+~da | だ | is
+
+> Jibun no fune wo motsunda. | 自分の船を持つんだ。 | I'll have a ship of my own.
+jibun no | 自分の | my own
+fune | 船 | ship
+~wo | を | (marks the object)
+motsu | 持つ | to have, own
+~n da | んだ | (explaining)
+
+> Shinrai dekiru nakama wo atsumete sekai wo mite mawarou to omotteru. | 信頼できる仲間を集めて世界を見て回ろうと思ってる。 | I'm thinking of gathering crewmates I can trust and travelling the world.
+shinrai dekiru | 信頼できる | trustworthy
+nakama | 仲間 | crewmates
+~wo | を | (marks the object)
+atsumete | 集めて | gather and… (te-form of "atsumeru")
+sekai | 世界 | world
+~wo | を | (marks the object)
+mite mawarou | 見て回ろう | go around seeing (volitional)
+to omotteru | と思ってる | am thinking of

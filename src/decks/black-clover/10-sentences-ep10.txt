@@ -1,0 +1,104 @@
+# Sentences: Episode 10 | Short lines from "Those Who Protect"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Murabito wo mamoru no de te ippai… | 村人を守るので手いっぱい… | I've got my hands full protecting the villagers…
+murabito | 村人 | villagers
+~wo | を | (marks the object)
+mamoru | 守る | to protect
+~no de | ので | with (doing that)
+te ippai | 手いっぱい | hands full
+
+> Ore no maryoku wa mou tsukikaketeru. | 俺の魔力はもう尽きかけてる。 | My magic is nearly used up.
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+maryoku | 魔力 | magic power
+~wa | は | (marks the topic)
+mou | もう | already
+tsukikaketeru | 尽きかけてる | is about to run out ("tsukiru" + "kakeru")
+
+> Dakara to itte nagedashicha otoko ja nee! | だからといって投げ出しちゃ漢じゃねえ！ | But giving up because of that wouldn't be manly!
+dakara to itte | だからといって | even so, just because of that
+nagedashicha | 投げ出しちゃ | if (I) give up — casual "nagedashite wa"
+otoko | 漢 | a (real) man
+ja nee | じゃねえ | is not (rough)
+
+> Shikkari mamotte yaru kara na! | しっかり守ってやるからな！ | I'll protect you properly!
+shikkari | しっかり | properly, firmly
+mamotte yaru | 守ってやる | I'll protect (you)
+~kara na | からな | (emphatic "so there!")
+
+> Kono naka de ichiban maryoku wo motteru noni… | この中でいちばん魔力を持ってるのに… | Even though I have the most magic of anyone here…
+kono naka de | この中で | among these (people)
+ichiban | いちばん | the most
+maryoku | 魔力 | magic power
+~wo | を | (marks the object)
+motteru | 持ってる | have (short for "motte iru")
+noni | のに | even though
+
+> Kanpeki ni ashidematoi ja nai! | 完璧に足手まといじゃない！ | I'm nothing but dead weight!
+kanpeki ni | 完璧に | completely
+ashidematoi | 足手まとい | a burden, dead weight
+~ja nai | じゃない | aren't I! (exclaiming)
+
+> Watashi ga mamoru no yo! | 私が守るのよ！ | I'm the one who'll protect her!
+watashi | 私 | I (polite)
+~ga | が | (marks the subject)
+mamoru | 守る | to protect
+~no yo | のよ | (determined, feminine)
+
+> Nigeru wake ni wa ikanai! | 逃げるわけにはいかない！ | I can't just run away!
+nigeru | 逃げる | to run away
+wake ni wa ikanai | わけにはいかない | can't possibly, mustn't
+
+> Taishita koto nai wa ne. | 大したことないわね。 | That was nothing much.
+taishita koto nai | 大したことない | no big deal
+~wa ne | わね | was it (feminine)
+
+> Yappari yareba dekin ja nee ka. | やっぱりやればできんじゃねえか。 | See, you can do it when you try.
+yappari | やっぱり | just as I thought
+yareba | やれば | if (you) try
+dekin | できん | can do (casual "dekiru n")
+~ja nee ka | じゃねえか | can't you! (rough)
+
+> Ore ni maryoku nante nee! | 俺に魔力なんてねえ！ | I don't have any magic!
+ore | 俺 | I (rough, masculine)
+~ni | に | (marks who has it)
+maryoku | 魔力 | magic power
+nante | なんて | (such a thing as)
+nee | ねえ | there is none (rough "nai")
+
+> Kondo wa kochira no ban da. | 今度はこちらの番だ。 | Now it's my turn.
+kondo | 今度 | this time, now
+~wa | は | (marks the topic)
+kochira | こちら | this side, me
+~no | の | 's (possessive)
+ban | 番 | turn
+~da | だ | is
+
+> Daga jikan no mondai. | だが時間の問題。 | But it's only a matter of time.
+daga | だが | but
+jikan | 時間 | time
+~no | の | of
+mondai | 問題 | matter, problem
+
+> Sono daishou wa ookii zo. | その代償は大きいぞ。 | The price for that will be high.
+sono | その | that
+daishou | 代償 | price, cost
+~wa | は | (marks the topic)
+ookii | 大きい | big
+~zo | ぞ | (threatening)
+
+> Aite ga warukatta na… | 相手が悪かったな… | You picked the wrong opponent…
+aite | 相手 | opponent
+~ga | が | (marks the subject)
+warukatta | 悪かった | was bad (past of "warui")
+~na | な | huh
+
+> Yoku mada ikite ita na. | よくまだ生きていたな。 | I'm surprised you're still alive.
+yoku | よく | (surprise: "how on earth")
+mada | まだ | still
+ikite ita | 生きていた | were alive
+~na | な | huh

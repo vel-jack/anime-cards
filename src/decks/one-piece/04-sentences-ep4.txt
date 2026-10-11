@@ -1,0 +1,107 @@
+# Sentences: Episode 4 | Short lines from the fourth episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Konna hiroi umi de hito ni deaeru nante. | こんな広い海で人に出会えるなんて。 | To think I'd run into someone on such a vast sea.
+konna | こんな | such, this kind of
+hiroi | 広い | wide, vast
+umi | 海 | sea
+~de | で | on, in
+hito | 人 | person
+~ni | に | (marks who you meet)
+deaeru | 出会える | can meet, come across
+nante | なんて | to think that…
+
+> Mizu wo ippai itadakemasen ka? | 水を一杯いただけませんか？ | Could I please have a cup of water?
+mizu | 水 | water
+~wo | を | (marks the object)
+ippai | 一杯 | one cup
+itadakemasen ka | いただけませんか | could I receive? (humble)
+
+> Okane nara ikura demo sashiagemasu. | お金ならいくらでも差し上げます。 | As for money, I'll give you as much as you like.
+okane nara | お金なら | if it's money
+ikura demo | いくらでも | any amount
+sashiagemasu | 差し上げます | I'll give (humble)
+
+> Temee, damashita na! | てめえ、だましたな！ | You tricked us!
+temee | てめえ | you (very rude)
+damashita | だました | tricked (past of "damasu")
+~na | な | didn't you!
+
+> Otakara wa moratoku wa. | お宝はもらっとくわ。 | I'll be taking the treasure.
+otakara | お宝 | treasure, loot
+~wa | は | (marks the topic)
+moratoku | もらっとく | I'll take and keep (short for "moratte oku")
+~wa | わ | (feminine)
+
+> Itsu ni nattara riku ni tsukunda yo. | いつになったら陸に着くんだよ。 | When are we ever going to reach land?
+itsu ni nattara | いつになったら | when (will it finally be that)
+riku | 陸 | land
+~ni | に | at, to
+tsuku | 着く | to arrive
+~n da yo | んだよ | (impatient question)
+
+> Jibun no mura e mo kaerenaku nacchimatte… | 自分の村へも帰れなくなっちまって… | I ended up unable to even get back to my own village…
+jibun no | 自分の | my own
+mura | 村 | village
+~e mo | へも | even to
+kaerenaku | 帰れなく | unable to return
+nacchimatte | なっちまって | ended up becoming (rough "natte shimatte")
+
+> Nanda, omae maigo ka. | 何だ、お前迷子か。 | Oh, so you're just lost.
+nanda | 何だ | oh, so that's it
+omae | お前 | you (rough)
+maigo | 迷子 | someone who is lost
+~ka | か | (realising)
+
+> Sono iikata wa yose! | その言い方はよせ！ | Don't put it like that!
+sono | その | that
+iikata | 言い方 | way of saying it
+~wa | は | (marks the topic)
+yose | よせ | stop it! (command form of "yosu")
+
+> Tsugi no koukai ni tsuretette kure yo. | 次の航海に連れてってくれよ。 | Take me along on your next voyage.
+tsugi no | 次の | next
+koukai | 航海 | voyage
+~ni | に | on, to
+tsuretette | 連れてって | take (me) along (short for "tsurete itte")
+kure yo | くれよ | do it for me, come on
+
+> Ore datte kaizoku ni naritainda. | 俺だって海賊になりたいんだ。 | I want to be a pirate too.
+ore | 俺 | I (rough, masculine)
+datte | だって | too, even
+kaizoku | 海賊 | pirate
+~ni | に | (marks what you become)
+naritai | なりたい | want to become
+~n da | んだ | (explaining, insisting)
+
+> Omae nanka ga kaizoku ni nareru ka. | お前なんかが海賊になれるか。 | As if someone like you could be a pirate.
+omae nanka | お前なんか | someone like you (belittling)
+~ga | が | (marks the subject)
+kaizoku | 海賊 | pirate
+~ni | に | (marks what you become)
+nareru | なれる | can become
+~ka | か | (rhetorical: "as if!")
+
+> Ore wa gaki ja nai! Mou otona da. | 俺はガキじゃない！もう大人だ。 | I'm not a kid! I'm already an adult.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+gaki | ガキ | kid, brat
+ja nai | じゃない | am not
+mou | もう | already
+otona | 大人 | adult
+~da | だ | is
+
+> Maa, sou okoru na. | まあ、そう怒るな。 | Now, now, don't get so mad.
+maa | まあ | now, now
+sou | そう | so, like that
+okoru | 怒る | to get angry
+na | な | don't (after a verb)
+
+> Sake wo utte kure. | 酒を売ってくれ。 | Sell us some booze.
+sake | 酒 | alcohol
+~wo | を | (marks the object)
+utte | 売って | sell (te-form of "uru")
+kure | くれ | do it for me (blunt request)

@@ -1,0 +1,104 @@
+# Sentences: Episode 6 | Short lines from the sixth episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ushiro kara sasu nante hikyou da zo! | 後ろから刺すなんて卑怯だぞ！ | Stabbing from behind is a dirty trick!
+ushiro kara | 後ろから | from behind
+sasu | 刺す | to stab
+nante | なんて | such a thing as
+hikyou | 卑怯 | cowardly, unfair
+~da zo | だぞ | it is! (emphatic)
+
+> Omee wa damatte soko ni iro. | おめえは黙ってそこにいろ。 | You shut up and stay there.
+omee | おめえ | you (rough "omae")
+~wa | は | (marks the topic)
+damatte | 黙って | silently (te-form of "damaru")
+soko ni | そこに | there
+iro | いろ | stay! (command form of "iru")
+
+> Ore wa ore no yaritee you ni yaru. | 俺は俺のやりてえようにやる。 | I'll do things the way I want to.
+ore | 俺 | I (rough, masculine)
+~wa | は | (marks the topic)
+ore no | 俺の | my
+yaritee | やりてえ | want to do (rough "yaritai")
+you ni | ように | the way, as
+yaru | やる | to do
+
+> Joudan ja nai wa yo. | 冗談じゃないわよ。 | You've got to be kidding me.
+joudan | 冗談 | joke
+ja nai | じゃない | is not
+~wa yo | わよ | (feminine, firm)
+
+> Nande soko made suru no? Kaizoku no kuse ni. | 何でそこまでするの？海賊のくせに。 | Why go that far? You're only pirates.
+nande | 何で | why
+soko made | そこまで | that far
+suru | する | to do
+~no | の | (soft question)
+kaizoku | 海賊 | pirate
+no kuse ni | のくせに | even though (you're just)
+
+> Nanda? Kono inu wa. | 何だ？この犬は。 | What's with this dog?
+nanda | 何だ | what is it?
+kono | この | this
+inu | 犬 | dog
+~wa | は | (marks the topic)
+
+> Zenzen ugokanee zo. | 全然動かねえぞ。 | It's not moving at all.
+zenzen | 全然 | not at all
+ugokanee | 動かねえ | doesn't move (rough "ugokanai")
+~zo | ぞ | (emphatic)
+
+> Shinden no ka na? | 死んでんのかな？ | I wonder if it's dead?
+shinden | 死んでん | is dead (casual "shinde iru")
+~no ka na | のかな | I wonder
+
+> Chi ga tarinee… | 血が足りねえ… | I've lost too much blood…
+chi | 血 | blood
+~ga | が | (marks the subject)
+tarinee | 足りねえ | not enough (rough "tarinai")
+
+> Ichiou watashite oku wa. | 一応渡しておくわ。 | I'll hand this over, just in case.
+ichiou | 一応 | just in case, for now
+watashite oku | 渡しておく | to hand over (for later)
+~wa | わ | (feminine)
+
+> Tasukete moratta kara ne. | 助けてもらったからね。 | Since you did save me.
+tasukete moratta | 助けてもらった | got saved (by you)
+kara ne | からね | because, you know
+
+> Kanchigai shinaide. | 勘違いしないで。 | Don't get the wrong idea.
+kanchigai | 勘違い | the wrong idea, misunderstanding
+shinaide | しないで | don't (do)
+
+> Anta ni kari wo tsukuritakunakatta dake yo. | あんたに借りを作りたくなかっただけよ。 | I just didn't want to owe you one.
+anta | あんた | you (casual)
+~ni | に | to
+kari | 借り | a debt, a favour owed
+~wo | を | (marks the object)
+tsukuritakunakatta | 作りたくなかった | didn't want to make
+dake | だけ | just, only
+~yo | よ | (asserting)
+
+> Washi wa kono machi no chouchou ja. | わしはこの町の町長じゃ。 | I'm the mayor of this town.
+washi | わし | I (old man's speech)
+~wa | は | (marks the topic)
+kono | この | this
+machi | 町 | town
+~no | の | of
+chouchou | 町長 | town mayor
+~ja | じゃ | is (an old man's "da")
+
+> Hayaku isha ni misen to. | 早く医者に診せんと。 | We must get him to a doctor quickly.
+hayaku | 早く | quickly
+isha | 医者 | doctor
+~ni | に | to
+misen to | 診せんと | must show (him to) — old-style "misenai to"
+
+> Konna toko ni suwatte nani yattenda? | こんなとこに座って何やってんだ？ | What's it doing, sitting in a place like this?
+konna toko | こんなとこ | a place like this
+~ni | に | in, at
+suwatte | 座って | sitting (te-form of "suwaru")
+nani | 何 | what
+yattenda | やってんだ | is (it) doing? (casual "yatte iru n da")

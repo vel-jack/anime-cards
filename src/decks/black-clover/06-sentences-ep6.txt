@@ -1,0 +1,87 @@
+# Sentences: Episode 6 | Short lines from "The Black Bulls"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Daremo hoshigaranee. | 誰も欲しがらねえ。 | Nobody wants you.
+daremo | 誰も | nobody (with a negative)
+hoshigaranee | 欲しがらねえ | doesn't want (rough "hoshigaranai")
+
+> Omae, omoshiroi! Uchi no dan ni koi. | お前、面白い！ウチの団に来い。 | You're interesting! Join my squad.
+omae | お前 | you (rough)
+omoshiroi | 面白い | interesting, funny
+uchi no | ウチの | our, my
+dan | 団 | squad
+~ni | に | to
+koi | 来い | come! (command form of "kuru")
+
+> Choushi ni noru na yo. | 調子に乗るなよ。 | Don't get carried away.
+choushi ni noru | 調子に乗る | to get cocky, carried away
+na | な | don't (after a verb)
+~yo | よ | (warning)
+
+> Sou kantan ni mitomerare wa shinai. | そう簡単に認められはしない。 | You won't be accepted that easily.
+sou | そう | that, so
+kantan ni | 簡単に | easily
+mitomerare | 認められ | be accepted (passive stem of "mitomeru")
+wa shinai | はしない | will not (emphatic)
+
+> Sugu ni mitomesasete misemasu. | すぐに認めさせてみせます。 | I'll make you acknowledge me soon.
+sugu ni | すぐに | soon, right away
+mitomesasete | 認めさせて | make (you) acknowledge (causative te-form)
+misemasu | みせます | I'll show you (polite)
+
+> Kuchi wa tassha da na. | 口は達者だな。 | You sure can talk.
+kuchi | 口 | mouth
+~wa | は | (marks the topic)
+tassha | 達者 | skilled, glib
+~da na | だな | it is, huh
+
+> Kakugo wa ii na? | 覚悟はいいな？ | Are you ready for this?
+kakugo | 覚悟 | resolve, readiness
+~wa | は | (marks the topic)
+ii | いい | good, ready
+~na | な | right?
+
+> Nan no sawagi? | 何の騒ぎ？ | What's all this commotion?
+nan no | 何の | what (kind of)
+sawagi | 騒ぎ | commotion
+
+> Aa, nomisugita. | あ〜飲み過ぎた。 | Ugh, I drank too much.
+~aa | あ〜 | ugh
+nomisugita | 飲み過ぎた | drank too much ("nomu" + "sugiru", past)
+
+> Kyou kara ore mo Kuro no Bougyuu no nakama. | 今日から俺も黒の暴牛の仲間。 | From today, I'm one of the Black Bulls too.
+kyou kara | 今日から | from today
+ore | 俺 | I (rough, masculine)
+~mo | も | too
+~Kuro no Bougyuu | 黒の暴牛 | the Black Bulls
+~no | の | 's (possessive)
+nakama | 仲間 | comrade, member
+
+> Yoroshiku onegai shimasu! | よろしくお願いします！ | I look forward to working with you!
+yoroshiku | よろしく | favourably, kindly
+onegai shimasu | お願いします | I ask of you (polite)
+
+> Imouto ga okitara dou sunda? | 妹が起きたらどうすんだ？ | What will you do if my little sister wakes up?
+imouto | 妹 | younger sister
+~ga | が | (marks the subject)
+okitara | 起きたら | if (she) wakes up
+dou sunda | どうすんだ | what will you do (rough "dou suru n da")
+
+> Yosomi shiteru to yacchau yo. | よそ見してるとやっちゃうよ。 | Look away and I'll get you.
+yosomi shiteru | よそ見してる | looking away
+~to | と | if, when
+yacchau | やっちゃう | I'll do you in ("yaru" + "-chau")
+~yo | よ | (warning)
+
+> Yareru mon nara yatte miyagare! | やれるもんならやってみやがれ！ | Just try it, if you think you can!
+yareru mon nara | やれるもんなら | if you can do it
+yatte miyagare | やってみやがれ | go on and try (rough command)
+
+> Mono wo kowasun ja nee! | 物を壊すんじゃねえ！ | Stop breaking things!
+mono | 物 | things
+~wo | を | (marks the object)
+kowasu | 壊す | to break
+~n ja nee | んじゃねえ | don't! (rough)

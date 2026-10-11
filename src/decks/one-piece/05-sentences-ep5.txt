@@ -1,0 +1,107 @@
+# Sentences: Episode 5 | Short lines from the fifth episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Hito ga futte kita zo. | 人が降ってきたぞ。 | A person just fell from the sky!
+hito | 人 | person
+~ga | が | (marks the subject)
+futte kita | 降ってきた | came falling down
+~zo | ぞ | (emphatic)
+
+> Tasuke ni kite kureta no ne. | 助けに来てくれたのね。 | You came to save me, didn't you.
+tasuke ni | 助けに | to help, to rescue
+kite kureta | 来てくれた | came (for me)
+~no ne | のね | didn't you (feminine)
+
+> Warui kedo, ato wa makaseta wa. | 悪いけど、あとは任せたわ。 | Sorry, but I'll leave the rest to you.
+warui kedo | 悪いけど | sorry, but
+ato | あと | the rest
+~wa | は | (marks the topic)
+makaseta | 任せた | left it to you (past of "makaseru")
+~wa | わ | (feminine)
+
+> Dokka meshi kuu toko nee ka? | どっかメシ食うとこねえか？ | Is there anywhere to eat around here?
+dokka | どっか | somewhere (casual "dokoka")
+meshi | メシ | food, a meal (rough)
+kuu | 食う | to eat (rough)
+toko | とこ | place (casual "tokoro")
+nee ka | ねえか | isn't there? (rough)
+
+> Ore no takaramono ni sawaru na. | 俺の宝物に触るな。 | Don't touch my treasure.
+ore | 俺 | I (rough, masculine)
+~no | の | 's (possessive)
+takaramono | 宝物 | treasure, prized possession
+~ni | に | (marks what is touched)
+sawaru | 触る | to touch
+na | な | don't (after a verb)
+
+> Tsuyoi no ne, anta. | 強いのね、あんた。 | You're strong, aren't you.
+tsuyoi | 強い | strong
+~no ne | のね | aren't you (feminine)
+anta | あんた | you (casual)
+
+> Nee, atashi to kumanai? | ねえ、あたしと組まない？ | Hey, why don't you team up with me?
+nee | ねえ | hey
+atashi | あたし | I (feminine, casual)
+~to | と | with
+kumanai | 組まない | won't you team up? (negative of "kumu" as an invitation)
+
+> Atashi ga gochisou shite agemashou ka. | あたしがごちそうしてあげましょうか。 | Shall I treat you to a meal?
+atashi | あたし | I (feminine, casual)
+~ga | が | (marks the subject)
+gochisou shite | ごちそうして | treat (someone) to a meal
+agemashou ka | あげましょうか | shall I (do it for you)?
+
+> Mada tsukamaran no ka? | まだ捕まらんのか？ | They still haven't been caught?
+mada | まだ | still, (not) yet
+tsukamaran | 捕まらん | isn't caught (old-style negative of "tsukamaru")
+~no ka | のか | (pressing question)
+
+> Ore ni sakarau to dou naru? | 俺に逆らうとどうなる？ | What happens when you defy me?
+ore | 俺 | I, me (rough, masculine)
+~ni | に | against
+sakarau | 逆らう | to defy
+~to | と | if, when
+dou naru | どうなる | what happens
+
+> Nido to iimasen. | 二度と言いません。 | I'll never say it again.
+nido to | 二度と | never again
+iimasen | 言いません | won't say (polite)
+
+> Kaizu wa kanarazu torikaese. | 海図は必ず取り返せ。 | Get that chart back, no matter what.
+kaizu | 海図 | sea chart
+~wa | は | (marks the topic)
+kanarazu | 必ず | without fail
+torikaese | 取り返せ | get it back! (command form of "torikaesu")
+
+> Omae, kono ie ni hitori de sunden no ka? | お前、この家に一人で住んでんのか？ | Do you live in this house alone?
+omae | お前 | you (rough)
+kono | この | this
+ie | 家 | house
+~ni | に | in
+hitori de | 一人で | alone
+sunden no ka | 住んでんのか | are you living? (casual "sunde iru no ka")
+
+> Atashi wa kono machi no ningen ja nai wa. | あたしはこの町の人間じゃないわ。 | I'm not from this town.
+atashi | あたし | I (feminine, casual)
+~wa | は | (marks the topic)
+kono | この | this
+machi | 町 | town
+~no | の | of
+ningen | 人間 | person
+ja nai | じゃない | am not
+~wa | わ | (feminine)
+
+> Demo dorobou wa dorobou daro. | でも泥棒は泥棒だろ。 | But a thief is a thief, right?
+demo | でも | but
+dorobou | 泥棒 | thief
+~wa | は | (marks the topic)
+~dorobou | 泥棒 | thief
+daro | だろ | right?
+
+> Sonna ni kaseide dou sunda? | そんなに稼いでどうすんだ？ | What will you do with all that money you earn?
+sonna ni | そんなに | that much
+kaseide | 稼いで | earning (te-form of "kasegu")
+dou sunda | どうすんだ | what will you do (rough "dou suru n da")

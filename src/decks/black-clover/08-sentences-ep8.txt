@@ -1,0 +1,112 @@
+# Sentences: Episode 8 | Short lines from "Go! Go! First Mission"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Danchou, asa desu yo. | 団長、朝ですよ。 | Captain, it's morning.
+danchou | 団長 | captain
+asa | 朝 | morning
+~desu yo | ですよ | it is (polite, informing)
+
+> Okosun ja nee, korosu zo! | 起こすんじゃねえ、殺すぞ！ | Don't wake me up — I'll kill you!
+okosu | 起こす | to wake (someone) up
+~n ja nee | んじゃねえ | don't! (rough)
+korosu | 殺す | to kill
+~zo | ぞ | (threatening)
+
+> Jibun ga maiasa okose tte itta kuse ni! | 自分が毎朝起こせって言ったくせに！ | Even though you're the one who said to wake you every morning!
+jibun ga | 自分が | (you) yourself
+maiasa | 毎朝 | every morning
+okose | 起こせ | wake (me)! (command form of "okosu")
+~tte | って | (quoting: "that…")
+itta | 言った | said
+kuse ni | くせに | even though (resentful)
+
+> Kyou mo asa kara yoku hataraita. | 今日も朝からよく働いた。 | I worked hard from the morning again today.
+kyou mo | 今日も | today too
+asa kara | 朝から | from the morning
+yoku | よく | a lot, well
+hataraita | 働いた | worked (past of "hataraku")
+
+> Mahou Kishidan no shigoto wa takusan aru naa. | 魔法騎士団の仕事はたくさんあるなぁ。 | The Magic Knights sure have a lot of work.
+~Mahou Kishidan | 魔法騎士団 | the Magic Knights
+~no | の | 's (possessive)
+shigoto | 仕事 | work, job
+~wa | は | (marks the topic)
+takusan | たくさん | a lot
+aru | ある | there is
+~naa | なぁ | (musing)
+
+> Nande omae souji toka tetsudatte kunnai no? | なんでお前掃除とか手伝ってくんないの？ | Why won't you help with the cleaning or anything?
+nande | なんで | why
+omae | お前 | you (rough)
+souji | 掃除 | cleaning
+toka | とか | and such
+tetsudatte | 手伝って | help (te-form of "tetsudau")
+kunnai no | くんないの | won't you (do it for me)? — casual "kurenai no"
+
+> Watashi wa ouzoku yo. | 私は王族よ。 | I am royalty.
+watashi | 私 | I (polite)
+~wa | は | (marks the topic)
+ouzoku | 王族 | royalty
+~yo | よ | (asserting, feminine)
+
+> Souji ya sentaku nante shita koto ga nai wa. | 掃除や洗濯なんてしたことがないわ。 | I've never done anything like cleaning or laundry.
+souji | 掃除 | cleaning
+~ya | や | and (among other things)
+sentaku | 洗濯 | laundry
+nante | なんて | things like
+shita koto ga nai | したことがない | have never done
+~wa | わ | (feminine)
+
+> Soko ibaru toko ja nai yo ne! | そこ威張るとこじゃないよね！ | That's not something to brag about!
+soko | そこ | that (point)
+ibaru | 威張る | to brag, act big
+toko | とこ | place, thing (casual "tokoro")
+ja nai | じゃない | is not
+~yo ne | よね | right?!
+
+> Shikkari kyouryoku suru beki da to omoun desu kedo! | しっかり協力するべきだと思うんですけど！ | I think we really ought to cooperate!
+shikkari | しっかり | properly, firmly
+kyouryoku suru | 協力する | to cooperate
+beki da | べきだ | should, ought to
+to omou | と思う | I think
+~n desu kedo | んですけど | (polite, pointed "…you know!")
+
+> Somosomo Mahou Kishidan tte nani surun su ka? | そもそも魔法騎士団って何するんスか？ | What do the Magic Knights even do in the first place?
+somosomo | そもそも | in the first place
+~Mahou Kishidan | 魔法騎士団 | the Magic Knights
+~tte | って | (casual topic marker)
+nani | 何 | what
+suru | する | to do
+~n su ka | んスか | (casual-polite question)
+
+> Maji de itten no ka? | マジで言ってんのか？ | Are you seriously asking that?
+maji de | マジで | seriously
+itten no ka | 言ってんのか | are you saying? (rough "itte iru no ka")
+
+> Nanimo shiranaide nande hairou to omotta? | 何も知らないで なんで入ろうと思った？ | Why did you want to join without knowing anything?
+nanimo | 何も | nothing (with a negative)
+shiranaide | 知らないで | without knowing
+nande | なんで | why
+hairou | 入ろう | (I'll) join ("hairu", volitional)
+to omotta | と思った | thought
+
+> Asa kara genki da nee. | 朝から元気だねえ。 | You're lively first thing in the morning.
+asa kara | 朝から | from the morning
+genki | 元気 | lively, energetic
+~da nee | だねえ | aren't you
+
+> Dore dake bokoboko ni shitemo okorarenai shi ne. | どれだけボコボコにしても怒られないしね。 | And you don't get told off no matter how badly you beat them up.
+dore dake | どれだけ | however much
+bokoboko ni shitemo | ボコボコにしても | even if you beat (them) to a pulp
+okorarenai | 怒られない | don't get scolded (passive negative of "okoru")
+~shi ne | しね | (and besides, you know)
+
+> Kyuuryou de suki na mon katte yareru shi na. | 給料で好きなもん買ってやれるしな。 | And with my salary I can buy her whatever she likes.
+kyuuryou | 給料 | salary
+~de | で | with
+suki na mon | 好きなもん | things (she) likes
+katte yareru | 買ってやれる | can buy (for her)
+~shi na | しな | (and besides)

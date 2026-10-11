@@ -1,0 +1,106 @@
+# Sentences: Episode 7 | Short lines from "The Other New Recruit"
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Koko ga omae no heya da. | ここがお前の部屋だ。 | This is your room.
+koko | ここ | here, this place
+~ga | が | (marks the subject)
+omae | お前 | you (rough)
+~no | の | 's (possessive)
+heya | 部屋 | room
+~da | だ | is
+
+> Jibun no heya toka nakatta nde… | 自分の部屋とかなかったんで… | I never had a room of my own, so…
+jibun no | 自分の | my own
+heya | 部屋 | room
+toka | とか | or anything like that
+nakatta | なかった | didn't have (past of "nai")
+~nde | んで | so, because (casual "node")
+
+> Minna issho no heya datta nde. | みんな一緒の部屋だったんで。 | We all shared one room, you see.
+minna | みんな | everyone
+issho no | 一緒の | the same, shared
+heya | 部屋 | room
+datta | だった | was
+~nde | んで | so, because (casual "node")
+
+> Ninmu ga aru made jiyuu da. | 任務があるまで自由だ。 | You're free until there's a mission.
+ninmu | 任務 | mission
+~ga | が | (marks the subject)
+aru | ある | there is
+made | まで | until
+jiyuu | 自由 | free
+~da | だ | is
+
+> Chanto tegami kaitoke yo. | ちゃんと手紙書いとけよ。 | Make sure you write them a letter.
+chanto | ちゃんと | properly
+tegami | 手紙 | letter
+kaitoke | 書いとけ | write it (and have it done) — short for "kaite oke"
+~yo | よ | (urging)
+
+> Kitto dou natta ka shinpai shiteru ze. | きっとどうなったか心配してるぜ。 | I bet they're worried about how it went.
+kitto | きっと | surely
+dou natta ka | どうなったか | how it turned out
+shinpai shiteru | 心配してる | are worried (short for "shinpai shite iru")
+~ze | ぜ | (rough, masculine)
+
+> Nanika attara ore n toko koi ya. | 何かあったら俺んとこ来いや。 | If anything comes up, come to me.
+nanika attara | 何かあったら | if something happens
+ore n toko | 俺んとこ | my place, me (short for "ore no tokoro")
+koi | 来い | come! (command form of "kuru")
+~ya | や | (rough but friendly)
+
+> Omae nado ni wa mottainai heya da. | お前などにはもったいない部屋だ。 | This room is too good for the likes of you.
+omae | お前 | you (rough)
+nado | など | the likes of
+~ni wa | には | for
+mottainai | もったいない | too good for, wasted on
+heya | 部屋 | room
+~da | だ | is
+
+> Kiite iru no ka? | 聞いているのか？ | Are you listening?
+kiite iru | 聞いている | are listening
+~no ka | のか | (pressing question)
+
+> Watashi no koto wa Kurausu-senpai to yobe. | 私のことはクラウス先輩と呼べ。 | Call me "Klaus-senpai".
+watashi no koto | 私のこと | me (lit. "the matter of me")
+~wa | は | (marks the topic)
+~Kurausu-senpai | クラウス先輩 | Klaus-senpai
+~to | と | (quoting: "as")
+yobe | 呼べ | call! (command form of "yobu")
+
+> Okureru na yo. | 遅れるなよ。 | Don't be late.
+okureru | 遅れる | to be late
+na | な | don't (after a verb)
+~yo | よ | (warning)
+
+> Asuta kara no tegami ni wa nante kaite aru no? | アスタからの手紙には何て書いてあるの？ | What does Asta's letter say?
+~Asuta | アスタ | Asta (name)
+kara no | からの | from
+tegami | 手紙 | letter
+~ni wa | には | in
+nante | 何て | what
+kaite aru | 書いてある | is written
+~no | の | (soft question)
+
+> Itsu kaette kuru tte? | いつ帰ってくるって？ | When does he say he's coming back?
+itsu | いつ | when
+kaette kuru | 帰ってくる | to come back
+~tte | って | (does he say?)
+
+> Sasuga ni ochikonde iru darou shi. | さすがに落ち込んでいるだろうし。 | Even he must be feeling down, after all.
+sasuga ni | さすがに | even (he), as you would expect
+ochikonde iru | 落ち込んでいる | is feeling down
+darou | だろう | probably
+~shi | し | and so
+
+> Futari tomo goukaku ka… | 二人とも合格か… | So both of them passed…
+futari tomo | 二人とも | both of them
+goukaku | 合格 | passing (an exam)
+~ka | か | (taking it in)
+
+> Yume ja nakatta! | 夢じゃなかった！ | It wasn't a dream!
+yume | 夢 | dream
+ja nakatta | じゃなかった | was not

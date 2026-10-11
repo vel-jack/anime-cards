@@ -1,0 +1,110 @@
+# Sentences: Episode 7 | Short lines from the seventh episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Nakama ni natte kure, Nami. | 仲間になってくれ、ナミ。 | Join my crew, Nami.
+nakama | 仲間 | crewmate, comrade
+~ni | に | (marks what you become)
+natte kure | なってくれ | become (for me) — a blunt request
+~Nami | ナミ | Nami (name)
+
+> Yakusoku doori omae wo buttobashi ni kita zo. | 約束どおりお前をぶっ飛ばしに来たぞ。 | As promised, I've come to send you flying.
+yakusoku doori | 約束どおり | as promised
+omae | お前 | you (rough)
+~wo | を | (marks the object)
+buttobashi ni | ぶっ飛ばしに | (in order) to send flying
+kita | 来た | came
+~zo | ぞ | (emphatic)
+
+> Kaizu to takara ga te ni haireba sore de ii no. | 海図と宝が手に入ればそれでいいの。 | As long as I get the chart and the treasure, that's all I need.
+kaizu | 海図 | sea chart
+~to | と | and
+takara | 宝 | treasure
+~ga | が | (marks the subject)
+te ni haireba | 手に入れば | if (I) get hold of
+sore de ii | それでいい | that is enough
+~no | の | (explaining, feminine)
+
+> Nani shi ni kitan ja? | 何しに来たんじゃ。 | What did you come here for?
+nani shi ni | 何しに | to do what
+kita | 来た | came
+~n ja | んじゃ | (an old man's "n da")
+
+> Yosomono wa hikkonde ore. | よそ者は引っ込んでおれ。 | Outsiders stay out of this.
+yosomono | よそ者 | outsider
+~wa | は | (marks the topic)
+hikkonde ore | 引っ込んでおれ | stay back (old-style command)
+
+> Kore wa washi no tatakai ja zo. | これはわしの戦いじゃぞ。 | This is my fight.
+kore | これ | this
+~wa | は | (marks the topic)
+washi | わし | I (old man's speech)
+~no | の | 's (possessive)
+tatakai | 戦い | fight, battle
+~ja zo | じゃぞ | it is! (old man's "da zo")
+
+> Washi no machi wa washi ga mamoru! | わしの町はわしが守る！ | I will protect my own town!
+washi no | わしの | my (old man's speech)
+machi | 町 | town
+~wa | は | (marks the topic)
+washi | わし | I (old man's speech)
+~ga | が | (marks the subject)
+mamoru | 守る | to protect
+
+> Hottoitara kono ossan machigainaku shinu ki da. | 放っといたらこのおっさん間違いなく死ぬ気だ。 | Leave him be, and this old man definitely means to die.
+hottoitara | 放っといたら | if (we) leave him be
+kono | この | this
+ossan | おっさん | old man
+machigainaku | 間違いなく | without a doubt
+shinu ki | 死ぬ気 | intending to die
+~da | だ | is
+
+> Hoka ni mo houhou wa ikura demo aru deshou ga! | 他にも方法はいくらでもあるでしょうが！ | There are plenty of other ways, aren't there?!
+hoka ni mo | 他にも | other, besides
+houhou | 方法 | way, method
+~wa | は | (marks the topic)
+ikura demo | いくらでも | any number of
+aru | ある | there are
+~deshou ga | でしょうが | surely! (exasperated)
+
+> Sore dake wa iccha dame na no yo. | それだけは言っちゃダメなのよ。 | That's the one thing you mustn't say.
+sore dake wa | それだけは | that alone
+iccha dame | 言っちゃダメ | mustn't say (casual "itte wa dame")
+~na no yo | なのよ | (explaining, feminine)
+
+> Saki ni ie yo na. | 先に言えよな。 | Tell me beforehand, will you.
+saki ni | 先に | beforehand
+ie | 言え | say it! (command form of "iu")
+~yo na | よな | will you
+
+> Teki ga hetta. | 敵が減った。 | The enemy's numbers have dropped.
+teki | 敵 | enemy
+~ga | が | (marks the subject)
+hetta | 減った | decreased (past of "heru")
+
+> Anta ittai nan na no yo! | あんた一体何なのよ！ | What on earth are you?!
+anta | あんた | you (casual)
+ittai | 一体 | (what) on earth
+nan | 何 | what
+~na no yo | なのよ | are (you)?! (feminine)
+
+> Chanto setsumei shite yo! | ちゃんと説明してよ！ | Explain it properly!
+chanto | ちゃんと | properly
+setsumei shite | 説明して | explain (te-form request)
+~yo | よ | (insisting)
+
+> Sore ga nani ka tte kiiten no yo! | それが何かって聞いてんのよ！ | I'm asking you what that is!
+sore ga | それが | that
+nani ka | 何か | what (it is)
+~tte | って | (quoting: "that…")
+kiiten | 聞いてん | am asking (casual "kiite iru")
+~no yo | のよ | (insisting, feminine)
+
+> Teshita wo tate ni shita no ne. | 手下を盾にしたのね。 | You used your own men as a shield.
+teshita | 手下 | henchmen
+~wo | を | (marks the object)
+tate | 盾 | shield
+ni shita | にした | made into, used as
+~no ne | のね | didn't you (feminine)

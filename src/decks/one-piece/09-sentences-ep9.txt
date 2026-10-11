@@ -1,0 +1,102 @@
+# Sentences: Episode 9 | Short lines from the ninth episode
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Kaizoku ga semete kita zo! | 海賊が攻めてきたぞ！ | Pirates are attacking!
+kaizoku | 海賊 | pirates
+~ga | が | (marks the subject)
+semete kita | 攻めてきた | have come attacking
+~zo | ぞ | (emphatic)
+
+> Minna nigero! | みんな逃げろ！ | Everybody run!
+minna | みんな | everyone
+nigero | 逃げろ | run! (command form of "nigeru")
+
+> Mubou da wa. Kono mama Gurando Rain ni hairu nante. | 無謀だわ。このままグランドラインに入るなんて。 | It's reckless — entering the Grand Line as we are.
+mubou | 無謀 | reckless
+~da wa | だわ | it is (feminine)
+kono mama | このまま | like this, as we are
+~Gurando Rain | グランドライン | the Grand Line
+~ni | に | into
+hairu | 入る | to enter
+nante | なんて | such a thing as
+
+> Yappa niku ga hoshii yo na. | やっぱ肉が欲しいよな。 | We really do want meat, huh.
+yappa | やっぱ | after all (casual "yappari")
+niku | 肉 | meat
+~ga | が | (marks what is wanted)
+hoshii | 欲しい | to want
+~yo na | よな | don't we
+
+> Mainichi kudamono bakka tte no mo na. | 毎日果物ばっかってのもな。 | Nothing but fruit every day gets old.
+mainichi | 毎日 | every day
+kudamono | 果物 | fruit
+bakka | ばっか | nothing but (casual "bakari")
+~tte no mo na | ってのもな | "…is a bit much"
+
+> Sonna n ja nakute… | そんなんじゃなくて… | That's not what I mean…
+sonna n | そんなん | that sort of thing
+ja nakute | じゃなくて | not… but
+
+> Sekai de mottomo kiken na basho na no. | 世界で最も危険な場所なの。 | It's the most dangerous place in the world.
+sekai de | 世界で | in the world
+mottomo | 最も | the most
+kiken na | 危険な | dangerous
+basho | 場所 | place
+~na no | なの | it is (explaining, feminine)
+
+> Nakama mo iru yo na. | 仲間もいるよな。 | We need crewmates too.
+nakama | 仲間 | crewmates
+~mo | も | too
+iru | 要る | to need
+~yo na | よな | don't we
+
+> Totemo buji de irareru to wa omoenai wa. | とても無事でいられるとは思えないわ。 | I really can't see us coming through safely.
+totemo | とても | (not) possibly
+buji de irareru | 無事でいられる | can stay safe
+~to wa | とは | (quoting: "that…")
+omoenai | 思えない | can't think, can't imagine
+~wa | わ | (feminine)
+
+> Sake mo wasurenna. | 酒も忘れんな。 | Don't forget the booze either.
+sake | 酒 | alcohol
+~mo | も | too
+wasurenna | 忘れんな | don't forget (casual "wasureru na")
+
+> Kyou koso tocchimete yaru zo! | 今日こそとっちめてやるぞ！ | Today's the day I teach you a lesson!
+kyou koso | 今日こそ | today for sure
+tocchimete yaru | とっちめてやる | I'll give (you) what for
+~zo | ぞ | (threatening)
+
+> Mata nigerarechimatta ka. | また逃げられちまったか。 | He got away from us again, huh.
+mata | また | again
+nigerarechimatta | 逃げられちまった | (he) got away on us — passive + rough "-chimau"
+~ka | か | huh
+
+> Ittai doko ikiyagattanda. | 一体どこ行きやがったんだ。 | Where the hell did he go?
+ittai | 一体 | (where) on earth
+doko | どこ | where
+ikiyagatta | 行きやがった | damn well went ("iku" + rough "-yagaru")
+~n da | んだ | (demanding)
+
+> Omaera futari dake ka? | お前ら二人だけか？ | Just the two of you?
+omaera | お前ら | you guys (rough)
+futari | 二人 | two people
+dake | だけ | only
+~ka | か | (question: "…?")
+
+> Nani sawaidenda? Aitsu. | 何騒いでんだ？あいつ。 | What's he making a fuss about?
+nani | 何 | what
+sawaiden | 騒いでん | making a fuss (casual "sawaide iru n")
+~da | だ | is (he)
+aitsu | あいつ | he, that guy
+
+> Kaizoku ga kaizoku ni bibitte dou surun desu ka! | 海賊が海賊にビビってどうするんですか！ | What good is a pirate who's scared of pirates?!
+kaizoku | 海賊 | pirate
+~ga | が | (marks the subject)
+~kaizoku | 海賊 | pirates
+~ni | に | of, at
+bibitte | ビビって | getting scared (te-form of "bibiru")
+dou surun desu ka | どうするんですか | what's the use?! (polite)
