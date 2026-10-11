@@ -35,7 +35,7 @@ function deckTile(d) {
         ${art(d.id)}
         <span class="relative block size-8 rounded-full" style="background:var(--dot)"></span>
         <span class="relative mt-4 block h-px w-6 bg-current opacity-50"></span>
-        <h3 class="relative mt-3 max-w-[70%] text-2xl leading-[1.05] font-extrabold">${esc(d.title)}</h3>
+        <h4 class="relative mt-3 max-w-[70%] text-2xl leading-[1.05] font-extrabold">${esc(d.title)}</h4>
         <p class="relative mt-2 max-w-[60%] text-xs leading-snug font-medium opacity-80">${esc(d.description)}</p>
         <span class="relative mt-auto block pt-6 text-xs font-bold tracking-wide">${d.kind === 'sentences' ? 'SENTENCES' : 'WORDS'}</span>
         <span class="relative block text-6xl leading-none font-black">${s.total}</span>
@@ -67,6 +67,31 @@ function voicePicker() {
           .join('')}
       </select>
     </label>`
+}
+
+const SUBGROUPS = [
+  ['words', 'Words'],
+  ['sentences', 'Sentences'],
+]
+
+// One kind of deck within a group, with its own select toggle.
+function subgroup(g, kind, label) {
+  const own = g.decks.filter((d) => d.kind === kind)
+  if (!own.length) return ''
+  const allOn = own.every((d) => selected.has(d.id))
+  const key = `${g.id}|${kind}`
+  const open = !collapsed.has(key)
+  return `
+    <div class="mt-6 flex items-center justify-between gap-4">
+      <button data-fold="${key}" aria-expanded="${open}" class="flex min-w-0 flex-1 items-center gap-2.5 text-left text-white/70 hover:text-white">
+        <span class="inline-block text-[0.6rem] transition-transform ${open ? 'rotate-90' : ''}">▶</span>
+        <h3 class="text-sm font-extrabold tracking-[0.2em] uppercase">${label}</h3>
+      </button>
+      <button data-subgroup="${g.id}|${kind}" class="text-sm font-bold text-white/70 hover:text-white">
+        ${allOn ? 'Select none' : 'Select all'}
+      </button>
+    </div>
+    ${open ? `<ul class="mt-4 grid auto-rows-fr gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">${own.map(deckTile).join('')}</ul>` : ''}`
 }
 
 function studyLabel() {
@@ -125,7 +150,7 @@ function renderHome() {
               </div>
               ${
                 open
-                  ? `<ul class="mt-5 grid auto-rows-fr gap-5 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">${g.decks.map(deckTile).join('')}</ul>`
+                  ? SUBGROUPS.map(([kind, label]) => subgroup(g, kind, label)).join('')
                   : ''
               }
             </section>`
@@ -164,6 +189,13 @@ function renderHome() {
   app.querySelectorAll('[data-group]').forEach((btn) =>
     btn.addEventListener('click', () => {
       const ids = groups.find((g) => g.id === btn.dataset.group).decks.map((d) => d.id)
+      select(ids, !ids.every((id) => selected.has(id)))
+    }),
+  )
+  app.querySelectorAll('[data-subgroup]').forEach((btn) =>
+    btn.addEventListener('click', () => {
+      const [groupId, kind] = btn.dataset.subgroup.split('|')
+      const ids = decks.filter((d) => d.group === groupId && d.kind === kind).map((d) => d.id)
       select(ids, !ids.every((id) => selected.has(id)))
     }),
   )
