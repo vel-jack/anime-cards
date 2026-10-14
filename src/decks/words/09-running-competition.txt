@@ -1,0 +1,63 @@
+# Running, School & Competition | Track, clubs, races and records
+# format:  romaji | japanese | english | optional note
+
+rikujou | 陸上 | track and field
+rikujoubu | 陸上部 | track and field club
+tankyori | 短距離 | sprint, short distance
+senshuken | 選手権 | championship
+yosen | 予選 | heats, qualifying round
+hashiri | 走り | running, one's way of running
+shissoku | 失速 | losing speed, slowing down
+oikaze | 追い風 | tailwind
+hohaba | 歩幅 | stride
+juushin | 重心 | centre of gravity
+riree | リレー | relay
+ankaa | アンカー | anchor (last runner)
+sutaato | スタート | start
+reesu | レース | race
+jiko besuto | 自己ベスト | personal best
+koushin | 更新 | breaking (a record), renewal
+nurikaeru | 塗り替える | to rewrite (a record)
+saisoku | 最速 | fastest
+ouja | 王者 | champion
+zenshou | 全勝 | winning every match
+haitai | 敗退 | elimination, being knocked out
+nyuushou | 入賞 | placing (in a contest)
+douchaku | 同着 | dead heat
+hyoujun kiroku | 標準記録 | qualifying standard
+shikaku | 資格 | qualification
+kyougi | 競技 | competition, event
+shumoku | 種目 | event (in a sport)
+kongou | 混合 | mixed | "danjo kongou" = mixed men and women
+kentou | 健闘 | putting up a good fight
+honban | 本番 | the real thing (not practice)
+yokou enshuu | 予行演習 | rehearsal
+chousei | 調整 | adjusting, fine-tuning
+kouritsu | 効率 | efficiency
+zenhan | 前半 | first half
+nikubanare | 肉離れ | pulled muscle
+fuchou | 不調 | bad condition, slump
+intai | 引退 | retirement
+gen'eki | 現役 | active (still competing)
+wakate | 若手 | young player, newcomer
+kantoku | 監督 | coach, manager
+eikou | 栄光 | glory
+kin medaru | 金メダル | gold medal
+zenkoku | 全国 | nationwide, national
+jimoto | 地元 | hometown, local
+meimon | 名門 | prestigious (school, family)
+bukatsu | 部活 | school club activities
+bukatsudou | 部活動 | school club activity
+nyuubu | 入部 | joining a club
+buin | 部員 | club member
+buchou | 部長 | club captain; department head
+kyoutou | 教頭 | vice principal
+undoukai | 運動会 | sports day
+shougakusei | 小学生 | elementary school pupil
+chuugaku | 中学 | junior high school
+koukou | 高校 | high school
+daigaku | 大学 | university
+nyuugaku | 入学 | enrolling (in a school)
+tenkou | 転校 | changing schools
+satsuei | 撮影 | filming, photo shoot
+taidan | 対談 | interview, conversation

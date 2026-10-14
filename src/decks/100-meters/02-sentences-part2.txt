@@ -1,0 +1,125 @@
+# Dialogue: Part 2 | High school — the track club and the relay
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Uwasa ni wa kiiteta kedo hontou ni nyuugaku shiteta n da ne. | 噂には聞いてたけど本当に入学してたんだね。 | I'd heard rumours, but you really did enrol here.
+uwasa | 噂 | rumour
+~ni wa | には | (as for…)
+kiiteta | 聞いてた | had heard (short for "kiite ita")
+kedo | けど | but
+hontou ni | 本当に | really
+nyuugaku shiteta | 入学してた | had enrolled
+~n da ne | んだね | so it's true
+
+> Ie kara chikakatta node. | 家から近かったので。 | Because it was close to home.
+ie | 家 | home
+~kara | から | from
+chikakatta | 近かった | was close (past of "chikai")
+node | ので | because
+
+> Doushite rikujoubu ni hairanai no? | どうして陸上部に入らないの？ | Why won't you join the track team?
+doushite | どうして | why
+rikujoubu | 陸上部 | track and field club
+~ni | に | into
+hairanai | 入らない | don't join
+~no | の | (soft question)
+
+> Nan no tame ni? Hayaku naru tame. | 何のために？速くなるため。 | What for? To get faster.
+nan no tame ni | 何のために | what for
+hayaku naru | 速くなる | to get faster
+tame | ため | for (the sake of)
+
+> Ippon hashittara mou kan'yuu shinaide kudasai yo. | 一本走ったらもう勧誘しないでくださいよ。 | If I run once, please stop trying to recruit me.
+ippon | 一本 | one (run)
+hashittara | 走ったら | if/after (I) run
+mou | もう | (not) anymore
+kan'yuu | 勧誘 | recruiting
+shinaide kudasai | しないでください | please don't
+~yo | よ | (asserting)
+
+> Saitei gonin inai to bukatsudou to shite mitomete moraenai no. | 最低5人いないと部活動として認めてもらえないの。 | Without at least five members, it won't be recognised as a club.
+saitei | 最低 | at least, minimum
+gonin | 五人 | five people
+inai to | いないと | if there aren't
+bukatsudou | 部活動 | school club activity
+to shite | として | as
+mitomete moraenai | 認めてもらえない | won't be recognised
+~no | の | (explaining)
+
+> Sore tada no uwasa desu. | それただの噂です。 | That's just a rumour.
+sore | それ | that
+tada no | ただの | just a, mere
+uwasa | 噂 | rumour
+~desu | です | is (polite)
+
+> Ore, rikujou yameyou to omottemashita. | 俺、陸上辞めようと思ってました。 | I'd been thinking of quitting track.
+ore | 俺 | I (rough, masculine)
+rikujou | 陸上 | track and field
+yameyou | 辞めよう | (I'll) quit ("yameru", volitional)
+to omottemashita | と思ってました | had been thinking (polite)
+
+> Hashiru koto mo yameru koto mo kowaku natte. | 走ることも辞めることも怖くなって。 | I got scared of both running and quitting.
+hashiru koto | 走ること | running
+~mo | も | both… and
+yameru koto | 辞めること | quitting
+~mo | も | both… and
+kowaku natte | 怖くなって | became scared
+
+> Orei wo iu no wa ore no hou desu. | お礼を言うのは俺の方です。 | I'm the one who should be thanking you.
+orei | お礼 | thanks
+~wo | を | (marks the object)
+iu | 言う | to say
+~no wa | のは | "the one who…"
+ore | 俺 | I (rough, masculine)
+no hou | の方 | (my) side
+~desu | です | is (polite)
+
+> Mou ichido hashitte minai? | もう一度走ってみない？ | Won't you try running once more?
+mou ichido | もう一度 | once more
+hashitte minai | 走ってみない | won't (you) try running?
+
+> Kono yo ni wa hyaku meetoru de jinsei wo kuruwasareru ningen mo irunda yo. | この世には100メートルで人生を狂わされる人間もいるんだよ。 | In this world, some people have their lives wrecked by 100 metres.
+kono yo | この世 | this world
+~ni wa | には | in (as the topic)
+hyaku meetoru | 100メートル | 100 metres
+~de | で | by
+jinsei | 人生 | (one's) life
+~wo | を | (marks the object)
+kuruwasareru | 狂わされる | to be thrown off, ruined (passive of "kuruwasu")
+ningen | 人間 | people
+~mo | も | also
+iru | いる | there are
+~n da yo | んだよ | (explaining)
+
+> Aite ni totte fusoku wa nai. | 相手にとって不足はない。 | A worthy opponent.
+aite | 相手 | opponent
+ni totte | にとって | as, for
+fusoku | 不足 | shortage, lacking
+~wa | は | (marks the topic)
+nai | ない | there is none
+
+> Mucha shinai yo. | 無茶しないよ。 | I won't overdo it.
+mucha | 無茶 | reckless, excessive
+shinai | しない | won't do
+~yo | よ | (reassuring)
+
+> Fuan wa taiji subeki de wa nai. | 不安は退治すべきではない。 | Anxiety is not something to be beaten.
+fuan | 不安 | anxiety
+~wa | は | (marks the topic)
+taiji | 退治 | getting rid of, defeating
+subeki de wa nai | すべきではない | should not
+
+> Fuan to wa, kimi jishin ga kimi wo tamesu toki no kanjou da. | 不安とは、君自身が君を試す時の感情だ。 | Anxiety is the feeling you get when you put yourself to the test.
+fuan | 不安 | anxiety
+~to wa | とは | (defining: "is")
+kimi jishin | 君自身 | you yourself
+~ga | が | (marks the subject)
+kimi | 君 | you
+~wo | を | (marks the object)
+tamesu | 試す | to test
+toki | 時 | when
+~no | の | of
+kanjou | 感情 | emotion
+~da | だ | is

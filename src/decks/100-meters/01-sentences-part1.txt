@@ -1,0 +1,125 @@
+# Dialogue: Part 1 | Childhood — two boys and the 100 metres
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Hashiru no suki na no? | 走るの好きなの？ | Do you like running?
+hashiru | 走る | to run
+~no | の | (turns it into "…-ing")
+suki | 好き | like, fond of
+~na no | なの | (soft question)
+
+> Ja, nande hashitteru no? | じゃあ、なんで走ってるの？ | Then why do you run?
+ja | じゃあ | then, in that case
+nande | なんで | why
+hashitteru | 走ってる | running (short for "hashitte iru")
+~no | の | (soft question)
+
+> Genjitsu yori tsurai koto wo suru to ki ga magirerun da. | 現実よりつらいことをすると気が紛れるんだ。 | When I do something harder than real life, it takes my mind off things.
+genjitsu | 現実 | reality, real life
+yori | より | than
+tsurai | つらい | hard, painful
+koto | こと | thing
+~wo | を | (marks the object)
+suru | する | to do
+~to | と | when, if
+ki ga magireru | 気が紛れる | to be distracted from one's worries
+~n da | んだ | (explaining)
+
+> Hito to umaku hanasenai shi. | 人とうまく話せないし。 | I can't talk to people well, either.
+hito | 人 | people
+~to | と | with
+umaku | うまく | well, skilfully
+hanasenai | 話せない | can't talk
+~shi | し | and besides
+
+> Kono sekai ni wa sugoku kantan na ruuru ga arunda. | この世界にはすごく簡単なルールがあるんだ。 | There's a really simple rule in this world.
+kono | この | this
+sekai | 世界 | world
+~ni wa | には | in (as the topic)
+sugoku | すごく | very, really
+kantan na | 簡単な | simple
+ruuru | ルール | rule
+~ga | が | (marks the subject)
+aru | ある | there is
+~n da | んだ | (explaining)
+
+> Hyaku meetoru wo dare yori mo hayaku hashireba zenbu kaiketsu suru. | 100メートルを誰よりも速く走れば全部解決する。 | Run 100 metres faster than anyone, and everything gets solved.
+hyaku meetoru | 100メートル | 100 metres
+~wo | を | (marks the distance)
+dare yori mo | 誰よりも | than anyone
+hayaku | 速く | fast
+hashireba | 走れば | if you run
+zenbu | 全部 | everything
+kaiketsu suru | 解決する | to be solved
+
+> Sore wo kimeru no wa kimi da yo. | それを決めるのは君だよ。 | That's for you to decide.
+sore | それ | that
+~wo | を | (marks the object)
+kimeru | 決める | to decide
+~no wa | のは | "the one who…"
+kimi | 君 | you
+~da yo | だよ | it is (informing)
+
+> Yasumu no mo renshuu no uchi da yo. | 休むのも練習のうちだよ。 | Resting is part of training too.
+yasumu | 休む | to rest
+~no mo | のも | (…-ing) too
+renshuu | 練習 | practice, training
+~no | の | of
+uchi | うち | part of
+~da yo | だよ | it is (informing)
+
+> Ichido de ii kara ichii ni natte mitai. | 一度でいいから一位になってみたい。 | Just once, I want to try coming first.
+ichido | 一度 | once
+~de ii kara | でいいから | (…is enough, so)
+ichii | 一位 | first place
+~ni | に | (marks what you become)
+natte mitai | なってみたい | want to try becoming
+
+> Nan no tame ni hashitte irun desu ka? | 何のために走っているんですか？ | What do you run for?
+nan no tame ni | 何のために | for what, what for
+hashitte iru | 走っている | are running
+~n desu ka | んですか | (polite question)
+
+> Ichii wo toru tame da yo. | 1位を取るためだよ。 | To take first place.
+ichii | 一位 | first place
+~wo | を | (marks the object)
+toru | 取る | to take
+tame | ため | for (the sake of)
+~da yo | だよ | it is (informing)
+
+> Hibi no reesu ga jinsei wo sayuu suru. | 日々のレースが人生を左右する。 | The races you run each day decide your life.
+hibi | 日々 | daily, day after day
+~no | の | of
+reesu | レース | race
+~ga | が | (marks the subject)
+jinsei | 人生 | (one's) life
+~wo | を | (marks the object)
+sayuu suru | 左右する | to sway, decide
+
+> Jibun ga omotte iru gojuubai no sainou ga aru zo. | 自分が思っている50倍の才能があるぞ。 | You have fifty times the talent you think you do.
+jibun | 自分 | oneself, you yourself
+~ga | が | (marks the subject)
+omotte iru | 思っている | think
+gojuubai | 50倍 | fifty times (as much)
+~no | の | of
+sainou | 才能 | talent
+~ga | が | (marks the subject)
+aru | ある | there is, have
+~zo | ぞ | (emphatic)
+
+> Boku wa te wo nuku koto ga dekinain da. | 僕は手を抜くことができないんだ。 | I just can't hold back.
+boku | 僕 | I (soft, boyish)
+~wa | は | (marks the topic)
+te wo nuku | 手を抜く | to slack off, hold back
+koto ga dekinai | ことができない | can't (do)
+~n da | んだ | (explaining)
+
+> Boku to hyaku meetoru de shoubu shite hoshii. | 僕と100メートルで勝負してほしい。 | I want you to race me over 100 metres.
+boku | 僕 | I, me (soft, boyish)
+~to | と | with
+hyaku meetoru | 100メートル | 100 metres
+~de | で | over, in
+shoubu shite | 勝負して | compete (te-form of "shoubu suru")
+hoshii | ほしい | want (you) to

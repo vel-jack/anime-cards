@@ -1,0 +1,126 @@
+# Dialogue: Part 3 | Pro runners — reality, injury and the final
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Itsuka rikujou ni korosareru zo. | いつか陸上に殺されるぞ。 | Track will kill you someday.
+itsuka | いつか | someday
+rikujou | 陸上 | track and field
+~ni | に | by
+korosareru | 殺される | to be killed (passive of "korosu")
+~zo | ぞ | (warning)
+
+> Kotoshi ga saigo da to omotte ganbaru yo. | 今年が最後だと思って頑張るよ。 | I'll give it everything, as if this year is my last.
+kotoshi | 今年 | this year
+~ga | が | (marks the subject)
+saigo | 最後 | the last
+da to omotte | だと思って | thinking that it is
+ganbaru | 頑張る | to do one's best
+~yo | よ | (asserting)
+
+> Mainen jiko besuto wo koushin suru tsumori de shiizun ni idonde imasu. | 毎年自己ベストを更新するつもりでシーズンに挑んでいます。 | Every year I go into the season aiming to beat my personal best.
+mainen | 毎年 | every year
+jiko besuto | 自己ベスト | personal best
+~wo | を | (marks the object)
+koushin suru | 更新する | to break, update (a record)
+tsumori de | つもりで | intending to
+shiizun | シーズン | season
+~ni | に | (marks what you take on)
+idonde imasu | 挑んでいます | take on, challenge (polite)
+
+> Genjitsu wa katte ni kiete kurenai. | 現実は勝手に消えてくれない。 | Reality won't just disappear on its own.
+genjitsu | 現実 | reality
+~wa | は | (marks the topic)
+katte ni | 勝手に | on its own, by itself
+kiete kurenai | 消えてくれない | won't disappear (for you)
+
+> Sonna no wa hitotsu da. Kiroku de chouetsu suru shika nai. | そんなのは一つだ。記録で超越するしかない。 | There's only one way. You have to rise above it with your times.
+sonna no | そんなの | that (sort of thing)
+~wa | は | (marks the topic)
+hitotsu | 一つ | one
+~da | だ | is
+kiroku | 記録 | record, time
+~de | で | by
+chouetsu suru | 超越する | to transcend, rise above
+shika nai | しかない | have no choice but
+
+> Zuibun yowaki ja nee ka. | ずいぶん弱気じゃねえか。 | You sound awfully timid.
+zuibun | ずいぶん | awfully, quite
+yowaki | 弱気 | timid, faint-hearted
+ja nee ka | じゃねえか | aren't you (rough)
+
+> Ore ni wa tensei no sainou ga aru. | 俺には天性の才能がある。 | I have natural talent.
+ore | 俺 | I (rough, masculine)
+~ni wa | には | (as for me)
+tensei | 天性 | inborn, natural
+~no | の | (links to the noun)
+sainou | 才能 | talent
+~ga | が | (marks the subject)
+aru | ある | there is, have
+
+> Genjitsu touhi wa ore jishin e no kitai da. | 現実逃避は俺自身への期待だ。 | Escaping reality is my faith in myself.
+genjitsu touhi | 現実逃避 | escaping reality
+~wa | は | (marks the topic)
+ore jishin | 俺自身 | myself
+e no | への | toward
+kitai | 期待 | expectation, hope
+~da | だ | is
+
+> Ore ga ore wo akiramete inai. | 俺が俺を諦めていない。 | I haven't given up on myself.
+ore | 俺 | I (rough, masculine)
+~ga | が | (marks the subject)
+~ore | 俺 | me
+~wo | を | (marks the object)
+akiramete inai | 諦めていない | haven't given up
+
+> Kako no koto wa wasurete, ima jibun ga dekiru koto wo seiippai yatte ikou to omotte imasu. | 過去のことは忘れて、今自分ができることを精一杯やっていこうと思っています。 | I'll put the past behind me and do everything I can right now.
+kako | 過去 | the past
+~no koto wa | のことは | (things about…)
+wasurete | 忘れて | forget, and…
+ima | 今 | now
+jibun ga | 自分が | I myself
+dekiru koto | できること | what (I) can do
+~wo | を | (marks the object)
+seiippai | 精一杯 | as hard as one can
+yatte ikou | やっていこう | keep on doing
+to omotte imasu | と思っています | I intend to (polite)
+
+> Akushu shite moratte mo ii desu ka? | 握手してもらってもいいですか？ | Could I shake your hand?
+akushu | 握手 | handshake
+shite moratte mo ii | してもらってもいい | may I have you do
+~desu ka | ですか | (polite question)
+
+> Me wo tojitara doko ni mo nigerarenai. | 目を閉じたらどこにも逃げられない。 | Close your eyes, and you can't run anywhere.
+me | 目 | eyes
+~wo | を | (marks the object)
+tojitara | 閉じたら | if you close
+doko ni mo | どこにも | (not) anywhere
+nigerarenai | 逃げられない | can't escape
+
+> Nikubanare wa amaku mite wa ikemasen. | 肉離れは甘く見てはいけません。 | You mustn't take a pulled muscle lightly.
+nikubanare | 肉離れ | pulled muscle
+~wa | は | (marks the topic)
+amaku mite | 甘く見て | taking lightly
+wa ikemasen | はいけません | mustn't (polite)
+
+> Hayasa dake ga subete ja nai. | 速さだけが全てじゃない。 | Speed isn't everything.
+hayasa | 速さ | speed
+dake | だけ | only
+~ga | が | (marks the subject)
+subete | 全て | everything
+ja nai | じゃない | is not
+
+> Makettatte inochi wo torareru wake ja nai shi. | 負けたって命を取られるわけじゃないし。 | Losing won't cost you your life.
+makettatte | 負けたって | even if you lose
+inochi | 命 | life
+~wo | を | (marks the object)
+torareru | 取られる | to be taken (passive of "toru")
+wake ja nai | わけじゃない | it's not as if
+~shi | し | and besides
+
+> Honki de hashireba subete fukitobu. | 本気で走れば全て吹き飛ぶ。 | Run for real, and everything else is blown away.
+honki de | 本気で | seriously, for real
+hashireba | 走れば | if you run
+subete | 全て | everything
+fukitobu | 吹き飛ぶ | to be blown away
