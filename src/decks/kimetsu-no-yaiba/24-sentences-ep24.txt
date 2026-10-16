@@ -1,0 +1,117 @@
+# Sentences: Episode 24 | Short lines from Rehabilitation Training
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Sukoshi jikan ga kakaru mitai desu. | 少し時間がかかるみたいです。 | It seems it will take a little time.
+sukoshi | 少し | a little
+jikan | 時間 | time
+~ga | が | subject marker
+kakaru | かかる | to take (time)
+mitai | みたい | like, resembling
+~desu | です | is (polite ending)
+
+> Tanoshisou de ii na. | 楽しそうでいいな。 | He's having fun. That's nice.
+tanoshisou | 楽しそう | looks fun (tanoshii + sou)
+~de | で | at, with; means marker
+ii | いい | good
+~na | な | emphasis; prohibition after a verb
+
+> Dou desu ka? Karada no hou wa? | どうですか？体のほうは？ | How is your body feeling?
+dou | どう | how
+~desu ka | ですか | polite question ending
+karada | 体 | body
+~no | の | of; links nouns
+hou | ほう | side (in a comparison)
+~wa | は | topic marker
+
+> Shinobu-san tte iu hito no oto wa dokutoku nan da yo na. | しのぶさんっていう人の音は独特なんだよな。 | The woman called Shinobu has a distinctive sound.
+~Shinobu-san | しのぶさん | Ms Shinobu (name)
+~tte iu | っていう | called (informal to iu)
+hito | 人 | person, people
+~no | の | of; links nouns
+oto | 音 | sound
+~wa | は | topic marker
+dokutoku | 独特 | distinctive
+~nan da yo na | なんだよな | informal explanatory observation
+
+> Soshite mechakucha kawaii n da yo. | そしてめちゃくちゃかわいいんだよ。 | And she's incredibly cute.
+soshite | そして | and then
+mechakucha | めちゃくちゃ | extremely (informal)
+kawaii | かわいい | cute
+~n da yo | んだよ | emphatic explanation
+
+> Sumimasen chotto ii desu ka? | すみませんちょっといいですか？ | Excuse me, may I have a moment?
+sumimasen | すみません | excuse me (polite expression)
+chotto | ちょっと | a little, briefly
+ii | いい | good
+~desu ka | ですか | polite question ending
+
+> Nante koto suru n da Zen'itsu Inosuke ni ayamare! | なんてことするんだ善逸伊之助に謝れ！ | What are you doing, Zenitsu?! Apologize to Inosuke!
+nante | なんて | what on earth
+koto | こと | situation, thing
+suru | する | to do
+~n da | んだ | explanatory ending
+~Zen'itsu | 善逸 | Zenitsu (name)
+~Inosuke | 伊之助 | Inosuke (name)
+~ni | に | to, at; target marker
+ayamare | 謝れ | apologize! (command of ayamaru)
+
+> Aitsu yaru yatsu da ze. | あいつやるヤツだぜ。 | He really can deliver.
+aitsu | あいつ | that guy (rough)
+yaru | やる | to do, perform
+yatsu | ヤツ | guy, person (rough)
+~da | だ | is (plain ending)
+~ze | ぜ | forceful informal emphasis
+
+> Kanao no kami no ke ippon sura furenakatta. | カナヲの髪の毛１本すら触れなかった。 | I couldn't touch even one of Kanao's hairs.
+~Kanao | カナヲ | Kanao (name)
+~no | の | of; links nouns
+kami no ke | 髪の毛 | hair
+ippon | １本 | one long thin object
+~sura | すら | even
+furenakatta | 触れなかった | could not touch (past negative of fureru)
+
+> Arigatou yatte miru yo. | ありがとうやってみるよ。 | Thanks! I'll give it a try.
+arigatou | ありがとう | thank you
+yatte miru | やってみる | try doing (yaru + te miru)
+~yo | よ | emphasis
+
+> Ganbare ganbaru koto shika dekinai n da kara. | 頑張れ頑張ることしかできないんだから。 | Keep trying! That's all you can do.
+ganbare | 頑張れ | keep trying! (command of ganbaru)
+ganbaru | 頑張る | to do one's best
+koto | こと | situation, thing
+~shika | しか | only (with a negative)
+dekinai | できない | cannot do (negative of dekiru)
+~n da kara | んだから | emphatic because
+
+> Tsuujou no hyoutan yori mo katai desu. | 通常のひょうたんよりも硬いです。 | It's harder than an ordinary gourd.
+tsuujou | 通常 | ordinary, usual
+~no | の | of; links nouns
+hyoutan | ひょうたん | gourd
+~yori | より | rather than
+~mo | も | also, even
+katai | 硬い | hard
+~desu | です | is (polite ending)
+
+> Kanari tairyoku ga modotte kita. | かなり体力が戻ってきた。 | I've recovered quite a lot of strength.
+kanari | かなり | quite, considerably
+tairyoku | 体力 | physical strength
+~ga | が | subject marker
+modotte kita | 戻ってきた | has returned (modoru + te kuru)
+
+> Doushite oretachi wo koko e tsurete kite kureta n desu ka? | どうして俺たちをここへ連れてきてくれたんですか？ | Why did you bring us here?
+doushite | どうして | why
+oretachi | 俺たち | we (rough, masculine)
+~wo | を | object marker
+koko | ここ | here
+~e | へ | toward
+tsurete kite kureta | 連れてきてくれた | brought us (tsureru + te kuru + te kureru)
+~n desu ka | んですか | polite explanatory question
+
+> Zenshuuchuu no kokyuu ga tomattemasu yo. | 全集中の呼吸が止まってますよ。 | Your total concentration breathing has stopped.
+~Zenshuuchuu no kokyuu | 全集中の呼吸 | Total Concentration Breathing (technique name)
+~ga | が | subject marker
+tomattemasu | 止まってます | has stopped (contracted tomatte imasu, from tomaru)
+~yo | よ | emphasis

@@ -1,0 +1,136 @@
+# Sentences: Episode 8 | Short lines from The Smell of Enchanting Blood
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Okusan no kizu wa chimeishou ja nai. | 奥さんの傷は致命傷じゃない。 | His wife's wound isn't fatal.
+okusan | 奥さん | wife (respectful)
+~no | の | of; links nouns
+kizu | 傷 | wound
+~wa | は | topic marker
+chimeishou | 致命傷 | fatal wound
+~ja nai | じゃない | is not (plain negative)
+
+> Kisamara nani wo shite iru! | 貴様ら何をしている！ | What are you people doing?!
+kisamara | 貴様ら | you lot (hostile)
+nani | 何 | what
+~wo | を | object marker
+shite iru | している | are doing (suru + te iru)
+
+> Naraba watashi mo anata wo tedasuke shimashou. | ならば私もあなたを手助けしましょう。 | In that case, I'll help you too.
+~naraba | ならば | if that is so
+watashi | 私 | I, me
+~mo | も | also, even
+anata | あなた | you
+~wo | を | object marker
+tedasuke shimashou | 手助けしましょう | let me help (polite volitional of tedasuke suru)
+
+> Otousan hayaku kaette kite ne. | お父さん早く帰ってきてね。 | Dad, come home soon.
+otousan | お父さん | Dad, father
+hayaku | 早く | early, quickly (adverbial form of hayai)
+kaette kite | 帰ってきて | come back home (kaeru + te kuru, request)
+~ne | ね | seeks agreement
+
+> Nantoka ie yo. Shinjimatta ka? | なんとか言えよ。死んじまったか？ | Say something. Are you dead?
+nantoka | なんとか | something, somehow
+ie | 言え | say it! (command of iu)
+~yo | よ | emphasis
+shinjimatta | 死んじまった | ended up dying (shinu + rough contracted te shimatta)
+~ka | か | question marker
+
+> Shinisou ni mieru ka? | 死にそうに見えるか？ | Do I look like I'm dying?
+shinisou | 死にそう | looks about to die (shinu + sou)
+~ni | に | to, at; target marker
+mieru | 見える | to look, appear
+~ka | か | question marker
+
+> Ore wa nioi wo tadoremasu. | 俺はにおいをたどれます。 | I can follow scents.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+nioi | におい | smell, scent
+~wo | を | object marker
+tadoremasu | たどれます | can follow (polite potential of tadoru)
+
+> Kono kuchikase no sei kamo shirenai. | この口枷のせいかもしれない。 | It might be because of this muzzle.
+kono | この | this (before a noun)
+kuchikase | 口枷 | muzzle, gag
+~no | の | of; links nouns
+sei | せい | fault, cause of something bad
+~kamo shirenai | かもしれない | might, may
+
+> Ii ka ano kata ni shitsurei no nai you ni shiro yo. | いいかあの方に失礼のないようにしろよ。 | Make sure you show that person proper respect.
+~ii ka | いいか | listen, understood?
+ano | あの | that over there (before a noun)
+kata | 方 | person (respectful)
+~ni | に | to, at; target marker
+shitsurei | 失礼 | rudeness
+~no | の | of; links nouns
+nai | ない | there is no, does not exist
+~you ni | ように | so that
+shiro | しろ | do it! (command of suru)
+~yo | よ | emphasis
+
+> Kamaimasen yo. Raku ni shite kudasai. | かまいませんよ。楽にしてください。 | It's all right. Please make yourself comfortable.
+kamaimasen | かまいません | it does not matter (polite negative of kamau)
+~yo | よ | emphasis
+raku ni | 楽に | at ease
+shite | して | doing (te-form of suru)
+kudasai | ください | please do (request form of kudasaru)
+
+> Demo yappari hito no chi wa hitsuyou… | でもやっぱり人の血は必要… | But we still need human blood.
+~demo | でも | even; but
+yappari | やっぱり | after all, as expected
+hito | 人 | person, people
+~no | の | of; links nouns
+chi | 血 | blood
+~wa | は | topic marker
+hitsuyou | 必要 | necessary
+
+> Watashi wa oni wo fuyasou to wa shite imasen. | 私は鬼を増やそうとはしていません。 | I am not trying to create more demons.
+watashi | 私 | I, me
+~wa | は | topic marker
+oni | 鬼 | demon
+~wo | を | object marker
+fuyasou | 増やそう | increase (volitional of fuyasu)
+~to | と | with; quotation marker
+~wa | は | topic marker
+shite imasen | していません | am not doing (polite negative of suru + te iru)
+
+> Uso itsuwari no nai kiyoraka na nioi ga suru. | うそ偽りのない清らかなにおいがする。 | I smell honesty and purity, without any deceit.
+uso itsuwari | うそ偽り | lies and deception
+~no | の | of; links nouns
+nai | ない | there is no, does not exist
+kiyoraka na | 清らかな | pure (kiyoraka + na)
+nioi | におい | smell, scent
+~ga | が | subject marker
+suru | する | to do
+
+> Donna kizu ni mo yamai ni mo kanarazu kusuri ya chiryouhou ga aru no desu. | どんな傷にも病にも必ず薬や治療法があるのです。 | Every wound and illness has medicine or a treatment.
+donna | どんな | what kind of, any
+kizu | 傷 | wound
+~ni | に | to, at; target marker
+~mo | も | also, even
+yamai | 病 | illness
+~ni | に | to, at; target marker
+~mo | も | also, even
+kanarazu | 必ず | without fail
+kusuri | 薬 | medicine
+~ya | や | and, among other things
+chiryouhou | 治療法 | treatment method
+~ga | が | subject marker
+aru | ある | to exist, be present
+~no desu | のです | polite explanation
+
+> Shikashi odoroku beki koto ni Nezuko-san ni wa sono shoujou ga nai. | しかし驚くべきことに禰豆子さんにはその症状がない。 | But surprisingly, Nezuko has none of those symptoms.
+shikashi | しかし | however
+odoroku beki | 驚くべき | surprising (odoroku + beki)
+koto | こと | situation, thing
+~ni | に | to, at; target marker
+~Nezuko-san | 禰豆子さん | Nezuko (name, respectful)
+~ni | に | to, at; target marker
+~wa | は | topic marker
+sono | その | that (before a noun)
+shoujou | 症状 | symptoms
+~ga | が | subject marker
+nai | ない | there is no, does not exist

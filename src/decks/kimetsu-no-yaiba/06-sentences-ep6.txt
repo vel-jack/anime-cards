@@ -1,0 +1,129 @@
+# Sentences: Episode 6 | Short lines from Swordsman Accompanying a Demon
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Tsuukisei wa yoi ga nurenikuku moenikui. | 通気性は良いがぬれにくく燃えにくい。 | It breathes well but resists water and fire.
+tsuukisei | 通気性 | breathability
+~wa | は | topic marker
+yoi | 良い | good
+~ga | が | subject marker
+nurenikuku | ぬれにくく | hard to wet (linking form of nureru + nikui)
+moenikui | 燃えにくい | hard to burn (moeru + nikui)
+
+> Kanarazu Nezuko wo ningen ni modoshite misemasu. | 必ず禰豆子を人間に戻してみせます。 | I'll make sure I turn Nezuko back into a human.
+kanarazu | 必ず | without fail
+~Nezuko | 禰豆子 | Nezuko (name)
+~wo | を | object marker
+ningen | 人間 | human, human being
+~ni | に | to, at; target marker
+modoshite misemasu | 戻してみせます | will certainly turn back (modosu + te miseru, polite)
+
+> Nezuko kore kara wa itsumo issho da kara na. | 禰豆子これからはいつも一緒だからな。 | From now on we'll always be together, Nezuko.
+~Nezuko | 禰豆子 | Nezuko (name)
+kore kara | これから | from now on
+~wa | は | topic marker
+itsumo | いつも | always
+issho | 一緒 | together
+~da kara na | だからな | emphatic assurance
+
+> Nemuru koto de tairyoku wo kaifuku shite iru no kamo shirenai. | 眠ることで体力を回復しているのかもしれない。 | She may be recovering her strength through sleep.
+nemuru | 眠る | to sleep
+koto | こと | situation, thing
+~de | で | at, with; means marker
+tairyoku | 体力 | physical strength
+~wo | を | object marker
+kaifuku shite iru | 回復している | is recovering (kaifuku suru + te iru)
+~no kamo shirenai | のかもしれない | it may be that
+
+> Hokusei no machi tte koko na no kana? | 北西の町ってここなのかな？ | I wonder if this is the northwestern town.
+hokusei | 北西 | northwest
+~no | の | of; links nouns
+machi | 町 | town
+~tte | って | informal quotation marker
+koko | ここ | here
+~na no kana | なのかな | I wonder if it is
+
+> Chotto ohanashi wo kikitai no desu ga ii desu ka? | ちょっとお話を聞きたいのですがいいですか？ | May I ask you a few questions?
+chotto | ちょっと | a little, briefly
+ohanashi | お話 | conversation (polite hanashi)
+~wo | を | object marker
+kikitai | 聞きたい | want to ask (desire form of kiku)
+~no desu ga | のですが | polite lead-in
+ii | いい | good
+~desu ka | ですか | polite question ending
+
+> Shinjite moraenai kamo shirenai ga… | 信じてもらえないかもしれないが… | You may not believe me, but...
+shinjite moraenai | 信じてもらえない | may not be believed (shinjiru + negative potential of morau)
+~kamo shirenai | かもしれない | might, may
+~ga | が | subject marker
+
+> Sono tame ni ore wa koko ni kimashita kara. | そのために俺はここに来ましたから。 | That's why I've come here.
+sono | その | that (before a noun)
+tame | ため | purpose, sake
+~ni | に | to, at; target marker
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+koko | ここ | here
+~ni | に | to, at; target marker
+kimashita | 来ました | came (polite past of kuru)
+~kara | から | because; from
+
+> Dakara yasumu wake ni wa ikanai. | だから休むわけにはいかない。 | That's why I can't afford to rest.
+dakara | だから | so, that is why
+yasumu | 休む | to rest
+~wake ni wa ikanai | わけにはいかない | cannot afford to, must not
+
+> Kanarazu chikaku ni iru hazu desu. | 必ず近くにいるはずです。 | It must be close by.
+kanarazu | 必ず | without fail
+chikaku | 近く | nearby
+~ni | に | to, at; target marker
+iru | いる | to be, exist (living beings)
+hazu | はず | expectation, should be
+~desu | です | is (polite ending)
+
+> Sarawareta kotachi wa dou natta no kashira? | 攫われた娘たちはどうなったのかしら？ | I wonder what happened to the abducted girls.
+sarawareta | 攫われた | were abducted (past passive of sarau)
+kotachi | 娘たち | girls (dialogue reads 娘 as ko)
+~wa | は | topic marker
+dou | どう | how
+natta | なった | became (past of naru)
+~no kashira | のかしら | I wonder (often feminine)
+
+> Kihonteki ni oni wa murenai to kiita. | 基本的に鬼は群れないと聞いた。 | I heard demons generally don't form groups.
+kihonteki ni | 基本的に | generally, basically
+oni | 鬼 | demon
+~wa | は | topic marker
+murenai | 群れない | do not form groups (negative of mureru)
+~to | と | with; quotation marker
+kiita | 聞いた | heard (past of kiku)
+
+> Futari wo mamorinagara sannin no oni wo kiru. | ２人を守りながら３人の鬼を斬る。 | Cut down three demons while protecting two people.
+futari | ２人 | two people
+~wo | を | object marker
+mamorinagara | 守りながら | while protecting (mamoru + nagara)
+sannin | ３人 | three people
+~no | の | of; links nouns
+oni | 鬼 | demon
+~wo | を | object marker
+kiru | 斬る | to cut with a blade
+
+> Hayaku kuwanai to koku ikkoku de aji ga ochiru n da! | 早く食わないと刻一刻で味が落ちるんだ！ | The taste gets worse by the moment if I don't eat quickly!
+hayaku | 早く | early, quickly (adverbial form of hayai)
+kuwanai | 食わない | do not eat (negative of rough kuu)
+~to | と | with; quotation marker
+koku ikkoku | 刻一刻 | moment by moment
+~de | で | at, with; means marker
+aji | 味 | taste
+~ga | が | subject marker
+ochiru | 落ちる | to fall, deteriorate
+~n da | んだ | explanatory ending
+
+> Demo hako no naka semakunai ka? | でも箱の中狭くないか？ | Isn't it cramped in the box?
+~demo | でも | even; but
+hako | 箱 | box
+~no | の | of; links nouns
+naka | 中 | inside
+semakunai | 狭くない | isn't cramped (negative of semai)
+~ka | か | question marker

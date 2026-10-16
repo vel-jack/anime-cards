@@ -1,0 +1,131 @@
+# Sentences: Episode 20 | Short lines from Pretend Family
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore wa mada tatakawanakereba naranai. | 俺はまだ戦わなければならない。 | I still have to fight.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+mada | まだ | still, yet
+tatakawanakereba naranai | 戦わなければならない | must fight (tatakau + negative conditional obligation)
+
+> Sou ieba ano hai no you na nioi ga shinakatta. | そういえばあの灰のようなにおいがしなかった。 | Come to think of it, there wasn't that ash-like smell.
+sou ieba | そういえば | come to think of it
+ano | あの | that over there (before a noun)
+hai | 灰 | ash
+~no | の | of; links nouns
+~you na | ような | like, such that
+nioi | におい | smell, scent
+~ga | が | subject marker
+shinakatta | しなかった | did not make (past negative of suru)
+
+> Boku wa jibun no ito de kubi wo kitta n da yo. | 僕は自分の糸で首を切ったんだよ。 | I cut my own neck with my threads.
+boku | 僕 | I, me (often masculine)
+~wa | は | topic marker
+jibun | 自分 | oneself
+~no | の | of; links nouns
+ito | 糸 | thread
+~de | で | at, with; means marker
+kubi | 首 | neck, head
+~wo | を | object marker
+kitta | 切った | cut (past of kiru)
+~n da yo | んだよ | emphatic explanation
+
+> Konna ni hara ga tatta no wa hisashiburi da yo. | こんなに腹が立ったのは久しぶりだよ。 | I haven't been this angry in a long time.
+konna ni | こんなに | this much
+hara | 腹 | belly (hara ga tatsu: get angry)
+~ga | が | subject marker
+tatta | 立った | rose (past of tatsu, here became angry)
+~no | の | nominalizer: turns a clause into a noun
+~wa | は | topic marker
+hisashiburi | 久しぶり | first time in a long while
+~da yo | だよ | emphatic plain ending
+
+> Ippon mo todokanakatta no ka? | １本も届かなかったのか？ | Not a single one reached him?
+ippon | １本 | one long thin object
+~mo | も | also, even
+todokanakatta | 届かなかった | did not reach (past negative of todoku)
+~no ka | のか | explanatory question
+
+> Shikashi mitame ga kodomo darou to oni ni wa kawaran. | しかし見た目が子供だろうと鬼には変わらん。 | But even if it looks like a child, it's still a demon.
+shikashi | しかし | however
+mitame | 見た目 | appearance
+~ga | が | subject marker
+kodomo | 子供 | child
+~darou to | だろうと | even if it is
+oni | 鬼 | demon
+~ni | に | to, at; target marker
+~wa | は | topic marker
+kawaran | 変わらん | does not change (contracted kawaranai, from kawaru)
+
+> Jaa boku no kazoku ni natte yo. | じゃあ僕の家族になってよ。 | Then become part of my family.
+jaa | じゃあ | then, in that case
+boku | 僕 | I, me (often masculine)
+~no | の | of; links nouns
+kazoku | 家族 | family
+~ni | に | to, at; target marker
+natte | なって | become (te-form of naru)
+~yo | よ | emphasis
+
+> Watashitachi kazoku no nouryoku wa zenbu Rui no mono. | 私たち家族の能力は全部累のもの。 | All our family's abilities belong to Rui.
+watashitachi | 私たち | we
+kazoku | 家族 | family
+~no | の | of; links nouns
+nouryoku | 能力 | ability
+~wa | は | topic marker
+zenbu | 全部 | all, everything
+~Rui | 累 | Rui (name)
+~no | の | of; links nouns
+mono | もの | thing, possession
+
+> Gomennasai jouzu ni dekinakute. | ごめんなさい上手にできなくて。 | I'm sorry I couldn't do it well.
+gomennasai | ごめんなさい | I'm sorry
+jouzu ni | 上手に | skillfully, well
+dekinakute | できなくて | unable to do (negative te-form of dekiru)
+
+> Kikanakatta koto ni suru wa watashi. | 聞かなかったことにするわ私。 | I'll pretend I didn't hear that.
+kikanakatta | 聞かなかった | did not hear (past negative of kiku)
+koto | こと | situation, thing
+~ni | に | to, at; target marker
+suru | する | to do
+~wa | わ | softening sentence ending
+watashi | 私 | I, me
+
+> Aitsura wa baka da kedo watashi wa chigau. | あいつらはバカだけど私は違う。 | Whereas they're fools, I'm different.
+aitsura | あいつら | those people (rough)
+~wa | は | topic marker
+baka | バカ | fool
+~da | だ | is (plain ending)
+~kedo | けど | but, although
+watashi | 私 | I, me
+~wa | は | topic marker
+chigau | 違う | to differ
+
+> Te no hira kara ito wo dashite iru n desu ka? | 手のひらから糸を出しているんですか？ | Are you producing threads from your palms?
+te no hira | 手のひら | palm of the hand
+~kara | から | because; from
+ito | 糸 | thread
+~wo | を | object marker
+dashite iru | 出している | are putting out (dasu + te iru)
+~n desu ka | んですか | polite explanatory question
+
+> Watashi wa muriyari shitagawasareteru no. | 私は無理やり従わされてるの。 | I'm being forced to obey.
+watashi | 私 | I, me
+~wa | は | topic marker
+muriyari | 無理やり | by force
+shitagawasareteru | 従わされてる | am being forced to obey (contracted causative passive shitagawasarete iru, from shitagau)
+~no | の | question or explanatory ending
+
+> Anata wa nannin koroshimashita ka? | あなたは何人殺しましたか？ | How many people have you killed?
+anata | あなた | you
+~wa | は | topic marker
+nannin | 何人 | how many people
+koroshimashita | 殺しました | killed (polite past of korosu)
+~ka | か | question marker
+
+> Korosareta hito ga mukuwaremasen. | 殺された人が報われません。 | The people who were killed won't have justice.
+korosareta | 殺された | were killed (past passive of korosu)
+hito | 人 | person, people
+~ga | が | subject marker
+mukuwaremasen | 報われません | will not be rewarded (polite negative of mukuwareru)

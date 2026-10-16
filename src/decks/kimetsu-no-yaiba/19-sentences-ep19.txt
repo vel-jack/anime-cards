@@ -1,0 +1,117 @@
+# Sentences: Episode 19 | Short lines from Hinokami
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Hitotachi no iryoku ga chigau tenchi hodo no sa ga aru. | ひと太刀の威力が違う天地ほどの差がある。 | The force of a single stroke is worlds apart.
+hitotachi | ひと太刀 | one sword stroke
+~no | の | of; links nouns
+iryoku | 威力 | power, force
+~ga | が | subject marker
+chigau | 違う | to differ
+tenchi hodo | 天地ほど | as much as heaven and earth
+~no | の | of; links nouns
+sa | 差 | difference
+~ga | が | subject marker
+aru | ある | to exist, be present
+
+> Nan da kore? Shibarareteru. | 何だこれ？縛られてる。 | What is this? I'm tied up.
+nan da | 何だ | what is it (nani + da)
+kore | これ | this
+shibarareteru | 縛られてる | am tied up (contracted shibararete iru, passive of shibaru)
+
+> Daijoubu da minna ikiteru! | 大丈夫だみんな生きてる！ | It's all right. Everyone's alive!
+daijoubu | 大丈夫 | all right
+~da | だ | is (plain ending)
+minna | みんな | everyone
+ikiteru | 生きてる | are alive (contracted ikite iru, from ikiru)
+
+> Kizu ga fukai. Hidari tekubi ga chigiresou da. | 傷が深い。左手首がちぎれそうだ。 | The wound is deep. My left wrist is almost torn off.
+kizu | 傷 | wound
+~ga | が | subject marker
+fukai | 深い | deep
+hidari tekubi | 左手首 | left wrist
+~ga | が | subject marker
+chigiresou | ちぎれそう | looks about to tear off (chigireru + sou)
+~da | だ | is (plain ending)
+
+> Neesan wo sutenaide! | 姉さんを捨てないで！ | Don't abandon your sister!
+neesan | 姉さん | older sister (familiar)
+~wo | を | object marker
+sutenaide | 捨てないで | don't abandon (negative request of suteru)
+
+> Sou shitara sakki no koto mo yurushite yaru. | そうしたらさっきのことも許してやる。 | Then I'll forgive what happened earlier, too.
+sou shitara | そうしたら | then, if so
+sakki | さっき | a little while ago
+~no | の | of; links nouns
+koto | こと | situation, thing
+~mo | も | also, even
+yurushite yaru | 許してやる | will forgive you (yurusu + te yaru)
+
+> Nani wo itteru no ka wakaranai. | 何を言ってるのか分からない。 | I don't understand what you're saying.
+nani | 何 | what
+~wo | を | object marker
+itteru | 言ってる | are saying (contracted itte iru, from iu)
+~no | の | nominalizer: turns a clause into a noun
+~ka | か | question marker
+wakaranai | 分からない | do not understand (negative of wakaru)
+
+> Jibun no omoi mo ishi mo aru n da. | 自分の思いも意思もあるんだ。 | She has her own feelings and will.
+jibun | 自分 | oneself
+~no | の | of; links nouns
+omoi | 思い | feelings, thoughts
+~mo | も | also, even
+ishi | 意思 | will, intention
+~mo | も | also, even
+aru | ある | to exist, be present
+~n da | んだ | explanatory ending
+
+> Sakarau to dou naru ka chanto oshieru. | 逆らうとどうなるかちゃんと教える。 | I'll teach you exactly what happens when you defy me.
+sakarau | 逆らう | to defy
+~to | と | with; quotation marker
+dou | どう | how
+naru | なる | to become
+~ka | か | question marker
+chanto | ちゃんと | properly
+oshieru | 教える | to teach
+
+> Nezuko wo omae nanka ni watasanai. | 禰豆子をお前なんかに渡さない。 | I won't hand Nezuko over to the likes of you.
+~Nezuko | 禰豆子 | Nezuko (name)
+~wo | を | object marker
+omae | お前 | you (rough)
+~nanka ni | なんかに | to someone like (dismissive)
+watasanai | 渡さない | will not hand over (negative of watasu)
+
+> Dekiru nara yatte goran. | できるならやってごらん。 | Try it, if you can.
+dekiru | できる | to be able to
+~nara | なら | if
+yatte goran | やってごらん | try doing it (yaru + te goran)
+
+> Sore ga dekinai nara shinu shika nai yo. | それができないなら死ぬしかないよ。 | If you can't do that, you have no choice but to die.
+sore | それ | that
+~ga | が | subject marker
+dekinai | できない | cannot do (negative of dekiru)
+~nara | なら | if
+shinu | 死ぬ | to die
+~shika nai | しかない | have no choice but
+~yo | よ | emphasis
+
+> Urusai yo sukoshi damatte iro. | うるさいよ少し黙っていろ。 | You're noisy. Be quiet for a while.
+urusai | うるさい | noisy, annoying
+~yo | よ | emphasis
+sukoshi | 少し | a little
+damatte iro | 黙っていろ | stay quiet! (damaru + command of te iru)
+
+> Ochitsuke. Kanjouteki ni naru na. | 落ち着け。感情的になるな。 | Calm down. Don't get emotional.
+ochitsuke | 落ち着け | calm down! (command of ochitsuku)
+kanjouteki | 感情的 | emotional
+~ni | に | to, at; target marker
+naru na | なるな | don't become (naru + prohibitive na)
+
+> Kono mama kyori wo tsumete ikeba kateru! | このまま距離を詰めていけば勝てる！ | I can win if I keep closing the distance!
+kono mama | このまま | like this, as things are
+kyori | 距離 | distance
+~wo | を | object marker
+tsumete ikeba | 詰めていけば | if I keep closing (tsumeru + conditional of te iku)
+kateru | 勝てる | can win (potential of katsu)

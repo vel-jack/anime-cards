@@ -1,0 +1,125 @@
+# Sentences: Episode 7 | Short lines from Muzan Kibutsuji
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Fukaoi suru na. Kocchi e modore! | 深追いするな。こっちへ戻れ！ | Don't chase too far. Come back here!
+fukaoi suru na | 深追いするな | don't pursue too far (fukaoi suru + prohibitive na)
+kocchi | こっち | this way (informal)
+~e | へ | toward
+modore | 戻れ | come back! (command of modoru)
+
+> Futari wo mamotte kurereba kougeki ni sennen dekiru. | ２人を守ってくれれば攻撃に専念できる。 | If you protect those two, I can focus on attacking.
+futari | ２人 | two people
+~wo | を | object marker
+mamotte kurereba | 守ってくれれば | if you protect them for me (mamoru + conditional of kureru)
+kougeki | 攻撃 | attack
+~ni | に | to, at; target marker
+sennen dekiru | 専念できる | can concentrate (potential of sennen suru)
+
+> Kono numa no naka ni wa hotondo kuuki mo nai. | この沼の中にはほとんど空気もない。 | There's hardly any air in this swamp.
+kono | この | this (before a noun)
+numa | 沼 | swamp
+~no | の | of; links nouns
+naka | 中 | inside
+~ni | に | to, at; target marker
+~wa | は | topic marker
+hotondo | ほとんど | almost, hardly (with a negative)
+kuuki | 空気 | air
+~mo | も | also, even
+nai | ない | there is no, does not exist
+
+> Ittai ore ga doko de tanren shita to omotteru n da? | 一体俺がどこで鍛錬したと思ってるんだ？ | Where do you think I trained?
+ittai | 一体 | on earth (emphasis in a question)
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+doko | どこ | where
+~de | で | at, with; means marker
+tanren shita | 鍛錬した | trained intensely (past of tanren suru)
+~to | と | with; quotation marker
+omotteru | 思ってる | think (contracted omotte iru, from omou)
+~n da | んだ | explanatory ending
+
+> Mizu no naka de koso chikara wo hakki suru waza ga aru! | 水の中でこそ力を発揮する技がある！ | Some techniques show their true power in water!
+mizu | 水 | water
+~no | の | of; links nouns
+naka | 中 | inside
+~de | で | at, with; means marker
+~koso | こそ | precisely, especially
+chikara | 力 | strength, power
+~wo | を | object marker
+hakki suru | 発揮する | to display, bring out
+waza | 技 | technique, skill
+~ga | が | subject marker
+aru | ある | to exist, be present
+
+> Da ga tanchou na kougeki ni narete kita zo! | だが単調な攻撃に慣れてきたぞ！ | But I'm getting used to these predictable attacks!
+~da ga | だが | but, however
+tanchou na | 単調な | monotonous, predictable (tanchou + na)
+kougeki | 攻撃 | attack
+~ni | に | to, at; target marker
+narete kita | 慣れてきた | have begun to get used to (nareru + te kuru)
+~zo | ぞ | forceful emphasis
+
+> Ittai dore dake no hito wo koroshita! | 一体どれだけの人を殺した！ | How many people have you killed?!
+ittai | 一体 | on earth (emphasis in a question)
+dore dake | どれだけ | how many, how much
+~no | の | of; links nouns
+hito | 人 | person, people
+~wo | を | object marker
+koroshita | 殺した | killed (past of korosu)
+
+> Shabette wa ikenai. | しゃべってはいけない。 | You mustn't speak about it.
+shabette | しゃべって | speak (te-form of shaberu)
+~wa | は | topic marker
+~ikenai | いけない | must not (after te wa)
+
+> Shabettara sugu ni wakaru. | しゃべったらすぐに分かる。 | He'll know as soon as you speak.
+shabettara | しゃべったら | if you speak (conditional of shaberu)
+sugu ni | すぐに | immediately
+wakaru | 分かる | to know, understand
+
+> Mata nani mo kikidasenai. | また何も聞き出せない。 | Once again, I couldn't get any answers.
+mata | また | again
+nani mo | 何も | anything (with a negative: nothing)
+kikidasenai | 聞き出せない | cannot get information out (negative potential of kikidasu)
+
+> Mou sukoshi matte kure. | もう少し待ってくれ。 | Please wait a little longer.
+mou sukoshi | もう少し | a little more
+matte kure | 待ってくれ | wait for me (matsu + te kure request)
+
+> Kon'yakusha wo ushinatte daijoubu da to omou ka? | 婚約者を失って大丈夫だと思うか？ | Do you think I'd be all right after losing my fiancee?
+kon'yakusha | 婚約者 | fiance, fiancee
+~wo | を | object marker
+ushinatte | 失って | losing (te-form of ushinau)
+daijoubu | 大丈夫 | all right
+~da | だ | is (plain ending)
+~to | と | with; quotation marker
+omou | 思う | to think
+~ka | か | question marker
+
+> Hidoi koto wo itta. Douka yurushite kure. | ひどいことを言った。どうか許してくれ。 | I said something awful. Please forgive me.
+hidoi | ひどい | terrible, cruel
+koto | こと | situation, thing
+~wo | を | object marker
+itta | 言った | said (past of iu)
+douka | どうか | please (earnest request)
+yurushite kure | 許してくれ | please forgive me (yurusu + te kure)
+
+> Shounen no te de wa nakatta. | 少年の手ではなかった。 | These weren't the hands of a boy.
+shounen | 少年 | boy
+~no | の | of; links nouns
+te | 手 | hand
+~de | で | at, with; means marker
+~wa | は | topic marker
+~nakatta | なかった | was not (past of nai)
+
+> Ningen no furi wo shite kurashite iru n da! | 人間のふりをして暮らしているんだ！ | He's living here pretending to be human!
+ningen | 人間 | human, human being
+~no | の | of; links nouns
+furi | ふり | pretense
+~wo | を | object marker
+shite | して | doing (te-form of suru)
+kurashite iru | 暮らしている | is living (kurasu + te iru)
+~n da | んだ | explanatory ending

@@ -1,0 +1,121 @@
+# Sentences: Episode 17 | Short lines from You Must Master a Single Thing
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Nanka chikutto shita. | なんかチクッとした。 | Something just stung me.
+nanka | なんか | somehow (informal)
+chikutto | チクッと | with a prick or sting
+shita | した | did (past of suru)
+
+> Kumo ga kasakasa suru oto sugoi kimochi warui shi! | 蜘蛛がカサカサする音すごい気持ち悪いし！ | I hate the sound of spiders scurrying!
+kumo | 蜘蛛 | spider
+~ga | が | subject marker
+kasakasa suru | カサカサする | to rustle, scurry
+oto | 音 | sound
+sugoi | すごい | amazing
+kimochi warui | 気持ち悪い | creepy, unpleasant
+~shi | し | and; gives a reason
+
+> Ningen ga kumo ni sareten no? | 人間が蜘蛛にされてんの？ | Are humans being turned into spiders?
+ningen | 人間 | human, human being
+~ga | が | subject marker
+kumo | 蜘蛛 | spider
+~ni | に | to, at; target marker
+sareten no | されてんの | are being made? (contracted sarete iru no, passive of suru)
+
+> Nigete mo muda da ze omae wa mou maketeru. | 逃げてもムダだぜお前はもう負けてる。 | There's no point running. You've already lost.
+nigete mo | 逃げても | even if you run (nigeru + te mo)
+muda | ムダ | waste, uselessness
+~da | だ | is (plain ending)
+~ze | ぜ | forceful informal emphasis
+omae | お前 | you (rough)
+~wa | は | topic marker
+mou | もう | already; any more
+maketeru | 負けてる | have lost (contracted makete iru, from makeru)
+
+> Doku da yo. Kamareta ro kumo ni? | 毒だよ。かまれたろ蜘蛛に？ | It's poison. A spider bit you, right?
+doku | 毒 | poison
+~da yo | だよ | emphatic plain ending
+kamareta | かまれた | were bitten (past passive of kamu)
+~ro | ろ | shortened darou, right?
+kumo | 蜘蛛 | spider
+~ni | に | to, at; target marker
+
+> Anna fuu ni naritakunai! | あんなふうになりたくない！ | I don't want to end up like that!
+anna | あんな | like that over there
+fuu | ふう | manner, way
+~ni | に | to, at; target marker
+naritakunai | なりたくない | do not want to become (negative desire of naru)
+
+> Shini wa sen kono teido de! | 死にはせんこの程度で！ | This much won't kill you!
+shini | 死に | die (stem of shinu)
+~wa | は | topic marker
+~sen | せん | will not do (old-fashioned negative of suru)
+kono | この | this (before a noun)
+teido | 程度 | degree, extent
+~de | で | at, with; means marker
+
+> Shakkin mamire ni natta ore wo tasukete kureta shi ne. | 借金まみれになった俺を助けてくれたしね。 | He saved me when I was buried in debt.
+shakkin mamire | 借金まみれ | buried in debt
+~ni | に | to, at; target marker
+natta | なった | became (past of naru)
+ore | 俺 | I, me (rough, masculine)
+~wo | を | object marker
+tasukete kureta | 助けてくれた | helped me (tasukeru + past of te kureru)
+~shi | し | and; gives a reason
+~ne | ね | seeks agreement
+
+> Jiichan ni kakurete shugyou mo shiten da yo! | じいちゃんに隠れて修行もしてんだよ！ | I train when Grandpa isn't looking, too!
+jiichan | じいちゃん | Grandpa (familiar)
+~ni | に | to, at; target marker
+kakurete | 隠れて | hidden from (te-form of kakureru)
+shugyou | 修行 | training, discipline
+~mo | も | also, even
+shiten da yo | してんだよ | am doing (contracted shite iru n da yo, from suru)
+
+> Sakki kara zutto onaji kamae wo nando mo shite iru. | さっきからずっと同じ構えを何度もしている。 | He keeps taking the same stance over and over.
+sakki | さっき | a little while ago
+~kara | から | because; from
+zutto | ずっと | all along, continuously
+onaji | 同じ | same
+kamae | 構え | stance
+~wo | を | object marker
+nando mo | 何度も | many times
+shite iru | している | are doing (suru + te iru)
+
+> Hitotsu dekireba banzai da. | １つできれば万々歳だ。 | Knowing one thing is reason enough to celebrate.
+hitotsu | １つ | one thing
+dekireba | できれば | if you can do (conditional of dekiru)
+banzai | 万々歳 | a great success
+~da | だ | is (plain ending)
+
+> Katana no uchikata wo shitteru ka? | 刀の打ち方を知ってるか？ | Do you know how a sword is forged?
+katana | 刀 | sword
+~no | の | of; links nouns
+uchikata | 打ち方 | way of forging (utsu + kata)
+~wo | を | object marker
+shitteru | 知ってる | know (contracted shitte iru, from shiru)
+~ka | か | question marker
+
+> Dakara jiichan wa ore no koto mainichi buttataku no ka yo? | だからじいちゃんは俺のこと毎日ぶったたくのかよ？ | Is that why Grandpa beats me every day?
+dakara | だから | so, that is why
+jiichan | じいちゃん | Grandpa (familiar)
+~wa | は | topic marker
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+koto | こと | situation, thing
+mainichi | 毎日 | every day
+buttataku | ぶったたく | to beat, strike hard
+~no ka yo | のかよ | emphatic question
+
+> Naite ii nigete mo ii. | 泣いていい逃げてもいい。 | You can cry, and you can run away.
+naite | 泣いて | cry (te-form of naku)
+ii | いい | good
+nigete mo | 逃げても | even if you run (nigeru + te mo)
+ii | いい | good
+
+> Dare mo nozonde wa kurenai. | 誰も望んではくれない。 | No one wishes that for me.
+dare mo | 誰も | anyone (with a negative: no one)
+nozonde wa kurenai | 望んではくれない | will not wish it for me (nozomu + negative te kureru)

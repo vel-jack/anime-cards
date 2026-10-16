@@ -1,0 +1,135 @@
+# Sentences: Episode 21 | Short lines from Against Corps Rules
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Nani yatte iru no? Soto ni dete wa dame desho? | 何やっているの？外に出てはダメでしょ？ | What are you doing? You're not supposed to go outside.
+nani | 何 | what
+yatte iru | やっている | are doing (yaru + te iru)
+~no | の | of; links nouns
+soto | 外 | outside
+~ni | に | to, at; target marker
+dete | 出て | go out (te-form of deru)
+~wa | は | topic marker
+dame | ダメ | not allowed, no good
+~desho | でしょ | right? (shortened deshou)
+
+> Ore no oya wa ore wo korosou to shita. | 俺の親は俺を殺そうとした。 | My parents tried to kill me.
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+oya | 親 | parent
+~wa | は | topic marker
+ore | 俺 | I, me (rough, masculine)
+~wo | を | object marker
+korosou | 殺そう | kill (volitional of korosu)
+~to | と | with; quotation marker
+shita | した | did (past of suru)
+
+> Sono shunkan toutotsu ni rikai shita. | その瞬間唐突に理解した。 | At that moment, I suddenly understood.
+sono | その | that (before a noun)
+shunkan | 瞬間 | moment
+toutotsu ni | 唐突に | suddenly, unexpectedly
+rikai shita | 理解した | understood (past of rikai suru)
+
+> Mainichi mainichi chichi to haha ga koishikute tamaranakatta. | 毎日毎日父と母が恋しくてたまらなかった。 | Every day, I missed my father and mother unbearably.
+mainichi | 毎日 | every day
+mainichi | 毎日 | every day
+chichi | 父 | father (one's own)
+~to | と | with; quotation marker
+haha | 母 | mother (one's own)
+~ga | が | subject marker
+koishikute | 恋しくて | longing for (te-form of koishii)
+tamaranakatta | たまらなかった | could not bear it (past negative of tamaru)
+
+> Dare mo ore wo mamorenai kabaenai. | 誰も俺を守れないかばえない。 | No one can protect me or shield me.
+dare mo | 誰も | anyone (with a negative: no one)
+ore | 俺 | I, me (rough, masculine)
+~wo | を | object marker
+mamorenai | 守れない | cannot protect (negative potential of mamoru)
+kabaenai | かばえない | cannot shield (negative potential of kabau)
+
+> Omoidashita hakkiri to. | 思い出したはっきりと。 | I remember now, clearly.
+omoidashita | 思い出した | remembered (past of omoidasu)
+hakkiri to | はっきりと | clearly
+
+> Tousan to kaasan to onaji tokoro e wa ikenai yo ne? | 父さんと母さんと同じ所へは行けないよね？ | I can't go to the same place as Father and Mother, can I?
+tousan | 父さん | Dad, father
+~to | と | with; quotation marker
+kaasan | 母さん | Mom, mother
+~to | と | with; quotation marker
+onaji | 同じ | same
+tokoro | 所 | place
+~e | へ | toward
+~wa | は | topic marker
+ikenai | 行けない | cannot go (negative potential of iku)
+~yo ne | よね | seeks confirmation
+
+> Hito wo kutta oni ni nasake wo kakeru na. | 人を食った鬼に情けをかけるな。 | Don't show mercy to a demon that ate people.
+hito | 人 | person, people
+~wo | を | object marker
+kutta | 食った | ate (past of rough kuu)
+oni | 鬼 | demon
+~ni | に | to, at; target marker
+nasake | 情け | mercy, compassion
+~wo | を | object marker
+kakeru na | かけるな | don't show (kakeru + prohibitive na)
+
+> Minikui bakemono nanka ja nai. | 醜い化け物なんかじゃない。 | They aren't ugly monsters.
+minikui | 醜い | ugly
+bakemono | 化け物 | monster
+~nanka | なんか | something like (dismissive)
+~ja nai | じゃない | is not (plain negative)
+
+> Kirawarete iru jikaku ga nakatta n desu ne. | 嫌われている自覚がなかったんですね。 | You hadn't realized that people dislike you.
+kirawarete iru | 嫌われている | are disliked (kirau, passive + te iru)
+jikaku | 自覚 | awareness
+~ga | が | subject marker
+~nakatta | なかった | was not (past of nai)
+~n desu ne | んですね | polite explanatory observation
+
+> Ore wa Kisatsutai wo nukenakereba naranaku naru no ka? | 俺は鬼殺隊を抜けなければならなくなるのか？ | Does this mean I'll have to leave the Corps?
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+~Kisatsutai | 鬼殺隊 | Demon Slayer Corps (organization)
+~wo | を | object marker
+nukenakereba naranaku naru | 抜けなければならなくなる | will come to have to leave (nukeru + obligation + naru)
+~no ka | のか | explanatory question
+
+> Kangaeru hitsuyou wa nai iwareta toori ni oni wo kiru dake. | 考える必要はない言われたとおりに鬼を斬るだけ。 | You don't need to think. Just cut down demons as instructed.
+kangaeru | 考える | to think
+hitsuyou | 必要 | necessary
+~wa | は | topic marker
+nai | ない | there is no, does not exist
+iwareta | 言われた | were told (past passive of iu)
+toori | とおり | as, in the manner
+~ni | に | to, at; target marker
+oni | 鬼 | demon
+~wo | を | object marker
+kiru | 斬る | to cut with a blade
+~dake | だけ | only
+
+> Riyuu kurai hanashite kudasai. | 理由くらい話してください。 | At least explain your reason.
+riyuu | 理由 | reason
+~kurai | くらい | at least
+hanashite | 話して | tell (te-form of hanasu)
+kudasai | ください | please do (request form of kudasaru)
+
+> Ore tte anmashi tsuyokunai no kamo. | 俺ってあんまし強くないのかも。 | Maybe I'm not all that strong.
+ore | 俺 | I, me (rough, masculine)
+~tte | って | informal quotation marker
+anmashi | あんまし | very much (informal amari, with a negative)
+tsuyokunai | 強くない | not strong (negative of tsuyoi)
+~no kamo | のかも | maybe (shortened no kamo shirenai)
+
+> Fukin no oni wa watashi ga karu kara anshin shite sagyou shite. | 付近の鬼は私が狩るから安心して作業して。 | I'll hunt nearby demons, so you can work without worry.
+fukin | 付近 | vicinity
+~no | の | of; links nouns
+oni | 鬼 | demon
+~wa | は | topic marker
+watashi | 私 | I, me
+~ga | が | subject marker
+karu | 狩る | to hunt
+~kara | から | because; from
+anshin shite | 安心して | relax (te-form of anshin suru)
+sagyou shite | 作業して | work (te-form of sagyou suru)

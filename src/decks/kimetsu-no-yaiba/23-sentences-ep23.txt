@@ -1,0 +1,118 @@
+# Sentences: Episode 23 | Short lines from Hashira Meeting
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ningen wa mina omae no kazoku da. | 人間は皆お前の家族だ。 | Humans are all your family.
+ningen | 人間 | human, human being
+~wa | は | topic marker
+mina | 皆 | everyone, all
+omae | お前 | you (rough)
+~no | の | of; links nouns
+kazoku | 家族 | family
+~da | だ | is (plain ending)
+
+> Shoumei shinakereba naranai kore kara. | 証明しなければならないこれから。 | You must prove it from now on.
+shoumei shinakereba naranai | 証明しなければならない | must prove (shoumei suru + negative conditional obligation)
+kore kara | これから | from now on
+
+> Juuni Kizuki wo taoshite oide. | 十二鬼月を倒しておいで。 | Go and defeat one of the Twelve Kizuki.
+~Juuni Kizuki | 十二鬼月 | Twelve Kizuki (group name)
+~wo | を | object marker
+taoshite | 倒して | defeat (te-form of taosu)
+oide | おいで | go and do (affectionate command from iku or kuru)
+
+> Kanashimi no rensa wo tachikiru yaiba wo furuu! | 悲しみの連鎖を断ち切る刃を振るう！ | I'll wield a blade that breaks the chain of sorrow!
+kanashimi | 悲しみ | sadness
+~no | の | of; links nouns
+rensa | 連鎖 | chain
+~wo | を | object marker
+tachikiru | 断ち切る | to sever
+yaiba | 刃 | blade
+~wo | を | object marker
+furuu | 振るう | to wield
+
+> Tanjirou mo kuchi no kikikata ni wa ki wo tsukeru you ni. | 炭治郎も口の利き方には気をつけるように。 | Tanjirou, mind how you speak, too.
+~Tanjirou | 炭治郎 | Tanjirou (name)
+~mo | も | also, even
+kuchi | 口 | mouth
+~no | の | of; links nouns
+kikikata | 利き方 | manner of speaking (kiku + kata)
+~ni | に | to, at; target marker
+~wa | は | topic marker
+ki wo tsukeru | 気をつける | to take care
+~you ni | ように | so that
+
+> Deshitara Kamado-kun wa watashi no yashiki de oazukari itashimashou. | でしたら竈門君は私の屋敷でお預かりいたしましょう。 | Then I'll take young Kamado into my care at my estate.
+~deshitara | でしたら | if that is so (polite)
+~Kamado-kun | 竈門君 | young Kamado (name)
+~wa | は | topic marker
+watashi | 私 | I, me
+~no | の | of; links nouns
+yashiki | 屋敷 | estate, mansion
+~de | で | at, with; means marker
+oazukari itashimashou | お預かりいたしましょう | let me take into my care (humble polite volitional of azukaru)
+
+> Damatte! Otonashiku shinasai! | 黙って！おとなしくしなさい！ | Be quiet! Behave yourself!
+damatte | 黙って | be quiet (te-form of damaru, request)
+otonashiku | おとなしく | quietly, obediently (adverbial form of otonashii)
+shinasai | しなさい | do as told (instruction from suru)
+
+> Anta no sei de okorareta desho! | あんたのせいで怒られたでしょ！ | We got scolded because of you!
+anta | あんた | you (informal anata)
+~no | の | of; links nouns
+sei | せい | fault, cause of something bad
+~de | で | at, with; means marker
+okorareta | 怒られた | were scolded (past passive of okoru)
+~desho | でしょ | right? (shortened deshou)
+
+> Omae jibun de aruke yo na. | お前自分で歩けよな。 | Hey, walk on your own.
+omae | お前 | you (rough)
+jibun | 自分 | oneself
+~de | で | at, with; means marker
+aruke | 歩け | walk! (command of aruku)
+~yo na | よな | informal emphasis seeking agreement
+
+> Kore nondara meshi kuenai yo! | これ飲んだら飯食えないよ！ | If I drink this, I won't be able to eat!
+kore | これ | this
+nondara | 飲んだら | if I drink (conditional of nomu)
+meshi | 飯 | food, meal (informal)
+kuenai | 食えない | cannot eat (negative potential of rough kuu)
+~yo | よ | emphasis
+
+> Chanto setsumei shite hoshii wake! | ちゃんと説明してほしいわけ！ | I want you to explain it properly!
+chanto | ちゃんと | properly
+setsumei shite | 説明して | explain (te-form of setsumei suru)
+hoshii | ほしい | want (after te: want someone to do)
+wake | わけ | reason, situation
+
+> Shizuka ni nasatte kudasai! | 静かになさってください！ | Please be quiet!
+shizuka ni | 静かに | quietly
+nasatte | なさって | do (te-form of respectful nasaru)
+kudasai | ください | please do (request form of kudasaru)
+
+> Ikitete kurete ore wa ureshii n da! | 生きててくれて俺はうれしいんだ！ | I'm happy you're alive!
+ikitete kurete | 生きててくれて | for being alive (contracted ikite ite kurete, from ikiru)
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+ureshii | うれしい | happy
+~n da | んだ | explanatory ending
+
+> Ano hito no koe fushigi na kouyoukan datta n da. | あの人の声不思議な高揚感だったんだ。 | His voice gave me a strange feeling of uplift.
+ano | あの | that over there (before a noun)
+hito | 人 | person, people
+~no | の | of; links nouns
+koe | 声 | voice
+fushigi na | 不思議な | mysterious (fushigi + na)
+kouyoukan | 高揚感 | feeling of uplift
+~datta | だった | was (past of da)
+~n da | んだ | explanatory ending
+
+> Itai shi tsurai kedo madamada ganbaranakya. | 痛いしつらいけどまだまだ頑張らなきゃ。 | It hurts and it's hard, but I've got to keep trying.
+itai | 痛い | painful, hurts
+~shi | し | and; gives a reason
+tsurai | つらい | painful, difficult
+~kedo | けど | but, although
+madamada | まだまだ | still more, a long way to go
+ganbaranakya | 頑張らなきゃ | have to keep trying (contracted ganbaranakereba, from ganbaru)

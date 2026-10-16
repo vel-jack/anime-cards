@@ -1,0 +1,114 @@
+# Sentences: Episode 18 | Short lines from A Forged Bond
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore wa oni wo kiri ni kita dake da. | 俺は鬼を斬りに来ただけだ。 | I only came here to cut down demons.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+oni | 鬼 | demon
+~wo | を | object marker
+kiri ni | 斬りに | to cut down (purpose form of kiru)
+kita | 来た | came (past of kuru)
+~dake | だけ | only
+~da | だ | is (plain ending)
+
+> Kata wo tsukatte mo kirenai. | 型を使っても斬れない。 | I can't cut it even using a form.
+kata | 型 | form, set movement
+~wo | を | object marker
+tsukatte mo | 使っても | even if I use (tsukau + te mo)
+kirenai | 斬れない | cannot cut (negative potential of kiru)
+
+> Umaku kokyuu ga dekinaku natte kita. | うまく呼吸ができなくなってきた。 | My breathing is getting difficult.
+umaku | うまく | well, skillfully (adverbial form of umai)
+kokyuu | 呼吸 | breathing
+~ga | が | subject marker
+dekinaku | できなく | unable (linking negative of dekiru)
+natte kita | なってきた | has begun to become (naru + te kuru)
+
+> Nani miteru no? Misemono ja nai n da kedo. | なに見てるの？見せ物じゃないんだけど。 | What are you staring at? This isn't a show.
+nani | なに | what
+miteru | 見てる | are looking (contracted mite iru, from miru)
+~no | の | of; links nouns
+misemono | 見せ物 | spectacle
+~ja nai | じゃない | is not (plain negative)
+~n da kedo | んだけど | explanatory complaint
+
+> Sonna usuppera na mono to onaji ni suru na. | そんな薄っぺらなものと同じにするな。 | Don't compare it to something so shallow.
+sonna | そんな | that kind of
+usuppera na | 薄っぺらな | shallow, flimsy (usuppera + na)
+mono | もの | thing, possession
+~to | と | with; quotation marker
+onaji | 同じ | same
+~ni | に | to, at; target marker
+suru na | するな | don't do it (suru + prohibitive na)
+
+> Boku to neesan no mondai da yo. | 僕と姉さんの問題だよ。 | It's between me and my sister.
+boku | 僕 | I, me (often masculine)
+~to | と | with; quotation marker
+neesan | 姉さん | older sister (familiar)
+~no | の | of; links nouns
+mondai | 問題 | problem, matter
+~da yo | だよ | emphatic plain ending
+
+> Dochira mo onaji you ni toutoi. | どちらも同じように尊い。 | Both are equally precious.
+dochira | どちら | which one, either
+~mo | も | also, even
+onaji | 同じ | same
+~you ni | ように | so that
+toutoi | 尊い | precious, worthy of respect
+
+> Konna mono wo kizuna to wa iwanai. | こんなものを絆とは言わない。 | This is no bond.
+konna | こんな | this kind of
+mono | もの | thing, possession
+~wo | を | object marker
+kizuna | 絆 | bond
+~to wa | とは | surprised realization
+iwanai | 言わない | do not call (negative of iu)
+
+> Ore wa anzen ni shusse shitai n da yo. | 俺は安全に出世したいんだよ。 | I want to rise through the ranks safely.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+anzen ni | 安全に | safely
+shusse shitai | 出世したい | want to advance in rank (desire form of shusse suru)
+~n da yo | んだよ | emphatic explanation
+
+> Omae ima nante itta no? | お前今何て言ったの？ | What did you just say?
+omae | お前 | you (rough)
+ima | 今 | now
+nante | 何て | what (in quoting speech)
+itta | 言った | said (past of iu)
+~no | の | question or explanatory ending
+
+> Kanarazu tasuke ni iku kara! | 必ず助けに行くから！ | I'll definitely come to help you!
+kanarazu | 必ず | without fail
+tasuke ni | 助けに | to help (purpose form of tasukeru)
+iku | 行く | to go
+~kara | から | because; from
+
+> Nando demo itte yaru. | 何度でも言ってやる。 | I'll say it as many times as it takes.
+nando demo | 何度でも | as many times as needed
+itte yaru | 言ってやる | will tell you (iu + te yaru)
+
+> Okashii no wa omae da! | おかしいのはお前だ！ | You're the one who's wrong!
+okashii | おかしい | wrong, strange
+~no | の | nominalizer: turns a clause into a noun
+~wa | は | topic marker
+omae | お前 | you (rough)
+~da | だ | is (plain ending)
+
+> Ore ga modoru made shinu na! | 俺が戻るまで死ぬな！ | Don't die before I get back!
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+modoru | 戻る | to return
+~made | まで | until, as far as
+shinu na | 死ぬな | don't die (shinu + prohibitive na)
+
+> Ito no nioi mo wakaru zo. | 糸のにおいも分かるぞ。 | I can smell the threads, too.
+ito | 糸 | thread
+~no | の | of; links nouns
+nioi | におい | smell, scent
+~mo | も | also, even
+wakaru | 分かる | to know, understand
+~zo | ぞ | forceful emphasis

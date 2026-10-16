@@ -1,0 +1,132 @@
+# Sentences: Episode 12 | Short lines from The Boar Bares Its Fangs, Zenitsu Sleeps
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Konna chiisai ko wo fumu nante dou iu tsumori da! | こんな小さい子を踏むなんてどういうつもりだ！ | What do you think you're doing, stepping on such a small child?!
+konna | こんな | this kind of
+chiisai | 小さい | small
+ko | 子 | child
+~wo | を | object marker
+fumu | 踏む | to step on
+~nante | なんて | something like
+dou iu | どういう | what kind of
+tsumori | つもり | intention
+~da | だ | is (plain ending)
+
+> Yameru n da! Soko ni oni ga iru n da zo! | やめるんだ！そこに鬼がいるんだぞ！ | Stop it! There's a demon right there!
+yameru | やめる | to stop
+~n da | んだ | explanatory ending
+soko | そこ | there
+~ni | に | to, at; target marker
+oni | 鬼 | demon
+~ga | が | subject marker
+iru | いる | to be, exist (living beings)
+~n da zo | んだぞ | forceful explanation
+
+> Ore no ushiro ni iru n da yo. | 俺の後ろにいるんだよ。 | Stay behind me.
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+ushiro | 後ろ | behind
+~ni | に | to, at; target marker
+iru | いる | to be, exist (living beings)
+~n da yo | んだよ | emphatic explanation
+
+> Hanashikakeru nara kyuu ni konaide kure yo. | 話しかけるなら急にこないでくれよ。 | Don't come at me so suddenly when you talk to me.
+hanashikakeru | 話しかける | to speak to someone
+~nara | なら | if
+kyuu ni | 急に | suddenly
+konaide kure | こないでくれ | please don't come (negative request of kuru)
+~yo | よ | emphasis
+
+> Tada chotto ase iki furue ga hidosugite… | ただちょっと汗息震えがひどすぎて… | But the sweating, panting, and shaking are a bit too much.
+tada | ただ | just, but
+chotto | ちょっと | a little, briefly
+ase | 汗 | sweat
+iki | 息 | breath
+furue | 震え | trembling
+~ga | が | subject marker
+hidosugite | ひどすぎて | being too severe (te-form of hidosugiru, from hidoi)
+
+> Nante ii ko nan da konna obieta oto ni natteru noni. | なんていい子なんだこんなおびえた音になってるのに。 | He's such a good kid, even though he sounds so frightened.
+nante | なんて | how (exclamation)
+ii | いい | good
+ko | 子 | child
+~nan da | なんだ | emphatic explanation
+konna | こんな | this kind of
+obieta | おびえた | frightened (past of obieru)
+oto | 音 | sound
+~ni | に | to, at; target marker
+natteru | なってる | is becoming (contracted natte iru, from naru)
+~noni | のに | even though
+
+> Koitsu kehai ga kawatta. | こいつ気配が変わった。 | His presence has changed.
+koitsu | こいつ | this guy (rough)
+kehai | 気配 | presence, aura
+~ga | が | subject marker
+kawatta | 変わった | changed (past of kawaru)
+
+> Kono on wa wasurenai yo. | この恩は忘れないよ。 | I'll never forget this kindness!
+kono | この | this (before a noun)
+on | 恩 | kindness owed, favor
+~wa | は | topic marker
+wasurenai | 忘れない | will not forget (negative of wasureru)
+~yo | よ | emphasis
+
+> Yoketa na zuibun iki no ii ningen da. | よけたな随分生きのいい人間だ。 | You dodged it. You're quite a lively human.
+yoketa | よけた | dodged (past of yokeru)
+~na | な | emphasis; prohibition after a verb
+zuibun | 随分 | quite, considerably
+iki | 生き | liveliness, freshness
+~no | の | of; links nouns
+ii | いい | good
+ningen | 人間 | human, human being
+~da | だ | is (plain ending)
+
+> Kono kizugusuri wa sugoi n da zo! | この傷薬はすごいんだぞ！ | This wound medicine is really good!
+kono | この | this (before a noun)
+kizugusuri | 傷薬 | wound medicine
+~wa | は | topic marker
+sugoi | すごい | amazing
+~n da zo | んだぞ | forceful explanation
+
+> Dou itami ga hiita ro? | どう痛みが引いたろ？ | How is it? The pain has eased, right?
+dou | どう | how
+itami | 痛み | pain
+~ga | が | subject marker
+hiita | 引いた | subsided (past of hiku)
+~ro | ろ | shortened darou, right?
+
+> Oni wo taoshi ni itte kuru kara. | 鬼を倒しに行ってくるから。 | I'm going to defeat the demon and come back.
+oni | 鬼 | demon
+~wo | を | object marker
+taoshi ni | 倒しに | to defeat (purpose form of taosu)
+itte kuru | 行ってくる | go and return (iku + te kuru)
+~kara | から | because; from
+
+> Ore wa mou honto ni zutto gaman shiteta! | 俺はもうホントにずっと我慢してた！ | I've really been holding back this whole time!
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+mou | もう | already; any more
+honto ni | ホントに | really (informal hontou ni)
+zutto | ずっと | all along, continuously
+gaman shiteta | 我慢してた | had been enduring (contracted gaman shite ita, from gaman suru)
+
+> Kega no sei de warui souzou bakari shite shimau. | ケガのせいで悪い想像ばかりしてしまう。 | My injuries keep making me imagine the worst.
+kega | ケガ | injury
+~no | の | of; links nouns
+sei | せい | fault, cause of something bad
+~de | で | at, with; means marker
+warui | 悪い | bad
+souzou | 想像 | imagination
+~bakari | ばかり | nothing but
+shite shimau | してしまう | end up doing (suru + te shimau)
+
+> Donna teki to mo tatakaeru n da. | どんな敵とも戦えるんだ。 | I can fight any enemy.
+donna | どんな | what kind of, any
+teki | 敵 | enemy
+~to | と | with; quotation marker
+~mo | も | also, even
+tatakaeru | 戦える | can fight (potential of tatakau)
+~n da | んだ | explanatory ending

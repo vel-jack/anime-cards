@@ -1,0 +1,129 @@
+# Sentences: Episode 4 | Short lines from Final Selection
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore no yaiba wa tsuyoku hikarete suki wo kirikomu. | 俺の刃は強く引かれて隙を斬り込む。 | My blade is pulled hard toward the opening and cuts into it.
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+yaiba | 刃 | blade
+~wa | は | topic marker
+tsuyoku | 強く | strongly (adverbial form of tsuyoi)
+hikarete | 引かれて | being pulled (te-form of passive hikareru, from hiku)
+suki | 隙 | opening, gap in defense
+~wo | を | object marker
+kirikomu | 斬り込む | to cut into
+
+> Washi mo imouto mo koko de matte iru. | わしも妹もここで待っている。 | My sister and I will be waiting here.
+washi | わし | I (elderly speech)
+~mo | も | also, even
+imouto | 妹 | younger sister
+~mo | も | also, even
+koko | ここ | here
+~de | で | at, with; means marker
+matte iru | 待っている | are waiting (matsu + te iru)
+
+> Tsuraku kibishii hibi ga matte iru. | つらく厳しい日々が待っている。 | Difficult, harsh days await you.
+tsuraku | つらく | painful (linking form of tsurai)
+kibishii | 厳しい | harsh, strict
+hibi | 日々 | days, daily life
+~ga | が | subject marker
+matte iru | 待っている | are waiting (matsu + te iru)
+
+> Takusan tabetara tsuyoku naru n desu ka? | たくさん食べたら強くなるんですか？ | Will eating a lot make me stronger?
+takusan | たくさん | a lot
+tabetara | 食べたら | if I eat (conditional of taberu)
+tsuyoku | 強く | strongly (adverbial form of tsuyoi)
+naru | なる | to become
+~n desu ka | んですか | polite explanatory question
+
+> Imouto no koto wa shinpai suru na. | 妹のことは心配するな。 | Don't worry about your sister.
+imouto | 妹 | younger sister
+~no | の | of; links nouns
+koto | こと | situation, thing
+~wa | は | topic marker
+shinpai suru na | 心配するな | don't worry (shinpai suru + prohibitive na)
+
+> Saku jiki ja nai hazu na noni. | 咲く時期じゃないはずなのに。 | Even though it shouldn't be their blooming season.
+saku | 咲く | to bloom
+jiki | 時期 | season, time
+~ja nai | じゃない | is not (plain negative)
+hazu | はず | expectation, should be
+~na noni | なのに | even though
+
+> Mazu wa kono yoru wo norikiru. | まずはこの夜を乗り切る。 | First I need to make it through tonight.
+mazu | まず | first of all
+~wa | は | topic marker
+kono | この | this (before a noun)
+yoru | 夜 | night
+~wo | を | object marker
+norikiru | 乗り切る | to get through, overcome
+
+> Mottomo hayaku asahi no ataru basho wo mezasu! | 最も早く朝日の当たる場所を目指す！ | I'll aim for the place that gets sunlight first!
+mottomo | 最も | most
+hayaku | 早く | early, quickly (adverbial form of hayai)
+asahi | 朝日 | morning sun
+~no | の | of; links nouns
+ataru | 当たる | to strike, fall on
+basho | 場所 | place
+~wo | を | object marker
+mezasu | 目指す | to aim for
+
+> Nioi no houkou ga sadamaranai. | においの方向が定まらない。 | I can't pin down the direction of the scent.
+nioi | におい | smell, scent
+~no | の | of; links nouns
+houkou | 方向 | direction
+~ga | が | subject marker
+sadamaranai | 定まらない | will not settle (negative of sadamaru)
+
+> Tanren wa muda ja nakatta. | 鍛錬はムダじゃなかった。 | The training wasn't wasted.
+tanren | 鍛錬 | intensive training
+~wa | は | topic marker
+muda | ムダ | waste, uselessness
+~ja nakatta | じゃなかった | was not (past negative ending)
+
+> Jaa dou yatte taoseba… | じゃあどうやって倒せば… | Then how am I supposed to defeat it?
+jaa | じゃあ | then, in that case
+dou yatte | どうやって | how, by what means
+taoseba | 倒せば | if I defeat it (conditional of taosu)
+
+> Mata ore ga konna tokoro ni tojikomerarete iru aida ni! | また俺がこんな所に閉じ込められている間に！ | Again, while I've been locked away in this place!
+mata | また | again
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+konna | こんな | this kind of
+tokoro | 所 | place
+~ni | に | to, at; target marker
+tojikomerarete iru | 閉じ込められている | am locked up (tojikomeru, passive + te iru)
+aida | 間 | while, interval
+~ni | に | to, at; target marker
+
+> Te wo kitteru dake ja ore wa taosenai zo. | 手を斬ってるだけじゃ俺は倒せないぞ。 | You can't defeat me just by cutting off my arms.
+te | 手 | hand
+~wo | を | object marker
+kitteru | 斬ってる | cutting (contracted kitte iru, from kiru)
+~dake | だけ | only
+~ja | じゃ | if it is only (contracted de wa)
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+taosenai | 倒せない | cannot defeat (negative potential of taosu)
+~zo | ぞ | forceful emphasis
+
+> Demo na kuuchuu de wa kono kougeki wo kawasenai! | でもな空中ではこの攻撃をかわせない！ | But you can't dodge this attack in midair!
+~demo | でも | even; but
+~na | な | emphasis; prohibition after a verb
+kuuchuu | 空中 | midair
+~de | で | at, with; means marker
+~wa | は | topic marker
+kono | この | this (before a noun)
+kougeki | 攻撃 | attack
+~wo | を | object marker
+kawasenai | かわせない | cannot dodge (negative potential of kawasu)
+
+> Makeru kamo shirenai shi katsu kamo shirenai. | 負けるかもしれないし勝つかもしれない。 | You might lose, or you might win.
+makeru | 負ける | to lose
+~kamo shirenai | かもしれない | might, may
+~shi | し | and; gives a reason
+katsu | 勝つ | to win
+~kamo shirenai | かもしれない | might, may

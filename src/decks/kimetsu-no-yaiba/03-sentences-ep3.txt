@@ -1,0 +1,141 @@
+# Sentences: Episode 3 | Short lines from Sabito and Makomo
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Saishuu Senbetsu wo ukete ii ka douka wa washi ga kimeru. | 最終選別を受けていいかどうかはわしが決める。 | I'll decide whether you may take the final selection.
+~Saishuu Senbetsu | 最終選別 | Final Selection (exam name)
+~wo | を | object marker
+ukete | 受けて | take an exam (te-form of ukeru)
+ii | いい | good
+~ka | か | question marker
+~douka | どうか | whether or not
+~wa | は | topic marker
+washi | わし | I (elderly speech)
+~ga | が | subject marker
+kimeru | 決める | to decide
+
+> Wana no nan'ido wa dondon agaru. | 罠の難易度はどんどん上がる。 | The traps keep getting more difficult.
+wana | 罠 | trap
+~no | の | of; links nouns
+nan'ido | 難易度 | degree of difficulty
+~wa | は | topic marker
+dondon | どんどん | steadily, more and more
+agaru | 上がる | to rise
+
+> Tate no chikara ni wa tsuyoi kedo yoko no chikara ni wa yowai. | 縦の力には強いけど横の力には弱い。 | It's strong against vertical force but weak against sideways force.
+tate | 縦 | vertical direction
+~no | の | of; links nouns
+chikara | 力 | strength, power
+~ni | に | to, at; target marker
+~wa | は | topic marker
+tsuyoi | 強い | strong
+~kedo | けど | but, although
+yoko | 横 | sideways direction
+~no | の | of; links nouns
+chikara | 力 | strength, power
+~ni | に | to, at; target marker
+~wa | は | topic marker
+yowai | 弱い | weak
+
+> Donna taisei ni natte mo ukemi wo totte. | どんな体勢になっても受け身を取って。 | No matter what position you're in, break your fall.
+donna | どんな | what kind of, any
+taisei | 体勢 | body position
+~ni | に | to, at; target marker
+natte mo | なっても | even if you become (naru + te mo)
+ukemi | 受け身 | breakfall
+~wo | を | object marker
+totte | 取って | take (te-form of toru, here a request)
+
+> Kahanshin wa dosshiri kamaeru. | 下半身はどっしり構える。 | Plant your lower body firmly.
+kahanshin | 下半身 | lower body
+~wa | は | topic marker
+dosshiri | どっしり | firmly, solidly
+kamaeru | 構える | to take a stance
+
+> Tsuzuite mizu to hitotsu ni nare to iwareru. | 続いて水とひとつになれと言われる。 | Next, he tells me to become one with the water.
+tsuzuite | 続いて | next (te-form of tsuzuku)
+mizu | 水 | water
+~to | と | with; quotation marker
+hitotsu | ひとつ | one
+~ni | に | to, at; target marker
+nare | なれ | become! (command of naru)
+~to | と | with; quotation marker
+iwareru | 言われる | to be told (passive of iu)
+
+> Mou oshieru koto wa nai. | もう教えることはない。 | There is nothing more to teach you.
+mou | もう | already; any more
+oshieru | 教える | to teach
+koto | こと | situation, thing
+~wa | は | topic marker
+nai | ない | there is no, does not exist
+
+> Ore wa Urokodaki-san ni naratta koto wo mainichi kurikaeshita. | 俺は鱗滝さんに習ったことを毎日繰り返した。 | I repeated what Mr Urokodaki taught me every day.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+~Urokodaki-san | 鱗滝さん | Mr Urokodaki (name)
+~ni | に | to, at; target marker
+naratta | 習った | learned (past of narau)
+koto | こと | situation, thing
+~wo | を | object marker
+mainichi | 毎日 | every day
+kurikaeshita | 繰り返した | repeated (past of kurikaesu)
+
+> Donna kurushimi ni mo damatte taero. | どんな苦しみにも黙って耐えろ。 | Endure every hardship without a word.
+donna | どんな | what kind of, any
+kurushimi | 苦しみ | suffering
+~ni | に | to, at; target marker
+~mo | も | also, even
+damatte | 黙って | silently (te-form of damaru)
+taero | 耐えろ | endure! (command of taeru)
+
+> Nani mo jibun no mono ni shite inai! | 何も自分のものにしていない！ | You haven't made any of it your own!
+nani mo | 何も | anything (with a negative: nothing)
+jibun | 自分 | oneself
+~no | の | of; links nouns
+mono | もの | thing, possession
+~ni | に | to, at; target marker
+shite inai | していない | have not made (suru + te inai)
+
+> Omae wa chishiki toshite sore wo oboeta dake da. | お前は知識としてそれを覚えただけだ。 | You only memorized it as information.
+omae | お前 | you (rough)
+~wa | は | topic marker
+chishiki | 知識 | knowledge
+~toshite | として | as
+sore | それ | that
+~wo | を | object marker
+oboeta | 覚えた | memorized (past of oboeru)
+~dake | だけ | only
+~da | だ | is (plain ending)
+
+> Omae no chikara wo misete miro! | お前の力を見せてみろ！ | Show me your strength!
+omae | お前 | you (rough)
+~no | の | of; links nouns
+chikara | 力 | strength, power
+~wo | を | object marker
+misete miro | 見せてみろ | try showing me! (miseru + te miru command)
+
+> Nareru kana anna fuu ni! | なれるかなあんなふうに！ | Could I become like that too?
+nareru | なれる | can become (potential of naru)
+~kana | かな | I wonder
+anna | あんな | like that over there
+fuu | ふう | manner, way
+~ni | に | to, at; target marker
+
+> Kodomotachi wa hoka ni mo mada iru n da yo. | 子供たちはほかにもまだいるんだよ。 | There are other children here too.
+kodomotachi | 子供たち | children
+~wa | は | topic marker
+hoka | ほか | other
+~ni | に | to, at; target marker
+~mo | も | also, even
+mada | まだ | still, yet
+iru | いる | to be, exist (living beings)
+~n da yo | んだよ | emphatic explanation
+
+> Tonikaku hai wo ookiku suru koto. | とにかく肺を大きくすること。 | Anyway, the key is to expand your lungs.
+tonikaku | とにかく | anyway, above all
+hai | 肺 | lungs
+~wo | を | object marker
+ookiku suru | 大きくする | make bigger (ookii + suru)
+koto | こと | situation, thing

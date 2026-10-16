@@ -1,0 +1,118 @@
+# Sentences: Episode 11 | Short lines from Tsuzumi Mansion
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Wakatta kara mou sukoshi damattete kure. | 分かったからもう少し黙っててくれ。 | I get it, so please be quiet a little longer.
+wakatta | 分かった | understood (past of wakaru)
+~kara | から | because; from
+mou sukoshi | もう少し | a little more
+damattete kure | 黙っててくれ | please stay quiet (contracted damatte ite kure, from damaru)
+
+> Tasukete kure! Kekkon shite kure! | 助けてくれ！結婚してくれ！ | Help me! Marry me!
+tasukete kure | 助けてくれ | help me (tasukeru + te kure)
+kekkon shite kure | 結婚してくれ | marry me (kekkon suru + te kure)
+
+> Omae mitai na yatsu wa chijin ni sonzai shinai! | お前みたいなヤツは知人に存在しない！ | I don't know anyone like you!
+omae | お前 | you (rough)
+mitai na | みたいな | like (before a noun)
+yatsu | ヤツ | guy, person (rough)
+~wa | は | topic marker
+chijin | 知人 | acquaintance
+~ni | に | to, at; target marker
+sonzai shinai | 存在しない | does not exist (negative of sonzai suru)
+
+> Omae no sei de kekkon dekinakatta n da kara! | お前のせいで結婚できなかったんだから！ | It's your fault I couldn't get married!
+omae | お前 | you (rough)
+~no | の | of; links nouns
+sei | せい | fault, cause of something bad
+~de | で | at, with; means marker
+kekkon dekinakatta | 結婚できなかった | could not marry (past negative potential of kekkon suru)
+~n da kara | んだから | emphatic because
+
+> Nande sonna ni haji wo sarasu n da? | なんでそんなに恥をさらすんだ？ | Why do you make such a spectacle of yourself?
+nande | なんで | why (informal)
+sonna ni | そんなに | so much
+haji | 恥 | shame
+~wo | を | object marker
+sarasu | さらす | to expose, display
+~n da | んだ | explanatory ending
+
+> Saishuu Senbetsu de shineru to omotta noni sa. | 最終選別で死ねると思ったのにさ。 | I thought I could die in the final selection.
+~Saishuu Senbetsu | 最終選別 | Final Selection (exam name)
+~de | で | at, with; means marker
+shineru | 死ねる | can die (potential of shinu)
+~to | と | with; quotation marker
+omotta | 思った | thought (past of omou)
+~noni sa | のにさ | even though (informal)
+
+> Nanika taberu mono mottenai no ka? | 何か食べるもの持ってないのか？ | Don't you have anything to eat?
+nanika | 何か | something
+taberu | 食べる | to eat
+mono | もの | thing, possession
+mottenai | 持ってない | do not have (contracted motte inai, from motsu)
+~no ka | のか | explanatory question
+
+> Suzume wo komarasetara dame da. | スズメを困らせたらダメだ。 | Don't give the sparrow trouble.
+suzume | スズメ | sparrow
+~wo | を | object marker
+komarasetara | 困らせたら | if you trouble it (conditional of causative komaraseru, from komaru)
+dame | ダメ | not allowed, no good
+~da | だ | is (plain ending)
+
+> Oni no nioi ga sukoshi zutsu tsuyoku natteru. | 鬼のにおいが少しずつ強くなってる。 | The demon's scent is gradually getting stronger.
+oni | 鬼 | demon
+~no | の | of; links nouns
+nioi | におい | smell, scent
+~ga | が | subject marker
+sukoshi zutsu | 少しずつ | little by little
+tsuyoku | 強く | strongly (adverbial form of tsuyoi)
+natteru | なってる | is becoming (contracted natte iru, from naru)
+
+> Oshiete kure. Nanika atta no ka? | 教えてくれ。何かあったのか？ | Tell me, did something happen?
+oshiete kure | 教えてくれ | tell me (oshieru + te kure)
+nanika | 何か | something
+atta | あった | happened (past of aru)
+~no ka | のか | explanatory question
+
+> Futari de ato wo tsuketa no ka? | ２人で後をつけたのか？ | Did the two of you follow them?
+futari | ２人 | two people
+~de | で | at, with; means marker
+ato | 後 | behind, afterward
+~wo | を | object marker
+tsuketa | つけた | followed (past of tsukeru in ato wo tsukeru)
+~no ka | のか | explanatory question
+
+> Modotte kitara kanarazu maisou shimasu. | 戻ってきたら必ず埋葬します。 | I'll make sure to bury him when I get back.
+modotte kitara | 戻ってきたら | when I return (modoru + conditional of te kuru)
+kanarazu | 必ず | without fail
+maisou shimasu | 埋葬します | will bury (polite maisou suru)
+
+> Murijii suru tsumori wa nai. | 無理強いするつもりはない。 | I don't intend to force you.
+murijii suru | 無理強いする | to force someone against their will
+tsumori | つもり | intention
+~wa | は | topic marker
+nai | ない | there is no, does not exist
+
+> Mae no tatakai de ore wa abara to ashi ga orete iru. | 前の戦いで俺はあばらと脚が折れている。 | My ribs and leg were broken in the last fight.
+mae | 前 | before
+~no | の | of; links nouns
+tatakai | 戦い | fight
+~de | で | at, with; means marker
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+abara | あばら | ribs
+~to | と | with; quotation marker
+ashi | 脚 | leg
+~ga | が | subject marker
+orete iru | 折れている | are broken (oreru + te iru)
+
+> Sagatte tana no ushiro ni kakureru n da. | 下がって棚の後ろに隠れるんだ。 | Step back and hide behind the shelves.
+sagatte | 下がって | step back (te-form of sagaru)
+tana | 棚 | shelf
+~no | の | of; links nouns
+ushiro | 後ろ | behind
+~ni | に | to, at; target marker
+kakureru | 隠れる | to hide oneself
+~n da | んだ | explanatory ending

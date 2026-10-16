@@ -1,0 +1,136 @@
+# Sentences: Episode 2 | Short lines from Trainer Sakonji Urokodaki
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Imouto ga mogura mitai ni natte shimatta. | 妹がモグラみたいになってしまった。 | I can't believe my sister has turned into a mole.
+imouto | 妹 | younger sister
+~ga | が | subject marker
+mogura | モグラ | mole (animal)
+mitai | みたい | like, resembling
+~ni | に | to, at; target marker
+natte shimatta | なってしまった | ended up becoming (naru + te shimau)
+
+> Kono yama wa michi ga kewashii kara dareka kega wo shita n da! | この山は道が険しいから誰かケガをしたんだ！ | This mountain path is steep, so someone must be hurt!
+kono | この | this (before a noun)
+yama | 山 | mountain
+~wa | は | topic marker
+michi | 道 | path, road
+~ga | が | subject marker
+kewashii | 険しい | steep, rugged
+~kara | から | because; from
+dareka | 誰か | someone
+kega | ケガ | injury
+~wo | を | object marker
+shita | した | did (past of suru)
+~n da | んだ | explanatory ending
+
+> Nande oni to ningen ga tsurunderu n da? | なんで鬼と人間がつるんでるんだ？ | Why is a demon hanging around with a human?!
+nande | なんで | why (informal)
+oni | 鬼 | demon
+~to | と | with; quotation marker
+ningen | 人間 | human, human being
+~ga | が | subject marker
+tsurunderu | つるんでる | hanging around together (contracted tsurunde iru, from tsurumu)
+~n da | んだ | explanatory ending
+
+> Kono hito ashioto ga shinakatta. | この人足音がしなかった。 | I didn't hear this person's footsteps.
+kono | この | this (before a noun)
+hito | 人 | person, people
+ashioto | 足音 | footsteps
+~ga | が | subject marker
+shinakatta | しなかった | did not make (past negative of suru)
+
+> Hito ni kiku na. | 人に聞くな。 | Don't ask someone else.
+hito | 人 | person, people
+~ni | に | to, at; target marker
+kiku na | 聞くな | don't ask (kiku + prohibitive na)
+
+> Oni ni sura doujoushin wo motte iru. | 鬼にすら同情心を持っている。 | He even feels compassion for demons.
+oni | 鬼 | demon
+~ni | に | to, at; target marker
+~sura | すら | even
+doujoushin | 同情心 | compassion
+~wo | を | object marker
+motte iru | 持っている | has (motsu + te iru)
+
+> Omae wa tonikaku handan ga osoi. | お前はとにかく判断が遅い。 | You're slow to make decisions, above all.
+omae | お前 | you (rough)
+~wa | は | topic marker
+tonikaku | とにかく | anyway, above all
+handan | 判断 | judgment, decision
+~ga | が | subject marker
+osoi | 遅い | slow, late
+
+> Tsumi naki hito no inochi wo omae no imouto ga ubau. | 罪なき人の命をお前の妹が奪う。 | Your sister will take an innocent person's life.
+tsumi naki | 罪なき | innocent (literary negative of tsumi aru)
+hito | 人 | person, people
+~no | の | of; links nouns
+inochi | 命 | life
+~wo | を | object marker
+omae | お前 | you (rough)
+~no | の | of; links nouns
+imouto | 妹 | younger sister
+~ga | が | subject marker
+ubau | 奪う | to take away
+
+> Mata kimono wo naoshiteru no? | また着物を直してるの？ | Are you mending your kimono again?
+mata | また | again
+kimono | 着物 | kimono
+~wo | を | object marker
+naoshiteru | 直してる | mending (contracted naoshite iru, from naosu)
+~no | の | question or explanatory ending
+
+> Kitto itsuka kirei na kimono wo katte yaru! | きっといつかきれいな着物を買ってやる！ | I'll buy you a beautiful kimono someday!
+kitto | きっと | surely
+itsuka | いつか | someday
+kirei na | きれいな | beautiful (kirei + na)
+kimono | 着物 | kimono
+~wo | を | object marker
+katte yaru | 買ってやる | will buy for you (kau + te yaru)
+
+> Imouto wa washi ga sekinin wo motte mite oku. | 妹はわしが責任を持って見ておく。 | I will take responsibility for looking after your sister.
+imouto | 妹 | younger sister
+~wa | は | topic marker
+washi | わし | I (elderly speech)
+~ga | が | subject marker
+sekinin | 責任 | responsibility
+~wo | を | object marker
+motte | 持って | take, hold (te-form of motsu)
+mite oku | 見ておく | look after for now (miru + te oku)
+
+> Yoru ga akeru mae ni modoreba ii n da na. | 夜が明ける前に戻ればいいんだな。 | I just need to get back before daybreak.
+yoru | 夜 | night
+~ga | が | subject marker
+akeru | 明ける | to dawn
+mae | 前 | before
+~ni | に | to, at; target marker
+modoreba | 戻れば | if I return (conditional of modoru)
+ii | いい | good
+~n da na | んだな | confirming an understanding
+
+> Kokyuu wo totonoete wana no nioi wo kagiwakero. | 呼吸を整えて罠のにおいを嗅ぎ分けろ。 | Steady your breathing and distinguish the scent of the traps.
+kokyuu | 呼吸 | breathing
+~wo | を | object marker
+totonoete | 整えて | steady (te-form of totonoeru)
+wana | 罠 | trap
+~no | の | of; links nouns
+nioi | におい | smell, scent
+~wo | を | object marker
+kagiwakero | 嗅ぎ分けろ | distinguish by smell! (command of kagiwakeru)
+
+> Douka sodatete itadakitai. | どうか育てていただきたい。 | Please train him.
+douka | どうか | please (earnest request)
+sodatete | 育てて | raise, train (te-form of sodateru)
+itadakitai | いただきたい | would like you to (humble request, from itadaku)
+
+> Banmeshi wa nikujaga to oden docchi ga ii? | 晩飯は肉じゃがとおでんどっちがいい？ | Which would you like for dinner, meat and potatoes or oden?
+banmeshi | 晩飯 | dinner (informal)
+~wa | は | topic marker
+nikujaga | 肉じゃが | meat and potato stew
+~to | と | with; quotation marker
+oden | おでん | oden (simmered dish)
+docchi | どっち | which (informal)
+~ga | が | subject marker
+ii | いい | good

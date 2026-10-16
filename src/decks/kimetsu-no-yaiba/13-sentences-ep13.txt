@@ -1,0 +1,126 @@
+# Sentences: Episode 13 | Short lines from Something More Important Than Life
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ore wa ima made yoku yatte kita. | 俺は今までよくやってきた。 | I've done well up to now.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+ima made | 今まで | up to now
+yoku | よく | well
+yatte kita | やってきた | have done all along (yaru + te kuru)
+
+> Kiai to tomo ni atama mo tsukau n da! | 気合いと共に頭も使うんだ！ | Use your head as well as your fighting spirit!
+kiai | 気合い | fighting spirit
+~to | と | with; quotation marker
+tomo ni | 共に | together with
+atama | 頭 | head
+~mo | も | also, even
+tsukau | 使う | to use
+~n da | んだ | explanatory ending
+
+> Hayaku marechi wo kuwaneba naran to iu noni… | 早く稀血を食わねばならんというのに… | I need to eat the rare blood quickly, but...
+hayaku | 早く | early, quickly (adverbial form of hayai)
+marechi | 稀血 | rare blood
+~wo | を | object marker
+kuwaneba naran | 食わねばならん | must eat (kuu + old-fashioned negative obligation)
+~to iu noni | というのに | even though
+
+> Tsumaranai n da yo kimi no kakimono. | つまらないんだよ君の書き物。 | Your writing is boring.
+tsumaranai | つまらない | boring
+~n da yo | んだよ | emphatic explanation
+kimi | 君 | you
+~no | の | of; links nouns
+kakimono | 書き物 | writing
+
+> Utsukushisa mo hakanasa mo sugomi mo nai. | 美しさも儚さもすごみもない。 | There's no beauty, no fleeting sadness, no intensity.
+utsukushisa | 美しさ | beauty
+~mo | も | also, even
+hakanasa | 儚さ | transience, fragility
+~mo | も | also, even
+sugomi | すごみ | intensity, menace
+~mo | も | also, even
+nai | ない | there is no, does not exist
+
+> Saikin wa hiruma mattaku soto ni dete konai shi. | 最近は昼間全く外に出てこないし。 | Lately you never come outside during the day.
+saikin | 最近 | lately
+~wa | は | topic marker
+hiruma | 昼間 | daytime
+mattaku | 全く | completely, at all (with a negative)
+soto | 外 | outside
+~ni | に | to, at; target marker
+dete konai | 出てこない | do not come out (deru + negative of te kuru)
+~shi | し | and; gives a reason
+
+> Moshikashite mada hayaku tsuzumi wo uteru no ka? | もしかしてまだ速く鼓を打てるのか？ | Could he be able to beat the drum even faster?
+moshikashite | もしかして | perhaps, could it be
+mada | まだ | still, yet
+hayaku | 速く | quickly (adverbial form of hayai)
+tsuzumi | 鼓 | hand drum
+~wo | を | object marker
+uteru | 打てる | can strike (potential of utsu)
+~no ka | のか | explanatory question
+
+> Kougeki wo subete kawashite iru. | 攻撃を全てかわしている。 | He's dodging every attack.
+kougeki | 攻撃 | attack
+~wo | を | object marker
+subete | 全て | all
+kawashite iru | かわしている | is dodging (kawasu + te iru)
+
+> Kimi no kekkijutsu wa sugokatta! | 君の血鬼術はすごかった！ | Your demon art was amazing!
+kimi | 君 | you
+~no | の | of; links nouns
+kekkijutsu | 血鬼術 | demonic supernatural art
+~wa | は | topic marker
+sugokatta | すごかった | was amazing (past of sugoi)
+
+> Sasattara hontou ni jidou de chi wo totte kureru n da na. | 刺さったら本当に自動で血をとってくれるんだな。 | It really does draw blood automatically once it sticks in.
+sasattara | 刺さったら | once it sticks in (conditional of sasaru)
+hontou ni | 本当に | really
+jidou de | 自動で | automatically
+chi | 血 | blood
+~wo | を | object marker
+totte kureru | とってくれる | takes for me (toru + te kureru)
+~n da na | んだな | confirming an understanding
+
+> Nande mono wo nagetsukeru n da! | なんで物を投げつけるんだ！ | Why are you throwing things at him?!
+nande | なんで | why (informal)
+mono | 物 | things, objects
+~wo | を | object marker
+nagetsukeru | 投げつける | to hurl at
+~n da | んだ | explanatory ending
+
+> Zen'itsu to Shouichi no nioi ga suru. | 善逸と正一のにおいがする。 | I can smell Zenitsu and Shoichi.
+~Zen'itsu | 善逸 | Zenitsu (name)
+~to | と | with; quotation marker
+~Shouichi | 正一 | Shoichi (name)
+~no | の | of; links nouns
+nioi | におい | smell, scent
+~ga | が | subject marker
+suru | する | to do
+
+> Sonna koto wa saisho kara wakatteru! | そんなことは最初から分かってる！ | I knew that from the very start!
+sonna | そんな | that kind of
+koto | こと | situation, thing
+~wa | は | topic marker
+saisho | 最初 | beginning
+~kara | から | because; from
+wakatteru | 分かってる | know (contracted wakatte iru, from wakaru)
+
+> Nakitaku naru you na yasashii oto ga suru. | 泣きたくなるような優しい音がする。 | His gentle sound makes me want to cry.
+nakitaku naru | 泣きたくなる | to feel like crying (naku + taku naru)
+~you na | ような | like, such that
+yasashii | 優しい | gentle, kind
+oto | 音 | sound
+~ga | が | subject marker
+suru | する | to do
+
+> Demo ore wa hito ni yoku damasareta. | でも俺は人によくだまされた。 | But I was often deceived by people.
+~demo | でも | even; but
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+hito | 人 | person, people
+~ni | に | to, at; target marker
+yoku | よく | well
+damasareta | だまされた | was deceived (past passive of damasu)

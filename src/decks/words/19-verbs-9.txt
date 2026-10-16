@@ -1,0 +1,46 @@
+# Verbs 9 | Action words from Demon Slayer season 1
+# format:  romaji | japanese | english | optional note
+
+kabau | かばう | to shield, protect someone
+shaberu | しゃべる | to talk, chat
+oru | おる | to be, exist (humble or old-fashioned counterpart of iru)
+tataku | たたく | to hit, strike
+kizuku | 気付く | to notice, realize
+kiku | 利く | to function well; to be keen (of the senses)
+sarau | 攫う | to abduct, carry off
+kudasaru | くださる | to give (respectful); to do something for someone
+kagu | 嗅ぐ | to smell, sniff
+shikujiru | しくじる | to blunder, fail
+iyagaru | 嫌がる | to dislike, be reluctant
+kiwameru | 極める | to master, take to the limit
+obieru | おびえる | to be frightened
+kamau | かまう | to mind; to pay attention to
+mogeru | もげる | to come off, be torn off
+totonoeru | 整える | to arrange, put in order; to regulate
+kujikeru | くじける | to lose heart, falter
+damasu | だます | to deceive, trick
+irassharu | いらっしゃる | to be, go, or come (respectful)
+sarasu | さらす | to expose, lay bare
+tsukamu | つかむ | to grasp, seize
+itamu | 痛む | to ache, hurt
+kowagaru | 怖がる | to be afraid
+akeru | 明ける | to dawn; to end (of a period)
+narau | 習う | to learn from someone
+tatakikomu | たたき込む | to hammer in, drill into someone
+chigireru | ちぎれる | to tear off, be torn apart
+tsunagaru | つながる | to connect, be connected
+mureru | 群れる | to gather in a group
+itametsukeru | 痛めつける | to hurt badly, torment
+matomeru | まとめる | to bring together, put in order
+zureru | ずれる | to slip out of place, be misaligned
+hikkomu | 引っ込む | to draw back, retreat
+ossharu | おっしゃる | to say (respectful)
+fumitsukeru | 踏みつける | to trample on
+umeru | 埋める | to bury; to fill in
+buttagiru | ぶった斬る | to slash apart (rough)
+tsunagu | つなぐ | to connect, tie together
+morasu | 漏らす | to let leak, let slip
+tatakiageru | たたき上げる | to forge by hammering; to train rigorously
+torikesu | 取り消す | to cancel, retract
+kuru | くる | to come | Kana spelling of 来る; also follows a te-form
+iku | いく | to go | Kana spelling of 行く; also follows a te-form

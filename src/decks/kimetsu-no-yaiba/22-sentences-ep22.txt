@@ -1,0 +1,139 @@
+# Sentences: Episode 22 | Short lines from Master of the Mansion
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Itsu made neten da sassato okinee ka! | いつまで寝てんださっさと起きねえか！ | How long are you going to sleep? Get up already!
+itsu made | いつまで | until when
+neten da | 寝てんだ | are sleeping (contracted nete iru n da, from neru)
+sassato | さっさと | quickly, without delay
+okinee ka | 起きねえか | won't you get up? (rough negative of okiru, urging action)
+
+> Koko wa Kisatsutai no honbu desu. | ここは鬼殺隊の本部です。 | This is the Corps headquarters.
+koko | ここ | here
+~wa | は | topic marker
+~Kisatsutai | 鬼殺隊 | Demon Slayer Corps (organization)
+~no | の | of; links nouns
+honbu | 本部 | headquarters
+~desu | です | is (polite ending)
+
+> Dou shobun suru dou sekinin wo toraseru? | どう処分するどう責任を取らせる？ | How should we deal with him? How do we make him take responsibility?
+dou | どう | how
+shobun suru | 処分する | to deal with, punish
+dou | どう | how
+sekinin | 責任 | responsibility
+~wo | を | object marker
+toraseru | 取らせる | to make someone take (causative of toru)
+
+> Sono koto ni tsuite tounin kara setsumei wo kikitai. | そのことについて当人から説明を聞きたい。 | I'd like to hear his own explanation of that.
+sono | その | that (before a noun)
+koto | こと | situation, thing
+~ni tsuite | について | about
+tounin | 当人 | the person concerned
+~kara | から | because; from
+setsumei | 説明 | explanation
+~wo | を | object marker
+kikitai | 聞きたい | want to ask (desire form of kiku)
+
+> Yukkuri de daijoubu desu kara, hanashite kudasai. | ゆっくりで大丈夫ですから、話してください。 | Take your time. Please tell us.
+yukkuri | ゆっくり | slowly, at ease
+~de | で | at, with; means marker
+daijoubu | 大丈夫 | all right
+~desu | です | is (polite ending)
+~kara | から | because; from
+hanashite | 話して | tell (te-form of hanasu)
+kudasai | ください | please do (request form of kudasaru)
+
+> Kega ga naotta wake dewa nai node muri wa ikemasen yo. | ケガが治ったわけではないので無理はいけませんよ。 | Your wounds haven't healed, so don't strain yourself.
+kega | ケガ | injury
+~ga | が | subject marker
+naotta | 治った | healed (past of naoru)
+~wake dewa nai | わけではない | it is not the case that
+~node | ので | because
+muri | 無理 | unreasonable demand
+~wa | は | topic marker
+~ikemasen | いけません | must not (polite)
+~yo | よ | emphasis
+
+> Somosomo miuchi nara kabatte atarimae. | そもそも身内ならかばって当たり前。 | It's only natural to defend your own family.
+somosomo | そもそも | to begin with
+miuchi | 身内 | one's family, close circle
+~nara | なら | if
+kabatte | かばって | protect, shield (te-form of kabau)
+atarimae | 当たり前 | natural, to be expected
+
+> Ore wa Nezuko wo naosu tame ni kenshi ni natta n desu! | 俺は禰豆子を治すために剣士になったんです！ | I became a swordsman so I could cure Nezuko!
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+~Nezuko | 禰豆子 | Nezuko (name)
+~wo | を | object marker
+naosu | 治す | to cure
+tame | ため | purpose, sake
+~ni | に | to, at; target marker
+kenshi | 剣士 | swordsman
+~ni | に | to, at; target marker
+natta | なった | became (past of naru)
+~n desu | んです | polite explanation
+
+> Katte ni shobun shichatte ii n deshou ka? | 勝手に処分しちゃっていいんでしょうか？ | Is it all right to dispose of her without permission?
+katte ni | 勝手に | without permission
+shobun shichatte | 処分しちゃって | dispose of (shobun suru + contracted te shimau, te-form)
+ii | いい | good
+~n deshou ka | んでしょうか | polite tentative question
+
+> Kisatsutai toshite hito wo mamoru tame ni tatakaeru n desu! | 鬼殺隊として人を守るために戦えるんです！ | She can fight to protect people as part of the Corps!
+~Kisatsutai | 鬼殺隊 | Demon Slayer Corps (organization)
+~toshite | として | as
+hito | 人 | person, people
+~wo | を | object marker
+mamoru | 守る | to protect
+tame | ため | purpose, sake
+~ni | に | to, at; target marker
+tatakaeru | 戦える | can fight (potential of tatakau)
+~n desu | んです | polite explanation
+
+> Mattaku hannou dekinakatta. | 全く反応できなかった。 | I couldn't react at all.
+mattaku | 全く | completely, at all (with a negative)
+hannou dekinakatta | 反応できなかった | could not react (past negative potential of hannou suru)
+
+> Niwaka ni wa shinjigatai joukyou desu ga magire mo nai jijitsu desu. | にわかには信じ難い状況ですが紛れもない事実です。 | It's hard to believe at first, but it is an undeniable fact.
+niwaka ni | にわかに | suddenly, at first
+~wa | は | topic marker
+shinjigatai | 信じ難い | hard to believe (shinjiru + gatai)
+joukyou | 状況 | situation
+~desu ga | ですが | however (polite)
+magire mo nai | 紛れもない | unmistakable
+jijitsu | 事実 | fact
+~desu | です | is (polite ending)
+
+> Hito wo osou to iu koto mo mata shoumei ga dekinai. | 人を襲うということもまた証明ができない。 | We can't prove that she will attack people, either.
+hito | 人 | person, people
+~wo | を | object marker
+osou | 襲う | to attack
+~to iu | という | that (introduces an idea)
+koto | こと | situation, thing
+~mo | も | also, even
+mata | また | again
+shoumei | 証明 | proof
+~ga | が | subject marker
+dekinai | できない | cannot do (negative of dekiru)
+
+> Hashira de sura dare mo sesshoku shita koto ga nai to iu noni. | 柱ですら誰も接触したことがないというのに。 | Even none of the Hashira have ever made contact with him.
+~Hashira | 柱 | Hashira (Corps rank)
+~de sura | ですら | even
+dare mo | 誰も | anyone (with a negative: no one)
+sesshoku shita | 接触した | made contact (past of sesshoku suru)
+koto | こと | situation, thing
+~ga | が | subject marker
+nai | ない | there is no, does not exist
+~to iu noni | というのに | even though
+
+> Damare! Ore ga saki ni kiiteru n da! | 黙れ！俺が先に聞いてるんだ！ | Shut up! I'm asking first!
+damare | 黙れ | shut up! (command of damaru)
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+saki | 先 | ahead, first
+~ni | に | to, at; target marker
+kiiteru | 聞いてる | am asking (contracted kiite iru, from kiku)
+~n da | んだ | explanatory ending

@@ -1,0 +1,126 @@
+# Sentences: Episode 14 | Short lines from The House with the Wisteria Family Crest
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Iya mattaku wakattenai kanji ga suru! | いや全く分かってない感じがする！ | No, I feel like he doesn't understand at all!
+iya | いや | no, well
+mattaku | 全く | completely, at all (with a negative)
+wakattenai | 分かってない | does not understand (contracted wakatte inai, from wakaru)
+kanji | 感じ | feeling, impression
+~ga | が | subject marker
+suru | する | to do
+
+> Shisokujuu to tatakatte iru you da! | 四足獣と戦っているようだ！ | It's like fighting a four-legged beast!
+shisokujuu | 四足獣 | four-legged beast
+~to | と | with; quotation marker
+tatakatte iru | 戦っている | am fighting (tatakau + te iru)
+~you da | ようだ | it is like
+
+> Ima kono setsuna no yuetsu ni masaru mono nashi! | 今この刹那の愉悦に勝るものなし！ | Nothing beats the joy of this very instant!
+ima | 今 | now
+kono | この | this (before a noun)
+setsuna | 刹那 | instant
+~no | の | of; links nouns
+yuetsu | 愉悦 | delight
+~ni | に | to, at; target marker
+masaru | 勝る | to surpass
+mono | もの | thing, possession
+nashi | なし | there is none (literary nai)
+
+> Dame da mou kakatte ikanai! | ダメだもうかかっていかない！ | No! I'm not going to attack him again!
+dame | ダメ | not allowed, no good
+~da | だ | is (plain ending)
+mou | もう | already; any more
+kakatte ikanai | かかっていかない | will not go attack (kakaru + negative of te iku)
+
+> Shindenai. Tabun noushintou da. | 死んでない。多分脳震盪だ。 | He's not dead. It's probably a concussion.
+shindenai | 死んでない | is not dead (contracted shinde inai, from shinu)
+tabun | 多分 | probably
+noushintou | 脳震盪 | concussion
+~da | だ | is (plain ending)
+
+> Inosuke mo tetsudatte kure. | 伊之助も手伝ってくれ。 | Inosuke, help us too.
+~Inosuke | 伊之助 | Inosuke (name)
+~mo | も | also, even
+tetsudatte kure | 手伝ってくれ | help me (tetsudau + te kure)
+
+> Sonna koto yori ore to tatakae! | そんなことより俺と戦え！ | Forget that and fight me!
+sonna | そんな | that kind of
+koto | こと | situation, thing
+~yori | より | rather than
+ore | 俺 | I, me (rough, masculine)
+~to | と | with; quotation marker
+tatakae | 戦え | fight! (command of tatakau)
+
+> Kizu ga itamu kara dekinai n da na? | 傷が痛むからできないんだな？ | You can't because your wounds hurt, right?
+kizu | 傷 | wound
+~ga | が | subject marker
+itamu | 痛む | to ache
+~kara | から | because; from
+dekinai | できない | cannot do (negative of dekiru)
+~n da na | んだな | confirming an understanding
+
+> Tsuchi wo hotte maisou suru no wa hontou ni taihen da shi. | 土を掘って埋葬するのは本当に大変だし。 | Digging a hole and burying them is really hard.
+tsuchi | 土 | earth, soil
+~wo | を | object marker
+hotte | 掘って | dig (te-form of horu)
+maisou suru | 埋葬する | to bury
+~no | の | nominalizer: turns a clause into a noun
+~wa | は | topic marker
+hontou ni | 本当に | really
+taihen | 大変 | difficult, demanding
+~da | だ | is (plain ending)
+~shi | し | and; gives a reason
+
+> Muri itte sumanakatta na. | 無理言ってすまなかったな。 | Sorry for asking too much of you.
+muri | 無理 | unreasonable demand
+itte | 言って | say (te-form of iu)
+sumanakatta | すまなかった | was sorry (past of sumanai)
+~na | な | emphasis; prohibition after a verb
+
+> Ore wo hotte ikanaide! | 俺を放っていかないで！ | Don't leave me behind!
+ore | 俺 | I, me (rough, masculine)
+~wo | を | object marker
+hotte ikanaide | 放っていかないで | don't leave behind (houru + negative request of te iku)
+
+> Ore wa kanarazu suki wo mite omae ni katsu zo! | 俺は必ず隙を見てお前に勝つぞ！ | I'll catch an opening and beat you for sure!
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+kanarazu | 必ず | without fail
+suki | 隙 | opening, gap in defense
+~wo | を | object marker
+mite | 見て | see, watch for (te-form of miru)
+omae | お前 | you (rough)
+~ni | に | to, at; target marker
+katsu | 勝つ | to win
+~zo | ぞ | forceful emphasis
+
+> Abara yori kobu ga itee. | あばらよりコブが痛え。 | My bump hurts more than my ribs.
+abara | あばら | ribs
+~yori | より | rather than
+kobu | コブ | bump, swelling
+~ga | が | subject marker
+itee | 痛え | hurts (rough itai)
+
+> Ore ni wa oya mo kyoudai mo inee ze. | 俺には親も兄弟もいねえぜ。 | I don't have any parents or siblings.
+ore | 俺 | I, me (rough, masculine)
+~ni | に | to, at; target marker
+~wa | は | topic marker
+oya | 親 | parent
+~mo | も | also, even
+kyoudai | 兄弟 | siblings
+~mo | も | also, even
+inee | いねえ | there aren't (rough inai, negative of iru)
+~ze | ぜ | forceful informal emphasis
+
+> Oni wo tsurete iru no wa dou iu koto nan da? | 鬼を連れているのはどういうことなんだ？ | What do you mean, you're traveling with a demon?
+oni | 鬼 | demon
+~wo | を | object marker
+tsurete iru | 連れている | are taking along (tsureru + te iru)
+~no | の | nominalizer: turns a clause into a noun
+~wa | は | topic marker
+dou iu | どういう | what kind of
+koto | こと | situation, thing
+~nan da | なんだ | emphatic explanation

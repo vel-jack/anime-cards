@@ -1,0 +1,119 @@
+# Sentences: Episode 16 | Short lines from Letting Someone Else Go First
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Tsuyoi kehai wo binbin kanjiru ze! | 強い気配をビンビン感じるぜ！ | I can feel a powerful presence!
+tsuyoi | 強い | strong
+kehai | 気配 | presence, aura
+~wo | を | object marker
+binbin | ビンビン | intensely, strongly
+kanjiru | 感じる | to feel, sense
+~ze | ぜ | forceful informal emphasis
+
+> Ito wo kireba ii to iu no ga wakatta shi. | 糸を斬ればいいというのが分かったし。 | I figured out that we just need to cut the threads.
+ito | 糸 | thread
+~wo | を | object marker
+kireba | 斬れば | if we cut (conditional of kiru)
+ii | いい | good
+~to iu | という | that (introduces an idea)
+~no | の | nominalizer: turns a clause into a noun
+~ga | が | subject marker
+wakatta | 分かった | understood (past of wakaru)
+~shi | し | and; gives a reason
+
+> Modotte kitara zettai naguru kara na! | 戻ってきたら絶対殴るからな！ | I'll definitely punch you when you get back!
+modotte kitara | 戻ってきたら | when I return (modoru + conditional of te kuru)
+zettai | 絶対 | absolutely
+naguru | 殴る | to punch
+~kara na | からな | forceful warning
+
+> Sou ja nai to minna koroshite shimau! | そうじゃないとみんな殺してしまう！ | Otherwise we'll end up killing everyone!
+~sou ja nai to | そうじゃないと | if that is not the case
+minna | みんな | everyone
+koroshite shimau | 殺してしまう | end up killing (korosu + te shimau)
+
+> Oningyou mo tsuyoku naru no yo. | お人形も強くなるのよ。 | The dolls get stronger too.
+oningyou | お人形 | doll (polite ningyou)
+~mo | も | also, even
+tsuyoku | 強く | strongly (adverbial form of tsuyoi)
+naru | なる | to become
+~no yo | のよ | explanatory emphasis
+
+> Oni ga ito de muriyari karada wo ugokashite iru kara. | 鬼が糸で無理やり体を動かしているから。 | The demon is forcing their bodies to move with threads.
+oni | 鬼 | demon
+~ga | が | subject marker
+ito | 糸 | thread
+~de | で | at, with; means marker
+muriyari | 無理やり | by force
+karada | 体 | body
+~wo | を | object marker
+ugokashite iru | 動かしている | is moving something (ugokasu + te iru)
+~kara | から | because; from
+
+> Ugokasareru to gekitsuu de taerarenai. | 動かされると激痛で耐えられない。 | It hurts unbearably when I'm moved.
+ugokasareru | 動かされる | to be forced to move (passive of ugokasu)
+~to | と | with; quotation marker
+gekitsuu | 激痛 | excruciating pain
+~de | で | at, with; means marker
+taerarenai | 耐えられない | cannot endure (negative potential of taeru)
+
+> Wakatteru! Kangaeru kara mattete kure! | 分かってる！考えるから待っててくれ！ | I know! I'll think of something, so wait!
+wakatteru | 分かってる | know (contracted wakatte iru, from wakaru)
+kangaeru | 考える | to think
+~kara | から | because; from
+mattete kure | 待っててくれ | please keep waiting (contracted matte ite kure, from matsu)
+
+> Sumanai chotto mitenakatta! | すまないちょっと見てなかった！ | Sorry! I wasn't watching for a moment!
+sumanai | すまない | sorry (apologetic expression)
+chotto | ちょっと | a little, briefly
+mitenakatta | 見てなかった | was not watching (contracted mite inakatta, from miru)
+
+> Kocchi da kanari chikazuite iru ze! | こっちだかなり近づいているぜ！ | This way. We're getting very close!
+kocchi | こっち | this way (informal)
+~da | だ | is (plain ending)
+kanari | かなり | quite, considerably
+chikazuite iru | 近づいている | are approaching (chikazuku + te iru)
+~ze | ぜ | forceful informal emphasis
+
+> Ore no hou ga saki ni kizuiteta! | 俺のほうが先に気付いてた！ | I noticed first!
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+hou | ほう | side (in a comparison)
+~ga | が | subject marker
+saki | 先 | ahead, first
+~ni | に | to, at; target marker
+kizuiteta | 気付いてた | had noticed (contracted kizuite ita, from kizuku)
+
+> Nanka dandan hara tatte kita. | なんかだんだん腹立ってきた。 | I'm starting to get angry.
+nanka | なんか | somehow (informal)
+dandan | だんだん | gradually
+hara tatte kita | 腹立ってきた | have begun to get angry (hara ga tatsu + te kuru)
+
+> Aitsu kyuusho ga nee zo. Nai mono wa kirenee! | あいつ急所がねえぞ。ないものは斬れねえ！ | He doesn't have a weak point. You can't cut what isn't there!
+aitsu | あいつ | that guy (rough)
+kyuusho | 急所 | vital spot, weak point
+~ga | が | subject marker
+nee | ねえ | there isn't (rough nai)
+~zo | ぞ | forceful emphasis
+nai | ない | there is no, does not exist
+mono | もの | thing, possession
+~wa | は | topic marker
+kirenee | 斬れねえ | can't cut (rough kirenai, negative potential of kiru)
+
+> Kono oni wo taosu tame ni chikara wo awaseyou! | この鬼を倒すために力を合わせよう！ | Let's work together to defeat this demon!
+kono | この | this (before a noun)
+oni | 鬼 | demon
+~wo | を | object marker
+taosu | 倒す | to defeat
+tame | ため | purpose, sake
+~ni | に | to, at; target marker
+chikara | 力 | strength, power
+~wo | を | object marker
+awaseyou | 合わせよう | let's combine (volitional of awaseru)
+
+> Sukoshi mo itakunai kurushiku mo nai. | 少しも痛くない苦しくもない。 | It doesn't hurt at all. I'm not suffering either.
+sukoshi mo | 少しも | even a little (with a negative: not at all)
+itakunai | 痛くない | not painful (negative of itai)
+kurushiku mo nai | 苦しくもない | not distressing either (kurushii + mo nai)

@@ -1,0 +1,128 @@
+# Sentences: Episode 10 | Short lines from Together Forever
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Konna tokoro de yarareru na! | こんな所でやられるな！ | Don't let yourself be beaten here!
+konna | こんな | this kind of
+tokoro | 所 | place
+~de | で | at, with; means marker
+yarareru na | やられるな | don't be defeated (passive yarareru, from yaru, + prohibitive na)
+
+> Sugu iku kara buji de ite kure. | すぐ行くから無事でいてくれ。 | I'll be there soon, so stay safe.
+sugu | すぐ | soon, immediately
+iku | 行く | to go
+~kara | から | because; from
+buji | 無事 | safe, unharmed
+~de | で | at, with; means marker
+ite kure | いてくれ | please remain (iru + te kure)
+
+> Sore wa kochira mo onaji koto ja. | それはこちらも同じことじゃ。 | It's just the same for us.
+sore | それ | that
+~wa | は | topic marker
+kochira | こちら | our side, here (polite)
+~mo | も | also, even
+onaji | 同じ | same
+koto | こと | situation, thing
+~ja | じゃ | is (old-fashioned da)
+
+> Watashi no mari wo kerikaesu you ni natte kita to wa… | 私の毬を蹴り返すようになってきたとは… | She's started kicking my ball back at me.
+watashi | 私 | I, me
+~no | の | of; links nouns
+mari | 毬 | traditional ball
+~wo | を | object marker
+kerikaesu | 蹴り返す | to kick back
+you ni natte kita | ようになってきた | has started to (you ni naru + te kuru)
+~to wa | とは | surprised realization
+
+> Nezuko-san jishin no chikara desu. | 禰豆子さん自身の力です。 | That's Nezuko's own strength.
+~Nezuko-san | 禰豆子さん | Nezuko (name, respectful)
+jishin | 自身 | oneself, one's own
+~no | の | of; links nouns
+chikara | 力 | strength, power
+~desu | です | is (polite ending)
+
+> Shikashi aite mo tsuwamono. | しかし相手もつわもの。 | But her opponent is formidable too.
+shikashi | しかし | however
+aite | 相手 | opponent
+~mo | も | also, even
+tsuwamono | つわもの | formidable fighter
+
+> Anata wa Kibutsuji no shoutai wo gozonji na no desu ka? | あなたは鬼舞辻の正体をご存じなのですか？ | Do you know Kibutsuji's true identity?
+anata | あなた | you
+~wa | は | topic marker
+~Kibutsuji | 鬼舞辻 | Kibutsuji (name)
+~no | の | of; links nouns
+shoutai | 正体 | true identity
+~wo | を | object marker
+gozonji | ご存じ | knowing (respectful)
+~na no desu ka | なのですか | polite explanatory question
+
+> Watashi wa Nezuko-san wo mimasu. | 私は禰豆子さんを診ます。 | I'll examine Nezuko.
+watashi | 私 | I, me
+~wa | は | topic marker
+~Nezuko-san | 禰豆子さん | Nezuko (name, respectful)
+~wo | を | object marker
+mimasu | 診ます | will examine medically (polite miru)
+
+> Ore wa Tamayo-sama kara hanaretakunai. | 俺は珠世様から離れたくない。 | I don't want to leave Lady Tamayo.
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+~Tamayo-sama | 珠世様 | Lady Tamayo (name, respectful)
+~kara | から | because; from
+hanaretakunai | 離れたくない | do not want to leave (negative desire of hanareru)
+
+> Hikari ga todokanai kono chika ni idou shimashita. | 光が届かないこの地下に移動しました。 | We moved down into this basement where light can't reach.
+hikari | 光 | light
+~ga | が | subject marker
+todokanai | 届かない | does not reach (negative of todoku)
+kono | この | this (before a noun)
+chika | 地下 | underground, basement
+~ni | に | to, at; target marker
+idou shimashita | 移動しました | moved (polite past of idou suru)
+
+> Demo Nezuko wa ofutari wo ningen da to handan shitemasu. | でも禰豆子はお二人を人間だと判断してます。 | But Nezuko regards both of you as human.
+~demo | でも | even; but
+~Nezuko | 禰豆子 | Nezuko (name)
+~wa | は | topic marker
+ofutari | お二人 | the two of you (polite)
+~wo | を | object marker
+ningen | 人間 | human, human being
+~da | だ | is (plain ending)
+~to | と | with; quotation marker
+handan shitemasu | 判断してます | judges (contracted handan shite imasu, from handan suru)
+
+> Anata wa sore demo ikitai to omoimasu ka? | あなたはそれでも生きたいと思いますか？ | Do you still want to live?
+anata | あなた | you
+~wa | は | topic marker
+sore demo | それでも | even so
+ikitai | 生きたい | want to live (desire form of ikiru)
+~to | と | with; quotation marker
+omoimasu | 思います | think (polite omou)
+~ka | か | question marker
+
+> Desu ga hito de nakunaru koto wa tsuraku kanashii. | ですが人でなくなることはつらく悲しい。 | But ceasing to be human is painful and sad.
+~desu ga | ですが | however (polite)
+hito | 人 | person, people
+~de | で | at, with; means marker
+nakunaru | なくなる | to cease to be
+koto | こと | situation, thing
+~wa | は | topic marker
+tsuraku | つらく | painful (linking form of tsurai)
+kanashii | 悲しい | sad
+
+> Zettai ni anzen to wa iikiremasen ga. | 絶対に安全とは言い切れませんが。 | I can't guarantee it's completely safe, though.
+zettai ni | 絶対に | absolutely, under any circumstances
+anzen | 安全 | safe
+~to wa | とは | surprised realization
+iikiremasen | 言い切れません | cannot state with certainty (polite negative potential of iikiru)
+~ga | が | subject marker
+
+> Sore dewa Tamayo-san mo Yushirou-san mo ogenki de. | それでは珠世さんも愈史郎さんもお元気で。 | Please keep well, both of you.
+sore dewa | それでは | well then
+~Tamayo-san | 珠世さん | Ms Tamayo (name)
+~mo | も | also, even
+~Yushirou-san | 愈史郎さん | Mr Yushirou (name)
+~mo | も | also, even
+ogenki de | お元気で | take care, keep well

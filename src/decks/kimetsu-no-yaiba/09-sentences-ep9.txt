@@ -1,0 +1,131 @@
+# Sentences: Episode 9 | Short lines from Temari Demon and Arrow Demon
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Koumyou ni mono wo kakusu kekkijutsu ga tsukawarete ita you da na. | 巧妙に物を隠す血鬼術が使われていたようだな。 | They seem to have used a demon art that cleverly conceals things.
+koumyou ni | 巧妙に | skillfully, cleverly
+mono | 物 | things, objects
+~wo | を | object marker
+kakusu | 隠す | to hide
+kekkijutsu | 血鬼術 | demonic supernatural art
+~ga | が | subject marker
+tsukawarete ita | 使われていた | had been used (tsukau, passive + past te iru)
+~you da na | ようだな | it seems
+
+> Mari wo nagete ie wo kore dake hakai shita no ka! | 毬を投げて家をこれだけ破壊したのか！ | You threw a ball and wrecked this much of the house?!
+mari | 毬 | traditional ball
+~wo | を | object marker
+nagete | 投げて | throw (te-form of nageru)
+ie | 家 | house, home
+~wo | を | object marker
+kore dake | これだけ | this much
+hakai shita | 破壊した | destroyed (past of hakai suru)
+~no ka | のか | explanatory question
+
+> Soto wa kiken desu! | 外は危険です！ | It's dangerous outside!
+soto | 外 | outside
+~wa | は | topic marker
+kiken | 危険 | dangerous
+~desu | です | is (polite ending)
+
+> Tamayo-san mi wo kakuseru basho made sagatte kudasai. | 珠世さん身を隠せる場所まで下がってください。 | Ms Tamayo, please retreat somewhere you can hide.
+~Tamayo-san | 珠世さん | Ms Tamayo (name)
+mi | 身 | one's body, oneself
+~wo | を | object marker
+kakuseru | 隠せる | can hide (potential of kakusu)
+basho | 場所 | place
+~made | まで | until, as far as
+sagatte | 下がって | step back (te-form of sagaru)
+kudasai | ください | please do (request form of kudasaru)
+
+> Mamotte itadakanakute daijoubu desu. | 守っていただかなくて大丈夫です。 | You don't need to protect us.
+mamotte itadakanakute | 守っていただかなくて | without your protecting us (mamoru + humble itadaku, negative te-form)
+daijoubu | 大丈夫 | all right
+~desu | です | is (polite ending)
+
+> Naze ugoku n da kono mari? | なぜ動くんだこの毬？ | Why is this ball moving?
+naze | なぜ | why
+ugoku | 動く | to move
+~n da | んだ | explanatory ending
+kono | この | this (before a noun)
+mari | 毬 | traditional ball
+
+> Kougeki sareru made nioi ga shinakatta. | 攻撃されるまでにおいがしなかった。 | I didn't smell anything until we were attacked.
+kougeki sareru | 攻撃される | to be attacked (passive of kougeki suru)
+~made | まで | until, as far as
+nioi | におい | smell, scent
+~ga | が | subject marker
+shinakatta | しなかった | did not make (past negative of suru)
+
+> Kitte shimaeba iryoku wa ochiru. | 斬ってしまえば威力は落ちる。 | Once they're cut, their force drops.
+kitte shimaeba | 斬ってしまえば | if I cut them completely (kiru + conditional of te shimau)
+iryoku | 威力 | power, force
+~wa | は | topic marker
+ochiru | 落ちる | to fall, deteriorate
+
+> Nioi de ichi mo wakatteru. | においで位置も分かってる。 | I know where they are from the smell, too.
+nioi | におい | smell, scent
+~de | で | at, with; means marker
+ichi | 位置 | position
+~mo | も | also, even
+wakatteru | 分かってる | know (contracted wakatte iru, from wakaru)
+
+> Watashitachi wa naorimasu kara ki ni shinaide! | 私たちは治りますから気にしないで！ | We'll heal, so don't worry about us!
+watashitachi | 私たち | we
+~wa | は | topic marker
+naorimasu | 治ります | will heal (polite naoru)
+~kara | から | because; from
+ki ni shinaide | 気にしないで | don't worry (negative request of ki ni suru)
+
+> Kono futari kara chi wo totte misemasu! | この２人から血をとってみせます！ | I'll get blood from these two!
+kono | この | this (before a noun)
+futari | ２人 | two people
+~kara | から | because; from
+chi | 血 | blood
+~wo | を | object marker
+totte misemasu | とってみせます | will certainly take (toru + te miseru, polite)
+
+> Honno sukoshi no aida ni sugu atarashii ude ga haeru. | ほんの少しの間にすぐ新しい腕が生える。 | A new arm grows back in no time.
+honno | ほんの | mere, only
+sukoshi | 少し | a little
+~no | の | of; links nouns
+aida | 間 | while, interval
+~ni | に | to, at; target marker
+sugu | すぐ | soon, immediately
+atarashii | 新しい | new
+ude | 腕 | arm
+~ga | が | subject marker
+haeru | 生える | to grow, sprout
+
+> Nezuko zettai ni mucha wo suru na yo. | 禰豆子絶対にむちゃをするなよ。 | Nezuko, don't push yourself too far.
+~Nezuko | 禰豆子 | Nezuko (name)
+zettai ni | 絶対に | absolutely, under any circumstances
+mucha | むちゃ | recklessness
+~wo | を | object marker
+suru na | するな | don't do it (suru + prohibitive na)
+~yo | よ | emphasis
+
+> Kono kusuri de sugu ashi wa naorimasu kara ne. | この薬ですぐ脚は治りますからね。 | This medicine will heal your leg right away.
+kono | この | this (before a noun)
+kusuri | 薬 | medicine
+~de | で | at, with; means marker
+sugu | すぐ | soon, immediately
+ashi | 脚 | leg
+~wa | は | topic marker
+naorimasu | 治ります | will heal (polite naoru)
+~kara | から | because; from
+~ne | ね | seeks agreement
+
+> Chokusetsu furenai you ni ano yajirushi no muki wo kaeru n da! | 直接触れないようにあの矢印の向きを変えるんだ！ | Change the direction of those arrows without touching them directly!
+chokusetsu | 直接 | directly
+furenai | 触れない | do not touch (negative of fureru)
+~you ni | ように | so that
+ano | あの | that over there (before a noun)
+yajirushi | 矢印 | arrow mark
+~no | の | of; links nouns
+muki | 向き | direction, orientation
+~wo | を | object marker
+kaeru | 変える | to change something
+~n da | んだ | explanatory ending

@@ -1,0 +1,123 @@
+# Sentences: Episode 15 | Short lines from Mount Natagumo
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Dono you na toki demo hokori takaku ikite kudasaimase. | どのようなときでも誇り高く生きてくださいませ。 | Please live with pride, whatever happens.
+dono you na | どのような | whatever kind of
+toki | とき | time, occasion
+~demo | でも | even; but
+hokori takaku | 誇り高く | proudly (adverbial form of hokori takai)
+ikite | 生きて | live (te-form of ikiru)
+kudasaimase | くださいませ | please (especially courteous request, from kudasaru)
+
+> Jibun no tachiba wo kichinto rikai shite. | 自分の立場をきちんと理解して。 | Understand your own position properly.
+jibun | 自分 | oneself
+~no | の | of; links nouns
+tachiba | 立場 | position, situation
+~wo | を | object marker
+kichinto | きちんと | properly
+rikai shite | 理解して | understand (te-form of rikai suru)
+
+> Hazukashikunai tte dou iu koto da! | 恥ずかしくないってどういうことだ！ | What do you mean by having nothing to be ashamed of?!
+hazukashikunai | 恥ずかしくない | not ashamed (negative of hazukashii)
+~tte | って | informal quotation marker
+dou iu | どういう | what kind of
+koto | こと | situation, thing
+~da | だ | is (plain ending)
+
+> Mokutekichi ga chikazuite kite totemo kowai! | 目的地が近づいてきてとても怖い！ | Our destination is getting closer, and I'm terrified!
+mokutekichi | 目的地 | destination
+~ga | が | subject marker
+chikazuite kite | 近づいてきて | getting closer (chikazuku + te kuru, te-form)
+totemo | とても | very
+kowai | 怖い | frightening
+
+> Me no mae no ano yama kara nani mo kanjinee no ka yo? | 目の前のあの山から何も感じねえのかよ？ | Don't you sense anything from that mountain ahead of us?
+me no mae | 目の前 | right in front
+~no | の | of; links nouns
+ano | あの | that over there (before a noun)
+yama | 山 | mountain
+~kara | から | because; from
+nani mo | 何も | anything (with a negative: nothing)
+kanjinee | 感じねえ | don't feel (rough kanjinai, from kanjiru)
+~no ka yo | のかよ | emphatic question
+
+> Yoku ganbatte modotta ne. | よく頑張って戻ったね。 | You did well to make it back.
+yoku | よく | well
+ganbatte | 頑張って | do one's best (te-form of ganbaru)
+modotta | 戻った | returned (past of modoru)
+~ne | ね | seeks agreement
+
+> Hashira wo ikasenakute wa naranai you da. | 柱を行かせなくてはならないようだ。 | It seems we'll have to send a Hashira.
+~Hashira | 柱 | Hashira (Corps rank)
+~wo | を | object marker
+ikasenakute wa naranai | 行かせなくてはならない | must send (causative ikaseru, from iku, + obligation)
+~you da | ようだ | it is like
+
+> Muri na hanashi da oni ga hito wo kurau kagiri wa. | 無理な話だ鬼が人を食らうかぎりは。 | It's impossible as long as demons eat people.
+muri na | 無理な | impossible (muri + na)
+hanashi | 話 | matter, story
+~da | だ | is (plain ending)
+oni | 鬼 | demon
+~ga | が | subject marker
+hito | 人 | person, people
+~wo | を | object marker
+kurau | 食らう | to devour
+~kagiri | かぎり | as long as
+~wa | は | topic marker
+
+> Nani ni mo wakannai yo na ningen no koto nante. | 何にも分かんないよな人間のことなんて。 | You don't understand anything about humans.
+nani ni mo | 何にも | anything at all (with a negative: nothing)
+wakannai | 分かんない | don't understand (contracted wakaranai, from wakaru)
+~yo na | よな | informal emphasis seeking agreement
+ningen | 人間 | human, human being
+~no | の | of; links nouns
+koto | こと | situation, thing
+~nante | なんて | something like
+
+> Jaa buttagitte yaru ze! | じゃあぶった斬ってやるぜ！ | I'll slash them apart, then!
+jaa | じゃあ | then, in that case
+buttagitte yaru | ぶった斬ってやる | will slash apart (buttagiru + te yaru)
+~ze | ぜ | forceful informal emphasis
+
+> Teki wa doko da ayatsutte iru oni no ichi? | 敵はどこだ操っている鬼の位置？ | Where's the enemy? Where's the demon controlling them?
+teki | 敵 | enemy
+~wa | は | topic marker
+doko | どこ | where
+~da | だ | is (plain ending)
+ayatsutte iru | 操っている | is controlling (ayatsuru + te iru)
+oni | 鬼 | demon
+~no | の | of; links nouns
+ichi | 位置 | position
+
+> Nan da kore wa kaze ni notte nagarete kiteru. | 何だこれは風に乗って流れてきてる。 | What is this? It's drifting on the wind.
+nan da | 何だ | what is it (nani + da)
+kore | これ | this
+~wa | は | topic marker
+kaze | 風 | wind
+~ni | に | to, at; target marker
+notte | 乗って | ride on (te-form of noru)
+nagarete kiteru | 流れてきてる | is drifting toward us (contracted nagarete kite iru, from nagareru)
+
+> Ayatsurarete iru hitotachi wa nantoka suru. | 操られている人たちはなんとかする。 | We'll do something about the people being controlled.
+ayatsurarete iru | 操られている | are being controlled (ayatsuru, passive + te iru)
+hitotachi | 人たち | people
+~wa | は | topic marker
+nantoka suru | なんとかする | to manage, do something about
+
+> Omaera nante sugu ni kaasan ga korosu kara. | お前らなんてすぐに母さんが殺すから。 | Mother will kill you all in no time.
+omaera | お前ら | you lot (rough)
+~nante | なんて | something like
+sugu ni | すぐに | immediately
+kaasan | 母さん | Mom, mother
+~ga | が | subject marker
+korosu | 殺す | to kill
+~kara | から | because; from
+
+> Nan no tame ni dete kita n da? | 何のために出てきたんだ？ | What did you come out here for?
+nan no tame | 何のため | for what purpose
+~ni | に | to, at; target marker
+dete kita | 出てきた | came out (deru + te kuru, past)
+~n da | んだ | explanatory ending

@@ -1,0 +1,120 @@
+# Sentences: Episode 1 | Short lines from Cruelty
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Nande konna koto ni natta n da. | なんでこんなことになったんだ。 | How did it end up like this?
+nande | なんで | why (informal)
+konna | こんな | this kind of
+koto | こと | situation, thing
+~ni | に | to, at; target marker
+natta | なった | became (past of naru)
+~n da | んだ | explanatory ending
+
+> Kao ga makkuro ja nai no. | 顔が真っ黒じゃないの。 | Your face is completely black.
+kao | 顔 | face
+~ga | が | subject marker
+makkuro | 真っ黒 | pitch-black
+~ja nai no | じゃないの | isn't it? (informal ending)
+
+> Sukoshi demo sumi wo utte kuru yo. | 少しでも炭を売ってくるよ。 | I'll sell at least a little charcoal.
+sukoshi | 少し | a little
+~demo | でも | even; but
+sumi | 炭 | charcoal
+~wo | を | object marker
+utte kuru | 売ってくる | go sell and return (uru + te kuru)
+~yo | よ | emphasis
+
+> Sono kawari umai mon ippai katte kuru kara. | そのかわりうまいもんいっぱい買ってくるから。 | I'll bring back plenty of tasty things instead.
+sono kawari | そのかわり | in return, instead
+umai | うまい | tasty (informal)
+mon | もん | things (contracted mono)
+ippai | いっぱい | plenty
+katte kuru | 買ってくる | go buy and return (kau + te kuru)
+~kara | から | because; from
+
+> Ore ja nai tte itta daro! | 俺じゃないって言っただろ！ | You said it wasn't me!
+ore | 俺 | I, me (rough, masculine)
+~ja nai | じゃない | is not (plain negative)
+~tte | って | informal quotation marker
+itta | 言った | said (past of iu)
+~daro | だろ | right? (rough darou)
+
+> Omee yama ni kaeru tsumori ka? | おめえ山に帰るつもりか？ | Are you planning to go back up the mountain?
+omee | おめえ | you (rough omae)
+yama | 山 | mountain
+~ni | に | to, at; target marker
+kaeru | 帰る | to return home
+tsumori | つもり | intention
+~ka | か | question marker
+
+> Dakara yoru arukimawaru mon ja nee. | だから夜歩き回るもんじゃねえ。 | That's why you shouldn't wander around at night.
+dakara | だから | so, that is why
+yoru | 夜 | night
+arukimawaru | 歩き回る | to walk around
+~mon ja nee | もんじゃねえ | shouldn't (rough mono ja nai)
+
+> Nezuko dake wa mada nukumori ga aru. | 禰豆子だけはまだぬくもりがある。 | Only Nezuko is still warm.
+~Nezuko | 禰豆子 | Nezuko (name)
+~dake | だけ | only
+~wa | は | topic marker
+mada | まだ | still, yet
+nukumori | ぬくもり | warmth
+~ga | が | subject marker
+aru | ある | to exist, be present
+
+> Niichan ga tasukete yaru! | 兄ちゃんが助けてやる！ | My big brother will help you!
+niichan | 兄ちゃん | big brother (familiar)
+~ga | が | subject marker
+tasukete yaru | 助けてやる | will help you (tasukeru + te yaru)
+
+> Ore no shigoto wa oni wo kiru koto da. | 俺の仕事は鬼を斬ることだ。 | My job is to cut down demons.
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+shigoto | 仕事 | job, work
+~wa | は | topic marker
+oni | 鬼 | demon
+~wo | を | object marker
+kiru | 斬る | to cut with a blade
+koto | こと | situation, thing
+~da | だ | is (plain ending)
+
+> Kitto Nezuko wo ningen ni modosu. | きっと禰豆子を人間に戻す。 | I'll turn Nezuko back into a human.
+kitto | きっと | surely
+~Nezuko | 禰豆子 | Nezuko (name)
+~wo | を | object marker
+ningen | 人間 | human, human being
+~ni | に | to, at; target marker
+modosu | 戻す | to return something to its former state
+
+> Ore ga zenbu chanto suru kara. | 俺が全部ちゃんとするから。 | I'll put everything right.
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+zenbu | 全部 | all, everything
+chanto | ちゃんと | properly
+suru | する | to do
+~kara | から | because; from
+
+> Naze ore ni senaka wo miseta? | なぜ俺に背中を見せた？ | Why did you turn your back on me?
+naze | なぜ | why
+ore | 俺 | I, me (rough, masculine)
+~ni | に | to, at; target marker
+senaka | 背中 | back (of the body)
+~wo | を | object marker
+miseta | 見せた | showed (past of miseru)
+
+> Sonna no wa ima suru koto ja nai. | そんなのは今することじゃない。 | This isn't the time for that.
+sonna | そんな | that sort of
+~no | の | nominalizer: turns a clause into a noun
+~wa | は | topic marker
+ima | 今 | now
+suru | する | to do
+koto | こと | situation, thing
+~ja nai | じゃない | is not (plain negative)
+
+> Hito wo kuttari shinai! | 人を食ったりしない！ | She won't eat people!
+hito | 人 | person, people
+~wo | を | object marker
+kuttari | 食ったり | eat and such (listing form of rough kuu)
+shinai | しない | do not (negative of suru)

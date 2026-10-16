@@ -1,0 +1,126 @@
+# Sentences: Episode 25 | Short lines from Tsuguko, Kanao Tsuyuri
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Mou ikkai onegai shimasu! | もう１回お願いします！ | One more time, please!
+mou ikkai | もう１回 | one more time
+onegai shimasu | お願いします | please (polite request from onegai suru)
+
+> Maa watashi wa kamaimasen ga. | まあ私はかまいませんが。 | Well, I don't mind.
+maa | まあ | well
+watashi | 私 | I, me
+~wa | は | topic marker
+kamaimasen | かまいません | it does not matter (polite negative of kamau)
+~ga | が | subject marker
+
+> Kiso tairyoku ga hiyakuteki ni agarimasu. | 基礎体力が飛躍的に上がります。 | Your basic physical strength will improve dramatically.
+kiso tairyoku | 基礎体力 | basic physical strength
+~ga | が | subject marker
+hiyakuteki ni | 飛躍的に | dramatically
+agarimasu | 上がります | will rise (polite agaru)
+
+> Ato wa shinu hodo kitaeru! | あとは死ぬほど鍛える！ | After that, train like your life depends on it!
+ato | あと | afterward
+~wa | は | topic marker
+shinu hodo | 死ぬほど | to an extreme degree (literally enough to die)
+kitaeru | 鍛える | to train, strengthen
+
+> Inosuke-kun nara kantan ka to omotte ita no desu ga. | 伊之助君なら簡単かと思っていたのですが。 | I thought it would be easy for you, Inosuke.
+~Inosuke-kun | 伊之助君 | Inosuke (name)
+~nara | なら | if
+kantan | 簡単 | easy
+~ka | か | question marker
+~to | と | with; quotation marker
+omotte ita | 思っていた | had thought (omou + past te iru)
+~no desu ga | のですが | polite lead-in
+
+> Ichiban ouen shite imasu yo. | いちばん応援していますよ。 | I'm cheering for you the most.
+ichiban | いちばん | most, number one
+ouen shite imasu | 応援しています | am cheering for you (polite ouen suru + te iru)
+~yo | よ | emphasis
+
+> Nani mo tsuraku nakunatta. | 何もつらくなくなった。 | Nothing hurt anymore.
+nani mo | 何も | anything (with a negative: nothing)
+tsuraku | つらく | painful (adverbial form of tsurai)
+nakunatta | なくなった | ceased to be (past of nakunaru)
+
+> Zainin ka nanika na no desu ka? | 罪人か何かなのですか？ | Is she a criminal or something?
+zainin | 罪人 | criminal
+~ka | か | question marker
+nanika | 何か | something
+~na no desu ka | なのですか | polite explanatory question
+
+> Iwarenai to nani mo dekinai no shokuji mo sou yo. | 言われないと何もできないの食事もそうよ。 | She can't do anything unless she's told, even eat.
+iwarenai | 言われない | is not told (negative passive of iu)
+~to | と | with; quotation marker
+nani mo | 何も | anything (with a negative: nothing)
+dekinai | できない | cannot do (negative of dekiru)
+~no | の | of; links nouns
+shokuji | 食事 | meal, eating
+~mo | も | also, even
+sou | そう | so, like that
+~yo | よ | emphasis
+
+> Hitori no toki wa kono kouka wo nagete kimetara ii wa yo. | 一人のときはこの硬貨を投げて決めたらいいわよ。 | When you're alone, you can toss this coin to decide.
+hitori | 一人 | one person, alone
+~no | の | of; links nouns
+toki | とき | time, occasion
+~wa | は | topic marker
+kono | この | this (before a noun)
+kouka | 硬貨 | coin
+~wo | を | object marker
+nagete | 投げて | throw (te-form of nageru)
+kimetara | 決めたら | if you decide (conditional of kimeru)
+ii | いい | good
+~wa yo | わよ | gentle emphasis
+
+> Ore mo shinisou datta shi aite mo sugoku tsuyokutte… | 俺も死にそうだったし相手もすごく強くって… | I almost died too, and my opponent was incredibly strong.
+ore | 俺 | I, me (rough, masculine)
+~mo | も | also, even
+shinisou | 死にそう | looks about to die (shinu + sou)
+~datta | だった | was (past of da)
+~shi | し | and; gives a reason
+aite | 相手 | opponent
+~mo | も | also, even
+sugoku | すごく | very (adverbial form of sugoi)
+tsuyokutte | 強くって | was strong, and (emphatic te-form of tsuyoi)
+
+> Ore no karada wa kawatta. Hayaku katana wo furitai! | 俺の体は変わった。早く刀を振りたい！ | My body has changed. I want to swing my sword soon!
+ore | 俺 | I, me (rough, masculine)
+~no | の | of; links nouns
+karada | 体 | body
+~wa | は | topic marker
+kawatta | 変わった | changed (past of kawaru)
+hayaku | 早く | early, quickly (adverbial form of hayai)
+katana | 刀 | sword
+~wo | を | object marker
+furitai | 振りたい | want to swing (desire form of furu)
+
+> Karada wa mou daijoubu desu kara anshin shite ninmu ni maishin shite kudasai. | 体はもう大丈夫ですから安心して任務に邁進してください。 | You're physically fine now, so devote yourself to your missions.
+karada | 体 | body
+~wa | は | topic marker
+mou | もう | already; any more
+daijoubu | 大丈夫 | all right
+~desu | です | is (polite ending)
+~kara | から | because; from
+anshin shite | 安心して | relax (te-form of anshin suru)
+ninmu | 任務 | mission
+~ni | に | to, at; target marker
+maishin shite | 邁進して | push forward devotedly (te-form of maishin suru)
+kudasai | ください | please do (request form of kudasaru)
+
+> Shitte iru koto ga aru kamo shiremasen ga. | 知っていることがあるかもしれませんが。 | There might be something he knows.
+shitte iru | 知っている | know (shiru + te iru)
+koto | こと | situation, thing
+~ga | が | subject marker
+aru | ある | to exist, be present
+~kamo shiremasen | かもしれません | might (polite kamo shirenai)
+~ga | が | subject marker
+
+> Arigatou Nezuko hagemashite kureta n da na. | ありがとう禰豆子励ましてくれたんだな。 | Thanks, Nezuko. You were encouraging me.
+arigatou | ありがとう | thank you
+~Nezuko | 禰豆子 | Nezuko (name)
+hagemashite kureta | 励ましてくれた | encouraged me (hagemasu + past te kureru)
+~n da na | んだな | confirming an understanding

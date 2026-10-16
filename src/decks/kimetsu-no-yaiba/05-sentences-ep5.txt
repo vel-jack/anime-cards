@@ -1,0 +1,127 @@
+# Sentences: Episode 5 | Short lines from My Own Steel
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Sore wo tsukete iru sei de minna kuwareta. | それをつけているせいでみんな食われた。 | Wearing that got all of them eaten.
+sore | それ | that
+~wo | を | object marker
+tsukete iru | つけている | are wearing (tsukeru + te iru)
+sei | せい | fault, cause of something bad
+~de | で | at, with; means marker
+minna | みんな | everyone
+kuwareta | 食われた | were eaten (past passive of kuu)
+
+> Niichan wo kamikoroshichatta n da. | 兄ちゃんをかみ殺しちゃったんだ。 | I bit my big brother to death.
+niichan | 兄ちゃん | big brother (familiar)
+~wo | を | object marker
+kamikoroshichatta | かみ殺しちゃった | ended up biting to death (kamikorosu + contracted te shimatta)
+~n da | んだ | explanatory ending
+
+> Katta yo mou anshin shite ii yo. | 勝ったよもう安心していいよ。 | We won. You can relax now.
+katta | 勝った | won (past of katsu)
+~yo | よ | emphasis
+mou | もう | already; any more
+anshin shite | 安心して | relax (te-form of anshin suru)
+ii | いい | good
+~yo | よ | emphasis
+
+> Oni ni natta hito wo moto ni modosu ni wa dou shitara ii n da? | 鬼になった人を元に戻すにはどうしたらいいんだ？ | How do I turn someone who became a demon back to normal?
+oni | 鬼 | demon
+~ni | に | to, at; target marker
+natta | なった | became (past of naru)
+hito | 人 | person, people
+~wo | を | object marker
+moto | 元 | original state
+~ni | に | to, at; target marker
+modosu | 戻す | to return something to its former state
+~ni | に | to, at; target marker
+~wa | は | topic marker
+dou shitara | どうしたら | what should I do (conditional of dou suru)
+ii | いい | good
+~n da | んだ | explanatory ending
+
+> Sono ato wa kaikyuu wo kizamasete itadakimasu. | そのあとは階級を刻ませていただきます。 | After that, we will mark your rank.
+sono | その | that (before a noun)
+ato | あと | afterward
+~wa | は | topic marker
+kaikyuu | 階級 | rank
+~wo | を | object marker
+kizamasete itadakimasu | 刻ませていただきます | will mark with your permission (kizamu, causative + humble itadaku)
+
+> Ohanashi wa sumimashita ka? | お話は済みましたか？ | Has everyone finished talking?
+ohanashi | お話 | conversation (polite hanashi)
+~wa | は | topic marker
+sumimashita | 済みました | finished (polite past of sumu)
+~ka | か | question marker
+
+> Tabun sugu shinimasu yo ore wa. | 多分すぐ死にますよ俺は。 | I'll probably die soon.
+tabun | 多分 | probably
+sugu | すぐ | soon, immediately
+shinimasu | 死にます | will die (polite shinu)
+~yo | よ | emphasis
+ore | 俺 | I, me (rough, masculine)
+~wa | は | topic marker
+
+> Tamahagane nante hajimete miru shi… | 玉鋼なんて初めて見るし… | This is my first time seeing sword steel.
+tamahagane | 玉鋼 | traditional sword steel
+~nante | なんて | something like
+hajimete | 初めて | for the first time
+miru | 見る | to see
+~shi | し | and; gives a reason
+
+> Dono oni mo matomo ni kaiwa dekiru joutai ja nakatta. | どの鬼もまともに会話できる状態じゃなかった。 | None of the demons were in any state to talk properly.
+dono | どの | which, any
+oni | 鬼 | demon
+~mo | も | also, even
+matomo ni | まともに | properly, coherently
+kaiwa dekiru | 会話できる | can converse (potential of kaiwa suru)
+joutai | 状態 | state, condition
+~ja nakatta | じゃなかった | was not (past negative ending)
+
+> Omae nande kyuu ni neru n da yo? | お前なんで急に寝るんだよ？ | Why are you suddenly falling asleep?
+omae | お前 | you (rough)
+nande | なんで | why (informal)
+kyuu ni | 急に | suddenly
+neru | 寝る | to sleep
+~n da yo | んだよ | emphatic explanation
+
+> Oni ni wa ikutsuka shurui ga aru. | 鬼にはいくつか種類がある。 | There are several kinds of demons.
+oni | 鬼 | demon
+~ni | に | to, at; target marker
+~wa | は | topic marker
+ikutsuka | いくつか | several
+shurui | 種類 | kind, type
+~ga | が | subject marker
+aru | ある | to exist, be present
+
+> Ore ga Nezuko wo mamoru kara. | 俺が禰豆子を守るから。 | I'll protect Nezuko.
+ore | 俺 | I, me (rough, masculine)
+~ga | が | subject marker
+~Nezuko | 禰豆子 | Nezuko (name)
+~wo | を | object marker
+mamoru | 守る | to protect
+~kara | から | because; from
+
+> Sou iu imi ja nee. | そういう意味じゃねえ。 | That's not what I mean.
+sou iu | そういう | that kind of
+imi | 意味 | meaning
+~ja nee | じゃねえ | is not (rough ja nai)
+
+> Koryaa katana mo akaku naru kamo shiren zo. | こりゃあ刀も赤くなるかもしれんぞ。 | This sword might turn red too.
+koryaa | こりゃあ | this (contracted kore wa)
+katana | 刀 | sword
+~mo | も | also, even
+akaku | 赤く | red (adverbial form of akai)
+naru | なる | to become
+~kamo shiren | かもしれん | might (contracted kamo shirenai)
+~zo | ぞ | forceful emphasis
+
+> Mochinushi ni yotte iro ga kawaru no yo. | 持ち主によって色が変わるのよ。 | Its color changes depending on its owner.
+mochinushi | 持ち主 | owner
+~ni yotte | によって | depending on
+iro | 色 | color
+~ga | が | subject marker
+kawaru | 変わる | to change
+~no yo | のよ | explanatory emphasis

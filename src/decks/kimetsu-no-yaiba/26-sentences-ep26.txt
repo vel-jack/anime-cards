@@ -1,0 +1,141 @@
+# Sentences: Episode 26 | Short lines from New Mission
+# format:
+#   > romaji sentence | japanese | english
+#   word | japanese | meaning          (one line per word, in sentence order)
+#   ~particle | japanese | meaning     (~ = shown in the breakdown only, no card of its own)
+
+> Ano onna wo chuushin ni kuukan ga yugande iru you da. | あの女を中心に空間がゆがんでいるようだ。 | It looks as though space is warping around that woman.
+ano | あの | that over there (before a noun)
+onna | 女 | woman
+~wo | を | object marker
+chuushin | 中心 | center
+~ni | に | to, at; target marker
+kuukan | 空間 | space
+~ga | が | subject marker
+yugande iru | ゆがんでいる | is warping (yugamu + te iru)
+~you da | ようだ | it is like
+
+> Koube wo tarete tsukubae. | こうべを垂れてつくばえ。 | Bow your head and prostrate yourself.
+koube | こうべ | head (literary)
+~wo | を | object marker
+tarete | 垂れて | lower, hang down (te-form of tareru)
+tsukubae | つくばえ | crouch low! (command of archaic tsukubau)
+
+> Koutei shite mo hitei shite mo korosareru. | 肯定しても否定しても殺される。 | Even if I agree or disagree, he'll kill me.
+koutei shite mo | 肯定しても | even if I affirm (koutei suru + te mo)
+hitei shite mo | 否定しても | even if I deny (hitei suru + te mo)
+korosareru | 殺される | to be killed (passive of korosu)
+
+> Watashi wa mada oyaku ni tatemasu. | 私はまだお役に立てます。 | I can still be useful to you.
+watashi | 私 | I, me
+~wa | は | topic marker
+mada | まだ | still, yet
+oyaku | お役 | usefulness, service (polite yaku)
+~ni | に | to, at; target marker
+tatemasu | 立てます | can stand (polite potential of tatsu, here be useful)
+
+> Ima no omae no chikara de dore hodo no koto ga dekiru? | 今のお前の力でどれほどのことができる？ | How much can you accomplish with your current strength?
+ima | 今 | now
+~no | の | of; links nouns
+omae | お前 | you (rough)
+~no | の | of; links nouns
+chikara | 力 | strength, power
+~de | で | at, with; means marker
+dore hodo | どれほど | how much
+~no | の | of; links nouns
+koto | こと | situation, thing
+~ga | が | subject marker
+dekiru | できる | to be able to
+
+> Watashi ga tadashii to itta koto ga tadashii no da. | 私が正しいと言ったことが正しいのだ。 | What I say is right is right.
+watashi | 私 | I, me
+~ga | が | subject marker
+tadashii | 正しい | right, correct
+~to | と | with; quotation marker
+itta | 言った | said (past of iu)
+koto | こと | situation, thing
+~ga | が | subject marker
+tadashii | 正しい | right, correct
+~no da | のだ | explanatory ending
+
+> Watashi wa yumemigokochi de gozaimasu. | 私は夢見心地でございます。 | I feel as though I'm dreaming.
+watashi | 私 | I, me
+~wa | は | topic marker
+yumemigokochi | 夢見心地 | dreamlike feeling
+~de gozaimasu | でございます | is (very polite ending)
+
+> Sore ni tsuite wa watashi mo onaji iken da. | それについては私も同じ意見だ。 | I share that opinion.
+sore | それ | that
+~ni tsuite | について | about
+~wa | は | topic marker
+watashi | 私 | I, me
+~mo | も | also, even
+onaji | 同じ | same
+iken | 意見 | opinion
+~da | だ | is (plain ending)
+
+> Oretachi shuppatsu suru yo. Iroiro arigatou. | 俺たち出発するよ。いろいろありがとう。 | We're leaving. Thanks for everything.
+oretachi | 俺たち | we (rough, masculine)
+shuppatsu suru | 出発する | to depart
+~yo | よ | emphasis
+iroiro | いろいろ | all sorts of things
+arigatou | ありがとう | thank you
+
+> Shiji saretenai koto wa kore wo nagete kimeru. | 指示されてないことはこれを投げて決める。 | I toss this to decide things I haven't been instructed about.
+shiji saretenai | 指示されてない | have not been instructed (contracted shiji sarete inai, passive of shiji suru)
+koto | こと | situation, thing
+~wa | は | topic marker
+kore | これ | this
+~wo | を | object marker
+nagete | 投げて | throw (te-form of nageru)
+kimeru | 決める | to decide
+
+> Kanao wa dou shitakatta? | カナヲはどうしたかった？ | What did you want to do, Kanao?
+~Kanao | カナヲ | Kanao (name)
+~wa | は | topic marker
+dou | どう | how
+shitakatta | したかった | wanted to do (past desire of suru)
+
+> Omote ga detara Kanao wa kokoro no mama ni ikiru! | 表が出たらカナヲは心のままに生きる！ | If it's heads, Kanao will live by her own heart!
+omote | 表 | heads (of a coin)
+~ga | が | subject marker
+detara | 出たら | if it comes out (conditional of deru)
+~Kanao | カナヲ | Kanao (name)
+~wa | は | topic marker
+kokoro | 心 | heart
+~no | の | of; links nouns
+mama | まま | as, in accordance with
+~ni | に | to, at; target marker
+ikiru | 生きる | to live
+
+> Hito wa kokoro ga gendouryoku da kara. | 人は心が原動力だから。 | The heart is what drives people.
+hito | 人 | person, people
+~wa | は | topic marker
+kokoro | 心 | heart
+~ga | が | subject marker
+gendouryoku | 原動力 | driving force
+~da kara | だから | because it is
+
+> Omote ga deru made nando demo nagetsuzukeyou to omotteta kara. | 表が出るまで何度でも投げ続けようと思ってたから。 | I planned to keep tossing it until heads came up.
+omote | 表 | heads (of a coin)
+~ga | が | subject marker
+deru | 出る | to come out
+~made | まで | until, as far as
+nando demo | 何度でも | as many times as needed
+nagetsuzukeyou | 投げ続けよう | keep throwing (volitional of nagetsuzukeru)
+~to | と | with; quotation marker
+omotteta | 思ってた | was thinking (contracted omotte ita, from omou)
+~kara | から | because; from
+
+> Ore to Nezuko wa doko e iku toki mo issho da. | 俺と禰豆子はどこへ行くときも一緒だ。 | Nezuko and I go everywhere together.
+ore | 俺 | I, me (rough, masculine)
+~to | と | with; quotation marker
+~Nezuko | 禰豆子 | Nezuko (name)
+~wa | は | topic marker
+doko | どこ | where
+~e | へ | toward
+iku | 行く | to go
+toki | とき | time, occasion
+~mo | も | also, even
+issho | 一緒 | together
+~da | だ | is (plain ending)
