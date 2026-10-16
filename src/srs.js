@@ -4,8 +4,8 @@
 // What is saved per card is only how it was last swiped, which is enough to
 // rebuild the pile in the same spirit (in a new shuffled order) next time.
 const KEY = 'anime-cards:v2'
-const MIN_GAP = 2 // a missed card never comes straight back
-const MAX_GAP = 10 // ...but is never buried deeper than this
+const MIN_GAP = 5 // a missed card gets a little breathing room
+const MAX_GAP = 15 // ...but is still reviewed within the next handful of cards
 
 function load() {
   try {

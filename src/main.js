@@ -466,6 +466,8 @@ function flyOut(known) {
   const el = app.querySelector('.card')
   if (!el || busy || !current || !isFlipped()) return
   busy = true
+  // Give supported phones a tiny tactile confirmation; desktop browsers ignore it.
+  navigator.vibrate?.(known ? 12 : [8, 24, 8])
   const card = current
   const dir = known ? 1 : -1
   el.classList.remove('enter')
